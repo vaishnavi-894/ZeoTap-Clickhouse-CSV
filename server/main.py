@@ -1,11 +1,4 @@
 
-"""
-FastAPI backend for the ClickHouse Connector Flow application.
-
-This is a skeleton implementation that would need to be completed for production use.
-The frontend currently uses mocked data since we're setting up a prototype.
-"""
-
 from fastapi import FastAPI, File, UploadFile, HTTPException, Depends, Header, Body
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse, JSONResponse

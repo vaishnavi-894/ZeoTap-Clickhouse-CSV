@@ -1,0 +1,501 @@
+event_id,user_id,event_type,event_timestamp,page_url,session_id,browser,os,device_type,country,city,page_views,time_spent,is_conversion
+06a1a220-50e4-4673-bd46-11ac66c8b83f,amanda92,click,2023-02-22 22:16:51,/product/73,80e197a6-8609-4789-aefe-a5a75e2dd02e,Edge,MacOS,desktop,UK,Caroltown,5,17.46,True
+f6e07d64-c8e0-45bd-abe7-72aa06ed1067,michaeloconnor,purchase,2023-12-04 12:40:03,/product/60,3ee6f93e-4bbd-40d9-87cf-930b083dbd58,Chrome,iOS,desktop,IN,South David,5,114.63,True
+4427efbe-7a61-475e-b5d8-1a623193368f,stanleyjames,add_to_cart,2023-07-19 03:40:13,/product/4,cb00f70c-4491-484c-82dc-d7e83d362b07,Firefox,Android,mobile,IN,Faulknerborough,10,4.72,False
+4f717ef1-344b-4352-af31-c6b1ea71d309,jonesmaria,click,2023-08-12 22:33:53,/product/65,3d7ea671-7924-4f56-85dc-ca2281f0e0d4,Firefox,iOS,tablet,AU,New Thomas,7,26.99,False
+72992c98-6459-493a-9aa5-16ce9eb7eeff,martinezjoshua,page_view,2023-03-23 14:01:05,/product/86,20f68399-7141-457e-8915-500f2f679f22,Edge,iOS,tablet,UK,North Aaron,9,83.86,True
+0988ae26-33d5-44cd-aa98-c3229f71588d,bennetttina,add_to_cart,2023-10-31 13:46:46,/product/1,8a9295f1-776e-4707-8b6f-836df21c4a32,Safari,Windows,desktop,CA,East Damonhaven,4,61.28,True
+df97c19d-ae51-4ae2-a01f-fc5817868851,cantushane,add_to_cart,2023-03-27 23:36:37,/product/8,d011e937-e027-44d3-827a-616d8fe30064,Firefox,MacOS,mobile,UK,Riosside,19,60.93,False
+3a5e79fc-bdcb-4abd-9936-c2755d743457,melissa37,purchase,2023-02-11 15:15:19,/product/98,11909c74-e297-4295-8cbc-8d00dd217ce6,Safari,iOS,tablet,UK,Port Dawntown,2,58.72,True
+d178bf6a-406c-47d8-8ef4-0e641af3c058,pthomas,click,2023-08-05 06:35:47,/product/91,bd30b44a-f9ef-45b5-9204-349a9eb60df7,Safari,Windows,tablet,IN,Michaelbury,4,101.52,True
+5dbee8b1-c68c-4e57-8f68-997dd342e675,cindybrown,click,2023-01-04 20:19:10,/product/43,d35364d2-a3f1-4b8c-9873-5ca2786cdec0,Chrome,Windows,desktop,IN,South David,15,100.26,False
+346b7538-c5a6-4b04-a670-c82274e9512d,hancockmatthew,add_to_cart,2023-10-10 23:36:57,/product/74,ec0a41b9-5210-4550-9aab-20c172b7344f,Firefox,MacOS,tablet,CA,Riverastad,9,10.25,False
+fcbe998a-2456-4fcc-9d0f-074e118a8f6a,lhughes,page_view,2023-08-21 04:37:25,/product/65,6245a9b8-82c3-4575-a0b5-dfe21a6a3082,Firefox,Android,desktop,CA,Lake Tanya,1,59.64,False
+71776ad9-4f3f-4dc4-9982-fe90b385a67c,ykelly,click,2023-05-16 13:24:33,/product/81,4b258e62-e9b8-40e6-a71d-2e0cd5af1a0d,Firefox,MacOS,tablet,UK,Matthewburgh,17,73.4,True
+72deefe0-7e7b-4d7e-83c0-27534c3a24c1,randy85,click,2023-11-23 14:27:41,/product/54,4168b49f-5e1b-4a10-97e5-55b299a7e1bb,Firefox,Android,tablet,CA,Colemouth,16,100.54,True
+875d5fdd-685a-42a9-83d1-cd0cedc383e7,gregory09,click,2023-12-15 15:15:16,/product/75,c81dc2ee-7e03-4b39-9316-2861d54fe357,Firefox,iOS,mobile,AU,Lake Mary,8,87.58,False
+d34295af-85aa-47fa-9ae5-77d2a2215723,alisonwagner,purchase,2023-11-29 03:23:46,/product/2,d0841112-a7a1-4d41-8d42-da81bb75065b,Edge,Android,tablet,UK,Lake Wesleyberg,15,88.51,False
+a9de0fe0-43c1-4553-bd47-995245483b2d,torresbrandon,page_view,2023-01-26 20:34:54,/product/91,1eba06c4-1149-4800-ba2b-e736aad8b5b5,Safari,MacOS,tablet,IN,Rubenmouth,9,117.5,False
+39dd12fa-425b-478f-b926-977ec72c8bd1,ibuchanan,purchase,2023-07-31 11:50:10,/product/2,bd065834-7c2f-412c-bd7f-9a7dabdf4ecc,Edge,Windows,mobile,IN,Rileybury,1,23.17,True
+1651fb17-6ef2-4db8-93e1-dc08f369639b,jotorres,add_to_cart,2023-05-07 02:13:45,/product/17,f232845b-d7b8-4efa-a5e2-d097fbf893d2,Firefox,Windows,mobile,CA,Fordtown,4,39.98,True
+40651ba2-054b-4e8d-9539-9445e21de529,laurenramos,add_to_cart,2023-09-18 04:35:42,/product/4,b5e7a386-2387-40d9-a74b-890cdd0a2a0b,Chrome,Windows,tablet,US,Fitzpatrickburgh,7,59.02,False
+7d8e37ff-15bd-483d-b93f-76054b57b9c9,iortiz,click,2023-09-28 16:21:42,/product/97,c52ad403-e07b-496d-be32-d5df1c6a3998,Firefox,iOS,mobile,US,Harperstad,20,57.43,True
+66804811-166d-44ea-866b-8800ec9fa4e8,rodriguezshannon,add_to_cart,2023-05-21 04:57:21,/product/67,dcf65185-652a-4e29-bff1-fb11c1074e4f,Firefox,iOS,tablet,CA,North Wendymouth,11,107.11,False
+8d32cf2b-f2c5-4c59-a77d-e2a561873430,lauralane,click,2023-06-15 03:53:14,/product/54,4ccd5d09-7b58-4469-afde-f642051d81a5,Chrome,iOS,tablet,IN,Port Dianestad,5,65.4,True
+4d4ca9ca-b5bf-42ae-bc6b-a7aab8cd169e,donaldmanning,add_to_cart,2023-04-03 19:04:45,/product/39,dcc4cc59-3df6-43e0-8dab-c1e087d28c73,Firefox,iOS,tablet,CA,Kurtshire,8,52.27,True
+62a54b11-a401-498f-b992-db4c5add7459,jamie09,add_to_cart,2023-04-04 21:22:54,/product/28,c8e4d8e4-c5a3-4b1d-aed1-aee066c4babb,Edge,MacOS,tablet,IN,Rosemouth,16,50.14,True
+3c5981b4-3bc2-4e18-8af3-9535c883bc89,wilsontaylor,click,2023-07-10 07:11:10,/product/33,34221f02-507f-4d80-8fde-b77719ca2dce,Edge,MacOS,tablet,AU,Kellerport,1,67.99,True
+e4eed269-0973-4a0a-ad56-2df3814bbcc3,daniel00,page_view,2023-03-29 08:35:57,/product/42,d73d0016-6ff3-4be4-9ed8-447c91be3176,Safari,MacOS,tablet,US,Lake Susanchester,15,48.01,True
+cb06d335-bb48-4347-8171-1a4fcff5d2db,morrowbrendan,click,2023-09-08 14:55:06,/product/38,435d3749-61ea-4351-87ca-e37e8d93c65c,Edge,MacOS,tablet,IN,Kimberlyside,3,117.51,False
+7e93a9e2-47fd-4753-94d1-93e45def6cfd,derrick42,page_view,2023-12-30 00:00:55,/product/30,6eb9c493-ddaa-4285-9866-2dd78bf38c88,Safari,iOS,desktop,AU,Josephville,13,98.42,True
+909b9354-fd24-4643-8dcb-2fcecf76c429,nicholasevans,click,2023-07-11 06:10:42,/product/66,de5828b5-4f5b-4e24-900e-ed2bc0c0fead,Edge,Android,tablet,US,South Paulhaven,19,66.05,True
+8aa23bba-889a-494c-aecd-77527486764f,joneschristina,page_view,2023-05-18 23:06:09,/product/32,4ff36964-ecbe-4dcc-a6ce-d34bcaacee7d,Edge,MacOS,mobile,CA,Lake Paul,1,11.14,True
+b6564be0-cb0b-4fb5-b22b-a2890a74263c,unelson,purchase,2023-03-02 20:48:18,/product/50,ee5a2e78-dc06-4299-95ea-5ca3b3bad3e6,Safari,iOS,tablet,AU,Port Sierraside,10,100.54,False
+0869721e-dc56-436b-90a2-98650866d997,williamthompson,click,2023-03-21 23:40:43,/product/4,45d0cdff-2969-4dc2-bd87-35027817f85d,Firefox,MacOS,tablet,AU,North John,15,80.6,True
+0f83f39d-42cc-4f56-acd1-6d3d9f2d01ed,imitchell,click,2023-08-02 11:33:42,/product/20,4a3f6900-f179-400e-a0a5-563663eed4b6,Edge,Windows,mobile,AU,Watsonfort,13,111.23,False
+54e9c100-02bc-4779-b3d9-8374be7b40cc,williamsjoshua,page_view,2023-01-18 10:24:30,/product/17,9e5b9d48-f007-4407-bbac-cbb38fc912c3,Safari,MacOS,mobile,IN,Mclaughlinshire,1,102.69,True
+0d52771d-9a0e-4d5b-8548-361dd71ce863,anthony15,click,2023-03-21 00:20:19,/product/77,83453159-2189-40ac-a8cb-6c29f128dada,Edge,iOS,mobile,UK,Chandlerburgh,10,104.98,False
+31fb10bc-9c69-418b-bd00-cad0d65ee2f4,shirleyowens,add_to_cart,2023-08-09 03:37:52,/product/64,edf926d8-8e3b-4e48-bb9c-b3671d957b85,Firefox,Windows,desktop,IN,Michaelberg,17,23.97,False
+f22ece05-4e50-408a-a2cb-4e8a40d1cb6e,adam13,page_view,2023-01-08 10:54:41,/product/65,e4fcb25d-a0dc-44ba-96ee-728c3cd51360,Chrome,Android,desktop,IN,Ashleyburgh,14,46.21,True
+0afcea12-b952-4485-88ef-9715febd75e1,crystal47,click,2023-05-13 10:52:23,/product/26,9dd961e6-9670-465d-8979-47a89684efc9,Edge,MacOS,tablet,CA,New Sherry,5,105.46,False
+61f33a3e-babe-4cd6-bca2-1fdf48e437ad,mruiz,page_view,2023-02-04 15:32:25,/product/52,24b72a53-d882-4447-96ba-b2653b7be959,Edge,MacOS,mobile,US,Hintonport,1,12.91,False
+96446a3f-e8be-4c28-a059-c4863a12fd0b,amooney,purchase,2023-01-13 01:24:56,/product/16,e9e2317e-24f7-4b4f-98bd-1fead4b8817f,Firefox,MacOS,tablet,IN,Smithtown,6,114.43,False
+1d1802ab-6fee-4a2a-be1f-f0c06f016fad,christopher65,purchase,2023-05-23 05:51:23,/product/3,e5038ca3-5382-488d-a350-77085a5a1b81,Edge,MacOS,mobile,US,Lake Douglasville,17,110.25,False
+e6cad233-5d81-457e-b847-e87e4e8b3a1f,scottcatherine,page_view,2023-06-09 06:56:58,/product/57,8a93e5cc-3f26-4f01-9bdf-bbedbbc6e4f1,Edge,Windows,desktop,IN,West William,6,61.44,True
+6b4e0acf-2a44-4fef-ac94-503f15f4388b,habbott,page_view,2023-08-23 22:14:36,/product/79,bad64bce-69d8-4da7-b8e2-654686074d45,Edge,iOS,tablet,AU,Lake Jennifer,16,72.37,True
+c188c52f-dcc7-45e2-be9d-f21812d0e496,elizabethclark,purchase,2023-12-26 06:20:01,/product/59,b159087f-6d79-4c48-985a-282d27c7c9c5,Safari,Android,mobile,IN,North Christinechester,15,111.77,False
+2206b901-68df-4090-b12c-cd28e31ed700,josephcindy,click,2023-03-21 08:24:41,/product/27,be251341-12cc-41ba-97a4-79ad2919a732,Edge,MacOS,desktop,CA,Samuelmouth,13,106.31,False
+7c59c812-ac3f-46d3-83e1-e059c8142f7a,tyoung,page_view,2023-08-29 23:45:05,/product/22,867d5ad4-7771-4ccc-bbec-e416b801abb0,Safari,Android,mobile,CA,Carrbury,9,26.49,False
+5fade166-f884-4ae1-8448-610558034e81,stevenperez,click,2023-08-04 10:00:05,/product/70,17f45b2f-0603-4dfb-bfbe-dfff67455fe8,Chrome,iOS,mobile,US,Morenoport,20,46.12,True
+51dba969-5c16-4a95-b160-e24db70b3794,jamesaustin,add_to_cart,2023-12-01 04:33:27,/product/37,a637bb42-a702-46d0-98c0-43f4be57d8fc,Firefox,Windows,tablet,US,East Jordanchester,6,58.42,False
+85a889bc-dbf5-456b-a97a-13b965fac53d,toddrobinson,click,2023-10-06 09:10:52,/product/5,f64985dc-6128-4f32-b957-012ccfd429cc,Safari,iOS,tablet,IN,Thomasburgh,5,40.48,False
+ec4def00-5a50-4c2c-ae28-aca44d62a03b,vanderson,click,2023-05-12 00:59:24,/product/76,fa0e1cf4-818f-47e8-b835-3b53bb335e60,Edge,iOS,tablet,AU,West Tonyachester,14,20.08,False
+262c1b86-ade1-4b0a-b78b-d423664896a0,william32,click,2023-08-11 15:30:49,/product/8,86e12130-9db7-43f6-a998-1a348329fd14,Firefox,Windows,mobile,CA,Lake Tamaraport,15,6.32,True
+42bdbee3-e7a0-4fe2-8ee4-35f77bfd20a1,stevensonrichard,click,2023-05-16 23:11:23,/product/36,85c0d9ef-a04c-4083-9520-37348ec5ca91,Firefox,MacOS,mobile,US,Kerrberg,18,49.99,False
+763da244-a169-43af-825a-02773c19477b,arnoldryan,add_to_cart,2023-05-06 18:33:14,/product/95,67f6c981-6dbe-4218-a37b-7c7e92dc108b,Firefox,iOS,mobile,IN,Margaretville,19,63.22,False
+4e61ee19-5812-4bdd-8892-0a285367d6a1,catherine93,purchase,2023-08-03 11:35:27,/product/2,96550c2a-a8c6-4d3e-becc-0323446e5366,Safari,MacOS,tablet,CA,New Joshuaburgh,1,96.58,False
+f4244369-fb59-4cde-9b8e-38a70db3cefc,lromero,page_view,2023-09-20 19:50:56,/product/76,44f64e5d-f1fa-426b-a9d0-effb8d851bc0,Safari,iOS,desktop,CA,North Patriciaberg,9,44.91,False
+406c0dcf-56db-413c-b8ee-0f29c05a9292,cjacobs,page_view,2023-05-17 04:05:57,/product/100,78c6f0d0-1ffe-443f-b5c7-618ca7575081,Safari,iOS,tablet,US,Frenchmouth,14,49.95,False
+474514fc-6826-4990-bfd4-41582b771cc6,hortonmegan,click,2023-12-10 01:41:44,/product/67,27f054d8-a851-414e-8dbd-ffdc617793b8,Safari,MacOS,mobile,CA,Foxmouth,4,119.04,True
+efb4eca7-04bd-4e6c-8625-4866434a8fac,isimon,page_view,2023-06-20 21:59:57,/product/87,28a6256d-d2e0-4e66-882a-5cb3323f3c8b,Firefox,iOS,mobile,US,Shafferberg,9,44.75,True
+eeeaa20c-31d3-4e00-ab47-4562392ac395,huffmanmichael,add_to_cart,2023-02-25 06:23:10,/product/80,2f2df18f-8197-47f1-9300-8952caabe25f,Safari,Android,desktop,UK,New Joy,13,114.83,False
+68063e26-cf97-470f-aa09-17d1bd42599e,eedwards,add_to_cart,2023-06-18 17:18:26,/product/53,95642d69-44ff-4dc7-afcd-35dc837254e1,Chrome,MacOS,tablet,CA,Lake James,8,67.82,True
+fa49bfd2-5eaa-46f2-9472-86ce85c9fe07,bradley83,click,2023-12-15 10:08:39,/product/13,a9900051-7411-4dc6-8a84-a2655402b5de,Edge,Android,tablet,UK,Lake Jeffreybury,17,106.59,False
+14222e4f-e511-4dbe-bb5b-9dce973f9a1e,josephcarter,purchase,2023-10-16 08:56:55,/product/68,59641972-18ce-4de0-9ec7-b399d5729ca8,Edge,iOS,mobile,CA,Port Georgechester,2,46.22,True
+74f1ce31-0ff4-47ca-b668-e705fce98e32,xmoore,add_to_cart,2023-06-27 08:14:42,/product/82,4f31c6fa-9112-4e05-809d-f49f93177dfd,Firefox,iOS,mobile,AU,New Richardland,14,82.71,False
+693b9022-5750-475c-90f6-42286488ac92,pateljulie,purchase,2023-11-20 17:52:21,/product/52,1b974e95-a4b9-46a4-98c6-b9cd34147842,Chrome,Android,mobile,IN,South Sarahview,6,46.76,True
+1b20b23b-4188-48a8-97b8-9f1fe4a7245b,victor03,page_view,2023-10-13 03:09:09,/product/37,88a6b4d4-0369-490f-a69b-66b1f87273d8,Chrome,Android,tablet,IN,New Rodneyport,7,28.31,True
+40d5c426-a4dc-4842-9dd3-97b58cc64068,trowe,click,2023-10-10 17:15:21,/product/49,b94f8198-51c8-4033-b2f9-65e944c1dcd2,Firefox,Windows,tablet,US,Kellybury,12,26.58,True
+15384966-96f4-43cd-a5ec-a0acae909425,spencerharper,page_view,2023-02-20 08:29:18,/product/65,d24c0bc7-db9b-4c47-b0e9-3943a73b5f07,Firefox,MacOS,desktop,US,Whitneymouth,20,33.06,False
+91faf3e1-b4e0-475b-b09d-df04c985a53c,danielmitchell,purchase,2023-09-24 05:05:41,/product/12,bd78d3b7-83a1-416a-be3a-936de446f29c,Safari,MacOS,desktop,US,West Stephen,17,53.99,True
+42273fc4-26db-429c-b6fb-aa89da48326b,feliciahall,click,2023-01-30 23:40:32,/product/44,a7fe8c29-ecc0-4239-981a-04b3198fd995,Chrome,iOS,tablet,US,Wallacechester,5,87.71,True
+5764625d-ae11-4147-9d32-61688af848b6,wrightlisa,purchase,2023-12-16 08:09:02,/product/64,05527197-f91c-4407-8935-2ff08fa7d67d,Chrome,MacOS,desktop,CA,Loriberg,18,77.99,False
+4e4c4093-d67c-4a0b-bcea-2d28279a82e9,gabriel77,add_to_cart,2023-12-26 13:58:47,/product/92,08244c36-5d35-4872-afb4-b663922503ff,Edge,Windows,desktop,CA,Longland,4,26.5,True
+0efb335a-7c49-42f5-8f41-7acd7214741f,ihatfield,add_to_cart,2023-02-21 11:05:04,/product/92,d50a82e6-9234-4296-bd2f-f4240935408e,Chrome,Windows,tablet,CA,Port Rebecca,20,37.92,False
+3696da62-a552-4321-8226-1ff9ff21929e,elizabethpark,add_to_cart,2023-03-28 16:00:04,/product/31,689c5c48-cd4c-4f37-9f59-ed795e8b083b,Edge,MacOS,tablet,CA,Elliotttown,11,31.41,False
+7c8b8760-0507-4b21-80de-695db639d6de,ruizrobert,purchase,2023-05-20 21:59:39,/product/69,073d7215-8719-4c37-be35-09d3a1461432,Edge,MacOS,mobile,US,Burtonberg,2,52.77,False
+460eda65-6953-4b5d-8a0d-8892f2804660,mossmichael,add_to_cart,2023-11-21 16:40:19,/product/34,1dd0505b-a0ec-4c03-8792-862a01728c99,Chrome,Android,desktop,CA,West Alexmouth,20,105.8,False
+cc54e5e7-9ef1-4acc-94b5-3a7f54511618,evan67,click,2023-10-21 22:16:41,/product/29,a5041604-68be-48e9-b697-53194df0331f,Edge,MacOS,desktop,AU,Traceyview,3,66.21,True
+17bcda2c-ba6b-4745-a9b5-87a5e2d7b82e,cheryljordan,page_view,2023-10-02 02:25:38,/product/58,f67d494c-4646-4923-b6d9-0050e29a6eb7,Firefox,iOS,desktop,UK,New Susan,2,1.01,False
+bd160618-9408-492d-9950-59e04242c3fa,hardintodd,click,2023-12-26 04:11:16,/product/61,dd2df0db-8865-420a-a08a-d2fcd9ac1fc5,Safari,Android,tablet,US,Gutierrezmouth,4,51.31,True
+c0a91d0c-7aa1-4e38-9864-4d66b7a669e8,mcgeepaul,add_to_cart,2023-12-08 14:22:44,/product/81,c1c54b8e-7d2c-4f2f-bd4f-34d7c31d315b,Safari,Windows,desktop,US,Ariasburgh,7,59.74,True
+d33e2906-2f6c-4a0b-a5c6-59540c4349ab,bmiller,click,2023-08-21 23:52:53,/product/14,8d70c8b5-1e9a-4e97-b1db-82ff119e712f,Chrome,MacOS,tablet,CA,Jasmineland,20,25.05,False
+2bd7a5ed-389b-443d-a3f7-fe421c08d02a,apena,page_view,2023-12-27 13:49:51,/product/9,18d0acc6-7290-4443-bac1-21bbb764afb6,Chrome,Android,desktop,AU,Jacksonstad,11,106.85,False
+c56c349a-1277-4181-a88e-03f12b9ac46d,jacobsmith,page_view,2023-10-10 14:26:16,/product/23,57f97d7a-e71b-4e6c-8e9f-ddd67f3fc005,Chrome,Android,tablet,UK,East Juliehaven,7,4.6,False
+d3e359a0-70b3-4242-a891-da77bfb7a764,maria10,add_to_cart,2023-08-15 01:14:04,/product/49,f85f5487-0755-4129-8adb-85ba5ca83d47,Edge,iOS,mobile,AU,Obrienview,1,35.23,False
+b2c3fa51-c524-4cb8-ad74-dbc662438a07,edgar32,add_to_cart,2023-11-05 05:23:57,/product/48,216d5825-1382-4869-a393-676ba4ae8a87,Firefox,Android,mobile,CA,Duffyburgh,6,110.91,True
+6cee500f-f902-475e-8cca-2d2673c52956,taylor08,add_to_cart,2023-09-16 02:41:00,/product/5,ed787282-11e8-4938-a458-22fdd5e9d430,Chrome,Android,mobile,AU,Port Justinview,12,77.7,False
+bc025aad-17f9-49a5-aac1-51e8fe6f3e1d,david64,page_view,2023-05-19 15:01:07,/product/17,f11418c0-c327-4171-a151-88e14bd43232,Edge,MacOS,tablet,AU,Andrewbury,6,38.93,False
+3a72a38e-3e0e-407b-bed1-4383c5dd5d47,ritakim,page_view,2023-12-15 07:32:48,/product/80,3e8e754e-1997-40f8-9a72-19d304dea7c3,Firefox,Windows,desktop,UK,Williamberg,9,33.49,True
+f51bfb38-e018-48d4-97c0-5a70954fec1b,gbutler,click,2023-07-31 13:51:51,/product/75,4a8b560f-1f0c-4d4e-93c3-6d5eb1ce11ce,Safari,Windows,desktop,IN,Dorseyberg,6,81.95,True
+d67e08a0-ee24-478a-8bf5-f84c99cebc68,karenburns,page_view,2023-03-10 06:06:15,/product/83,fcff715d-a450-4d15-9059-ffbb52f1ce0b,Safari,MacOS,mobile,IN,Nelsonview,14,94.95,False
+e15e5a43-e67f-4e1d-ae5e-0cd65e1b19ac,michael85,page_view,2023-10-13 19:29:07,/product/46,4dfdf582-18f1-41f0-8650-ce925c5c361d,Chrome,iOS,tablet,AU,North Danielleland,9,24.14,True
+d483b35c-1da5-434d-991d-1c6f6a363bb4,taylorcarlos,page_view,2023-03-14 00:32:59,/product/68,c030bf7e-f5b1-4b44-89f0-10cd7ba7b67b,Firefox,Android,tablet,AU,New Wandabury,3,115.14,True
+2d3b5cc5-5607-496f-b419-a081d37cfa54,gbryant,add_to_cart,2023-07-04 10:42:16,/product/20,ac6e7394-4176-4fa7-ab6f-18370112f698,Edge,Android,desktop,CA,Aliciachester,19,73.89,False
+b4293966-137d-4fae-a575-44bdcc4469ed,jack52,page_view,2023-11-22 14:45:02,/product/91,1ad4f13e-aa3a-4fc7-8c86-c3c7ae07285f,Chrome,MacOS,mobile,UK,Hallfurt,12,100.89,True
+29157866-c4b3-45c5-8a10-b611b2960755,lisa96,click,2023-02-02 09:55:35,/product/40,3138b2e2-7a1b-4034-8910-e4663d81becb,Firefox,iOS,mobile,IN,North Brenda,8,83.15,False
+6d0677b6-63bf-40fb-ae25-eb8c8fa45459,smithashley,add_to_cart,2023-09-29 02:48:08,/product/21,51c0ca59-f4ca-4f90-98c4-a2ab31700046,Safari,Windows,tablet,CA,Washingtonside,19,6.9,True
+b9e41d30-f967-46db-a290-ea8df68b5023,joygraham,purchase,2023-07-13 18:06:31,/product/35,16b06bdb-4cd2-4d4e-9b61-78858f3d2d0f,Chrome,Windows,mobile,CA,Millershire,6,34.51,True
+21475c7b-f694-41ab-ad1a-5aa7345a3ab4,swright,add_to_cart,2023-02-18 16:42:07,/product/25,7d2f2c1b-6ed2-4f79-8575-1a17c0e7c1a2,Firefox,Android,mobile,UK,New Dakota,9,98.7,False
+47192891-1ad0-487c-bf35-86b67ee2fb07,collinsnoah,click,2023-09-02 14:57:16,/product/89,a21fb7e7-8a38-4b85-a205-88518b03ed79,Safari,Android,mobile,UK,Harrisside,3,7.72,False
+a6250f04-dd74-413b-b188-fc8700b2856c,edwin78,click,2023-01-29 15:22:01,/product/59,29545c08-ed20-4e26-94f8-07308b6090c9,Safari,iOS,tablet,IN,South Alexfurt,6,77.16,False
+bd2f6656-2e5a-4d84-abdb-f44c013fe732,duncanmaria,add_to_cart,2023-02-21 20:03:41,/product/10,1ed7d243-fa49-49bc-9867-adc6052bb367,Safari,Windows,tablet,UK,Glassburgh,7,3.64,True
+acb05899-c612-4d25-86be-33ee4b502298,carrillogary,page_view,2023-03-13 09:58:48,/product/22,9a634375-3eb2-47fa-9537-b2dc48754a7b,Firefox,iOS,tablet,IN,Boyerfort,6,102.35,False
+2d8d6dd5-a787-4bb3-b317-e466cd440aab,marshallmelinda,add_to_cart,2023-08-19 07:46:52,/product/30,224f1872-0855-4685-a119-02641ab9a2b2,Firefox,MacOS,mobile,AU,Jeffreymouth,8,1.69,False
+4ea89f8c-ff4b-49c2-ab31-7cf932ae7e55,rodneylogan,add_to_cart,2023-02-16 17:38:30,/product/83,2ba18ace-2d7c-48c6-97f5-74ed119eb4f1,Firefox,MacOS,mobile,CA,Daniellefurt,8,68.77,False
+237aa860-65bb-4f03-922b-94f6e4989fc0,starkjoseph,click,2023-08-26 20:39:01,/product/95,a8afd52a-70f0-42a7-be30-4ee5d44b6832,Safari,Android,mobile,UK,Johnstonborough,13,63.53,False
+0314f8c6-71bd-4e0d-bed7-c96bbdd1ab9e,rodgersmitchell,add_to_cart,2023-11-19 14:34:42,/product/58,a09f4186-e84a-40f0-a75b-d89b32638e9f,Edge,iOS,desktop,AU,Popeville,16,61.01,False
+bd5af96f-e150-4b66-99f4-866ed976373d,larry02,click,2023-02-23 22:37:12,/product/60,3e7ee921-33ce-46b7-86af-2f0b496ab91b,Firefox,MacOS,mobile,IN,Patrickview,4,112.89,False
+b2f31652-3753-42d9-8da4-d632b2821282,nicolelozano,click,2023-12-13 17:57:57,/product/3,1be73adf-acad-49ea-8b75-ad334def1469,Safari,iOS,mobile,AU,Lake Melissa,6,108.44,True
+ec1d69f9-e9ac-46eb-9d7f-2a419f805853,aprilstevens,click,2023-09-03 08:16:27,/product/6,238a0854-9569-4582-b2aa-2fdc1f8feeec,Edge,Windows,tablet,IN,Joshualand,8,48.02,True
+03d946f9-e2c8-4eff-ad1f-392efc3ba046,williamsmichael,click,2023-12-22 08:29:18,/product/62,efb27cbe-27c4-46d7-a57a-9ff29df25c50,Edge,MacOS,desktop,IN,East Amy,16,89.98,True
+5d66481d-bb3d-4545-a37b-04c7f381a3b6,garymcgee,add_to_cart,2023-10-09 13:17:18,/product/58,2c7fed1b-bbd6-4979-a49e-9a77c14437bd,Chrome,Windows,tablet,UK,North Maria,5,113.01,True
+076dd3ea-76f7-4e9e-8c1e-759f98818814,olsonvicki,purchase,2023-03-08 09:36:00,/product/5,e7f9ec7f-97ee-47c9-9e23-c126e4063250,Firefox,Android,tablet,UK,North Katelynton,5,6.52,False
+fc1faebe-c463-465e-80ec-c9bcd1deb1f0,kthornton,purchase,2023-02-28 09:01:20,/product/87,d0fd267f-2e45-4731-828e-1e4c4ac7b8a4,Safari,MacOS,desktop,CA,Seanburgh,3,6.73,True
+780c1571-8271-4116-bd9f-7e9d89f0aa4d,qstevens,click,2023-04-17 12:06:28,/product/95,46ed9b57-f62d-4ebd-807e-a3dbc235f567,Safari,MacOS,tablet,CA,Port Rachel,2,58.32,True
+cf2733b7-8263-420e-befa-333d0f30eede,gutierrezblake,purchase,2023-01-09 20:05:06,/product/2,4a1e828c-a22d-4571-8068-3e58833a166f,Firefox,iOS,desktop,UK,Port Karlaland,3,28.2,False
+8cd13a86-b13e-4df8-8cdd-be87a91665f0,gdaniel,add_to_cart,2023-07-11 01:12:33,/product/94,dbba5646-e5f0-402f-83aa-4f3ddd0dad1e,Chrome,Windows,tablet,AU,North Heather,14,81.22,True
+ad1b755b-ccbb-4911-af89-74b282d7ab45,antonio62,purchase,2023-10-26 15:38:16,/product/31,a939c63e-8c8f-4e2f-8965-87afbd4123a3,Edge,MacOS,mobile,AU,Susanshire,3,78.17,True
+731d88bf-8170-4737-a2ad-bc0b7072aeb1,cunninghamrobert,add_to_cart,2023-09-17 05:41:45,/product/91,6436e5dd-6e1c-47c2-810f-ff6ace0e8567,Edge,Android,desktop,IN,Douglaston,4,24.58,False
+bbf4481a-f337-41ab-bff5-be6330773dac,halldebra,click,2023-02-13 05:38:31,/product/94,eb3765f8-6758-4ac4-bcbe-ccee90f08454,Safari,iOS,desktop,UK,East Jennaton,14,103.04,False
+2d14908c-5a7a-42a4-937e-10646bf122e8,millerjohn,purchase,2023-03-02 15:34:20,/product/71,d1a1fd74-e382-4031-ace8-d3485e55f5a3,Firefox,Android,mobile,UK,Port Regina,14,84.26,True
+faba12b1-48dc-4008-99a0-82d677d5e0cf,jessicascott,add_to_cart,2023-06-06 15:33:28,/product/58,e6648a09-16cc-423a-8bc2-649e3d8071fa,Edge,iOS,tablet,CA,Chambersborough,1,117.11,False
+ff80e5a4-ea9d-4520-8798-01f998c4d3c2,qlittle,click,2023-04-18 18:14:52,/product/56,c088f2ea-6095-4b13-87de-34f6d5106546,Safari,iOS,mobile,IN,West Caitlin,17,38.93,False
+f9faeceb-9bc8-4538-8d98-f75ded635501,njones,purchase,2023-10-22 23:13:21,/product/77,b33aeba9-5b39-4c80-b4e5-484fb00a6a0f,Edge,Android,tablet,CA,East Jill,11,117.65,True
+fc928857-3a57-4cf7-a60f-21f15462e7a9,joseblack,purchase,2023-07-27 05:16:04,/product/50,ea5a893f-b282-40ad-832c-f5cc227655b0,Edge,Windows,desktop,CA,Port Annettehaven,20,75.92,False
+43600f5b-2abc-4ba4-aa31-d2743ff222cf,gutierrezjames,add_to_cart,2023-05-28 20:10:15,/product/2,32df9769-f7f0-4324-a8ff-235c38b5d655,Chrome,iOS,mobile,US,East Sean,17,50.05,False
+156b35a8-8b0a-4b99-916d-c5e6b029d3ac,dale83,add_to_cart,2023-06-28 02:16:00,/product/56,23c3ff69-598e-49df-8b05-be298594e12b,Chrome,MacOS,mobile,UK,East Amyborough,3,72.04,True
+6f76cd5c-746f-4f22-8bbf-2055f989e68a,smithmichael,page_view,2023-03-01 04:50:15,/product/76,162de3aa-8e96-4c05-adf2-445d3648e958,Firefox,iOS,mobile,US,Kristyshire,7,84.52,False
+bb0e651f-4b64-4a15-8361-173adfa1e87f,wbradley,page_view,2023-08-30 09:29:35,/product/7,c3bf2172-4829-4b77-8f4f-6a0fb59f9bf9,Edge,MacOS,tablet,US,Lake Steven,18,14.16,False
+7cff1bc1-b5bd-49a1-86ce-6be85b5dbd8f,nvargas,add_to_cart,2023-06-16 22:58:51,/product/10,533269a5-2099-4102-bc3a-4690c195db60,Chrome,Android,tablet,US,Belltown,20,107.29,True
+1d675b7a-752e-448b-980d-09cba5e9dd09,browndavid,click,2023-07-14 19:39:19,/product/94,a2ee448d-e830-4dd2-bf12-674e6455dcc7,Chrome,Android,tablet,US,Newmanview,15,73.27,False
+715df30f-f2df-4733-a78b-439b437b1132,brittany33,purchase,2023-06-10 16:58:33,/product/36,06e91df8-e1c0-48e8-bf90-ebd11f48c111,Safari,Android,tablet,US,Hensonshire,15,16.08,True
+c5f4024f-1ddd-4c72-944d-cf1e44e42ae4,paulmyers,purchase,2023-12-23 15:50:09,/product/21,2e38b4ae-050f-4b93-a62c-ff86086211c7,Chrome,iOS,desktop,CA,West Rebeccamouth,7,67.82,True
+33d6a553-8d7c-4101-abba-bfa7967e6d65,nicholassmith,purchase,2023-03-24 17:04:35,/product/55,c47f4442-4833-4d57-9856-3fe28a6bbb39,Firefox,MacOS,tablet,AU,Meganfort,17,73.56,False
+90c55b2e-cbe0-4b96-b5b1-efccf2ff75d7,chenshannon,page_view,2023-05-03 16:00:14,/product/91,da2761ea-b2ae-4fb2-a59c-4232eb7f0ba3,Safari,MacOS,desktop,AU,Kylemouth,7,116.32,False
+e4cc2785-844d-4074-a5dd-fd1e500e98f6,matthew67,page_view,2023-10-20 04:58:17,/product/51,dc6cf612-2d20-40c2-9210-0808977267fa,Edge,iOS,tablet,IN,Port Jennifer,5,25.73,False
+ee9f0ad3-35f2-4809-b55d-74a1c4111b52,ryanwest,click,2023-09-30 01:32:18,/product/60,ac2a595d-9f8a-4a02-b2bc-df76b82de329,Chrome,MacOS,mobile,CA,Snowborough,12,27.08,False
+2162b6e5-d611-45d5-8e00-77ab54dbce17,kwoods,add_to_cart,2023-01-03 13:11:45,/product/74,5f9993ba-f36e-4067-8990-63909feb9a1c,Firefox,MacOS,tablet,IN,Miguelstad,10,85.52,False
+b58d51e9-e837-49ae-9027-abd0bacbb0d9,njenkins,page_view,2023-12-07 04:32:50,/product/45,491b9004-3299-4d3a-86cd-02cedc6a830a,Firefox,iOS,mobile,IN,Butlerburgh,7,54.95,False
+bab641bc-b001-4a97-a949-b9c4147b4b84,zfrey,page_view,2023-01-21 13:05:37,/product/25,bd18c286-ab4c-439f-82c4-a8f147c5ba1d,Edge,MacOS,desktop,IN,Lake Beverlystad,9,18.83,True
+adabf82f-3512-4584-bfdc-5f22774a0d84,freemanamber,click,2023-06-22 05:41:55,/product/55,5708e3eb-ca92-44d9-9444-d5f70ab20844,Chrome,MacOS,mobile,UK,New Natalie,17,59.79,False
+7b7e8525-c49e-4517-bd8b-d9c038e8ae80,rhonda93,click,2023-02-15 13:24:45,/product/70,ab3eb4f1-bfb4-4a53-90a4-60f06da9f80a,Edge,MacOS,desktop,US,New Regina,1,24.69,True
+183a8208-2f5c-4c0b-b754-1c8330aafa9a,smithashley,purchase,2023-02-22 13:37:58,/product/76,cadda8e5-0d2c-4fc7-9826-b753ae8e06f3,Edge,Android,mobile,CA,Deborahfurt,15,15.59,False
+9d8ec813-b5b8-4425-9b68-9ebb8cc4ae8a,shannon72,click,2023-08-29 01:59:22,/product/100,0ab9bffe-b024-4aa7-adce-9d11dd996a22,Safari,Android,tablet,AU,Grantburgh,20,51.23,False
+3b6c8e25-e94a-4a6e-8d00-97b1561d3a55,carrillonicholas,page_view,2023-08-26 12:51:15,/product/6,caf6c962-a649-4fa5-a937-211e7a77e416,Chrome,iOS,desktop,UK,North David,10,66.07,True
+44213f1a-b124-4950-82b8-4b692001469d,ralph18,purchase,2023-11-25 13:18:08,/product/45,1489da77-c446-4181-a918-38c40409b405,Safari,Windows,desktop,UK,Gordonmouth,15,117.84,False
+159b785b-2435-46a5-a082-16c5c2aecad8,veronica63,purchase,2023-05-10 23:41:11,/product/76,6b2343fc-3a75-4af7-a7fc-472414bf6cda,Chrome,iOS,desktop,UK,Johnstonland,13,31.51,False
+9a56fabe-0d25-4cd5-8915-f0ed43f747f1,morriswillie,page_view,2023-11-03 09:31:27,/product/1,c9ed5e14-6d15-49a1-bffe-d9da9ea1402d,Firefox,Windows,tablet,UK,Richardberg,16,74.1,False
+b60acad0-4560-41a5-9795-6b1c08906064,garmstrong,click,2023-03-28 07:54:24,/product/61,ce02dde5-7451-4eea-ae8d-30627fd59545,Edge,MacOS,mobile,CA,Port Patriciashire,18,104.43,True
+66a4a284-ae15-4df6-a077-d6920c2d2454,robertgreen,add_to_cart,2023-05-11 01:18:26,/product/78,14557aea-14ee-4181-9f08-1d441d8387e3,Firefox,Windows,tablet,IN,Calebville,11,38.8,False
+3a360b1b-fc90-4983-a520-612e876ce1aa,jenkinsalexander,add_to_cart,2023-01-11 18:47:13,/product/69,4601287d-6f30-402d-ab19-e098b901b906,Safari,MacOS,desktop,AU,Joshuaside,13,98.45,True
+f2f80147-40df-4c57-8e83-7791d92fa176,monica35,purchase,2023-05-10 12:11:23,/product/6,85384169-a9e5-42e8-acd6-d821532bcd15,Chrome,Android,desktop,IN,East Derricktown,3,90.83,False
+6a7ee39f-0802-4490-9652-4a3b97c618fd,xparker,purchase,2023-06-12 07:07:12,/product/24,c16dd77e-018c-46c5-a91f-7ef845b92fd5,Chrome,MacOS,desktop,IN,South Katherine,10,44.72,False
+1a80f6d4-a22b-4020-bbed-dc52a5dc1277,davidfernandez,purchase,2023-05-27 11:22:34,/product/85,f46d8a74-eace-4568-a111-355e72b64fc8,Firefox,Android,desktop,UK,Marissahaven,7,11.41,True
+08c905bd-9cf7-4f9c-8b01-078136f9522e,fischerelizabeth,purchase,2023-02-11 03:41:53,/product/79,0c1eaad8-3b65-47af-a547-095939d48771,Firefox,iOS,desktop,US,East Lauraland,5,107.5,True
+48098984-6fc7-4265-b486-faad762962bc,wbanks,purchase,2023-10-05 02:30:23,/product/47,6b224c09-a841-413a-8845-07e2b0693018,Firefox,Android,tablet,US,Ferrellberg,17,57.98,False
+14b6bd9e-de45-49c7-9cc2-f6b52697a28d,wendy33,add_to_cart,2023-09-11 17:47:22,/product/18,f957cbc4-f4b1-450a-86f3-70afa6adb1be,Edge,MacOS,tablet,UK,South Tiffany,10,76.76,False
+2b0fbcd6-5cae-4558-972f-a37e112217f2,williamcruz,click,2023-12-16 05:18:10,/product/34,6ba3c90a-f775-4b48-b3c0-cf88760801ca,Chrome,Windows,mobile,UK,New Brittany,6,28.56,True
+2fb62634-7dc9-4c83-af05-1d75dd6cb7f4,kathleenbrown,click,2023-05-12 15:04:45,/product/88,80ea4258-ff96-4525-a8a9-a01635398e36,Edge,iOS,mobile,UK,West Jason,10,74.16,False
+7745e8cd-feb0-447e-abc2-389b542dff4f,jeremiah48,page_view,2023-10-22 14:05:58,/product/84,13138ca1-09bd-4de6-b9ff-c830b5f61e33,Chrome,MacOS,desktop,US,Millermouth,4,99.69,True
+87ae04b6-0905-478b-a256-b1a658a04eee,russellrebecca,add_to_cart,2023-09-05 12:48:17,/product/51,f36c64fd-da60-4860-8ca4-ace4f78ea2dc,Chrome,Android,mobile,US,Davisburgh,15,4.31,True
+37829e09-d276-4a1d-80c8-feb3c2f3f269,henrylinda,purchase,2023-01-14 19:08:45,/product/54,ec09420f-8aef-4cca-b71e-9778b23564a2,Safari,iOS,tablet,IN,Janicemouth,3,65.56,True
+590a5ee9-2a5d-4f29-8e43-6059f8fa7bb8,kristen74,click,2023-02-17 18:55:03,/product/12,232ae7ff-688b-4be3-ae63-ff21333cff46,Chrome,MacOS,desktop,CA,North Tara,14,31.3,False
+301327bc-2eac-4246-a814-f55069c0e69b,robert58,click,2023-07-24 20:26:08,/product/75,07fd19d8-5acc-47c9-9195-ef5caede471f,Edge,Windows,desktop,CA,New Wendyshire,17,51.57,True
+ef5bb604-93ed-4c78-9072-1bc50c6d8605,brownscott,click,2023-09-28 22:20:32,/product/56,c4f72c10-b026-49e8-b1a7-f5ceb6024bb2,Safari,Windows,desktop,IN,Stevenport,20,52.61,True
+77535828-86d3-454f-82c4-2b70f69686da,kadams,click,2023-04-08 17:28:11,/product/28,962d65f0-e9f8-4650-88cd-f38f8de3c0f4,Firefox,iOS,tablet,UK,Mooreburgh,2,48.5,False
+51fc639c-0758-4119-96b6-672d92fc73d7,megan22,add_to_cart,2023-11-07 02:05:35,/product/95,f04fa3c9-fe6e-41a8-a234-b34fb5489383,Firefox,iOS,tablet,AU,Francomouth,9,118.04,True
+a64adaec-83b7-4e94-be32-fe35cc20bc0e,david05,add_to_cart,2023-11-18 09:19:54,/product/96,71f425b1-cfce-4789-ba6e-f85472a8c07e,Edge,MacOS,mobile,US,Carriemouth,9,43.81,False
+b4d0da9f-c5f8-45c9-ba3d-1b34c8fb3208,dylan83,page_view,2023-08-25 05:39:16,/product/74,1513d423-e04a-4549-b054-da3d12b60bc8,Safari,iOS,tablet,CA,Derekside,5,109.35,False
+7615ca52-f954-4106-8fb5-f30d1c0c4de6,marcusross,click,2023-09-28 15:19:41,/product/90,98284cda-f994-4137-9680-30193fea9dc7,Firefox,iOS,desktop,US,West Katiefort,19,93.9,False
+98e42f6b-0a74-4029-80e5-0d0612fed57c,clarkmark,add_to_cart,2023-03-09 19:16:35,/product/85,2c1e1908-1410-47fc-b5e6-11ba6592b917,Safari,iOS,tablet,US,Port Brian,6,6.15,True
+657d8200-278e-4805-af20-753ccbf1ac90,brandon67,add_to_cart,2023-04-27 04:49:20,/product/72,6a9c34fc-340b-4dd0-b3f1-0f755107df0b,Edge,MacOS,tablet,UK,Robinville,10,23.21,False
+dddab3c1-d4cf-4c95-99f1-2b15f93db476,jaredhatfield,page_view,2023-03-15 16:33:56,/product/31,f54c7dc9-94ff-4dc9-b678-68702f661823,Safari,iOS,mobile,UK,Port Kimberlytown,1,57.83,False
+f23faacc-c2ec-46ea-a69f-56e7d881fed6,omaxwell,add_to_cart,2023-10-02 19:45:06,/product/15,29d13658-0f2e-48f8-b8a4-fccda249982e,Chrome,MacOS,desktop,UK,Bautistashire,3,31.92,True
+d7da36f9-8aff-46af-bd44-3746a77a8346,wrightkatherine,add_to_cart,2023-08-14 22:33:39,/product/24,af5d8191-22fb-478d-8bdf-f6530df441c8,Firefox,Android,mobile,US,Jesustown,15,119.68,True
+04816cfc-e37d-43b9-92f2-999855333ffe,wwallace,page_view,2023-03-29 09:48:25,/product/43,e2c65f4a-3ba1-4f97-8488-5782dd44db23,Safari,Windows,mobile,CA,Johnmouth,2,91.11,True
+82f208f6-cb32-46db-b2f4-94830ae82563,kellyandrew,purchase,2023-10-20 19:14:11,/product/99,4750ad9e-ada7-4225-87f9-5ed6375fee2b,Edge,MacOS,mobile,US,Jessicafort,3,63.06,True
+2da9f2ca-8e9d-46c5-878f-2bf0f3bd0fa7,morgangibbs,add_to_cart,2023-04-21 00:22:24,/product/48,c091cca1-6032-4086-bdae-f601181641d7,Safari,Windows,desktop,AU,Christopherbury,19,50.57,False
+7ddf1f56-fcc9-4e40-af00-0443d2a63cfd,vbautista,click,2023-01-01 10:08:14,/product/9,a325f107-b51e-422f-80e9-5360249c0e0f,Edge,MacOS,tablet,CA,Kimberg,10,82.88,True
+b22c8e92-8a98-43f8-a75d-bacb5519378b,thoward,page_view,2023-04-10 04:22:42,/product/37,19e5693c-6aef-4a1a-b9ad-9c0fc2f05250,Chrome,iOS,mobile,US,East Bobbyport,1,66.35,True
+c876618a-afb7-4dba-a846-3949a4e1fabe,whiteshawn,page_view,2023-12-02 08:12:29,/product/65,afc1df56-6892-44c4-adb4-f373844a9ef5,Firefox,Windows,desktop,UK,North Sarah,15,28.26,True
+e7144ef7-0b38-49b9-8cee-f3b2522c8f2e,lsnyder,click,2023-09-20 19:53:06,/product/92,eb6a593d-741d-49ac-81f7-bb89b51f4116,Safari,MacOS,mobile,AU,South Gabriel,5,81.04,True
+c2226417-c65c-440a-b332-0b3aefd8001a,christian16,purchase,2023-08-29 20:12:54,/product/65,07367d3b-8995-4178-92d1-c53b17fa0a53,Chrome,Windows,mobile,AU,Singhville,4,43.8,True
+9871f7f8-0704-496a-bd59-e9381fed1dfd,marshmark,page_view,2023-08-24 16:22:32,/product/57,1d090ff6-bfba-4f81-85a8-b18a9b0b2f61,Edge,MacOS,tablet,IN,Edwinview,4,65.17,False
+8dc893ff-11ae-4905-9e2b-eda0692b9395,williamliu,purchase,2023-04-02 19:38:17,/product/16,3da7f5c4-660f-42af-99c2-6108fa50ad88,Safari,Android,mobile,UK,Williamhaven,13,72.1,False
+1d05ed6d-a764-46d3-8012-00ab0d7307e0,lynn44,page_view,2023-11-27 08:07:29,/product/54,3f95c897-c04d-4ea7-b2de-0737c8032a7f,Firefox,MacOS,mobile,US,Ericksonland,2,15.4,True
+0e69cc37-2c58-4aec-ad2b-f9d1022f3032,paulahill,click,2023-03-07 20:24:25,/product/75,219278a5-1438-4fee-993e-2cd0662020fd,Firefox,Android,tablet,IN,Washingtonport,7,27.12,False
+4c95b417-8122-4e93-bf12-aa998ab6a25a,alexanderferguson,purchase,2023-10-12 22:40:03,/product/35,a49bff4e-e88e-4519-bc50-1d2b8088e321,Chrome,MacOS,desktop,AU,New Rachel,17,90.95,False
+53303458-bc74-4bb1-897c-e00d33b1e3ed,brooksshannon,purchase,2023-03-04 11:03:56,/product/48,fee8159a-f11b-429c-9c66-856e3404f118,Edge,Android,desktop,IN,Padillatown,18,20.46,True
+a2a8fdda-6280-4141-8594-e250d8538137,michelleochoa,page_view,2023-05-28 08:11:44,/product/51,cef6effc-f9e5-4b17-bbc8-4d10e7675df5,Firefox,MacOS,tablet,CA,East Scott,1,31.12,False
+167a2d9e-9419-4ec4-9808-030729c05f2c,riverajennifer,page_view,2023-07-31 07:23:38,/product/58,3de60742-817d-460c-a470-19dfca9d6f67,Firefox,Android,tablet,CA,Port Mariahport,13,44.24,False
+d2a7cf77-8c0e-4b8f-aeac-f1098882b34e,kristen54,add_to_cart,2023-06-06 15:19:22,/product/12,a243145b-c48e-4c41-96b6-f67006b1b5c4,Edge,iOS,tablet,IN,Obrienland,14,46.32,False
+81ac785f-f6c2-42ca-ad17-a9f03fc6af91,leahfranco,click,2023-03-02 06:35:23,/product/9,5aec4cd8-1bb0-4ab0-93f3-93ac9ad648af,Firefox,MacOS,desktop,IN,Davebury,5,8.97,False
+b7bc5e82-2298-4a8c-bbc5-d6fc40a87fc6,mitchellsamuel,click,2023-06-11 16:03:47,/product/53,3f37f423-4481-451a-bd52-9a7d823aca94,Safari,Windows,tablet,IN,East Brittneyport,2,115.19,False
+0050fbbb-8685-4265-b005-211b0203334e,clarkmichael,purchase,2023-06-25 09:45:16,/product/39,39d90cfd-7958-4f51-9274-3b53d331a893,Firefox,Windows,mobile,AU,West Jasminemouth,6,27.71,True
+7da659e0-206f-450b-9f43-cf16b1717d79,burkematthew,click,2023-09-08 21:05:10,/product/86,6e33d096-5c3b-4258-b048-98f2b595d21d,Safari,Windows,mobile,US,East Pamela,17,33.4,False
+4b3c46e4-2685-43ba-af39-aa0f21e1497d,cnelson,page_view,2023-03-09 04:39:25,/product/33,fbab5ff8-ba4c-4dfb-8f75-8d18b76a1d7f,Edge,MacOS,desktop,CA,New Jacob,13,18.0,True
+ecdd9da9-3cc2-4965-8c63-38ca323c0d31,perkinssusan,page_view,2023-05-14 19:51:27,/product/97,258bccff-c96b-407f-8c38-cd9f2a6a0561,Edge,Windows,mobile,US,Callahanbury,1,56.45,False
+e8ed6475-55f6-42c5-b6d7-4ebfd485bcd0,jay62,add_to_cart,2023-09-29 05:31:55,/product/90,12f0ec24-ff2e-4a6c-8693-41fa633e963f,Edge,Windows,mobile,AU,Andersonton,9,30.41,False
+f71e4955-d9c0-4b30-a917-87d48d2b4e5c,lynn31,click,2023-09-15 03:15:14,/product/36,bcfb971d-ef12-4048-912c-328844a49569,Edge,iOS,mobile,CA,Christopherside,18,70.38,True
+4a0c1b8b-2ba1-4b0f-b0ca-e31cbee6075f,chamberskaren,purchase,2023-06-25 21:37:26,/product/12,a4091205-bcfd-4175-8943-648e104f93ff,Firefox,iOS,tablet,CA,Lake Maurice,7,70.8,False
+2f0240ca-fdcc-4f75-adfa-371918f6a883,lydiagreen,click,2023-01-03 17:12:09,/product/41,17f91948-5a8c-4993-b72d-c6d92683b9fc,Safari,iOS,mobile,IN,North Tammy,20,59.33,True
+5bdac6e3-18cf-47d8-b6fa-f67dd0af1bd4,zachary30,page_view,2023-09-16 14:35:54,/product/42,985688d6-aaea-4e86-8efa-7b0680458db0,Chrome,Android,desktop,IN,East Thomas,16,34.76,False
+ea990de7-b1b9-4e18-8d70-c5518b9c7bb2,barbara23,click,2023-02-28 02:29:15,/product/44,565d2335-61a5-4756-be51-a8a32172cf48,Chrome,Android,desktop,AU,New Tracie,11,50.7,False
+8c6fb121-4117-4784-9615-152744afbb83,michaelmcguire,page_view,2023-03-28 09:44:27,/product/32,7e4d242f-2152-455b-b5bd-fbca2cf233b8,Chrome,iOS,desktop,UK,North Jose,6,13.16,False
+9776ae9b-78a2-437a-8a9e-491d67301bd4,andrewsmelissa,page_view,2023-02-20 23:39:04,/product/54,008c49d7-5a7f-481f-8fc7-828f510947fa,Firefox,iOS,mobile,CA,Janetland,8,84.11,False
+14166b63-b83a-47d1-b058-5c9d4e52dc19,mary75,click,2023-11-02 07:27:40,/product/4,ed305c51-db99-4799-ba1f-af94bb2e1101,Chrome,Android,tablet,IN,Port Heatherview,17,92.47,False
+8880c707-1b5e-4b05-b0f1-ad7b58924dbf,fbarnes,purchase,2023-12-12 04:54:20,/product/26,5f24a5e0-7d9e-4761-9b26-5ddebdc39e86,Edge,MacOS,mobile,IN,West Davidchester,1,47.04,True
+b325484c-62bf-495b-b4e6-8449a2a6aeac,randallross,click,2023-10-07 15:35:57,/product/29,7c1da272-dfd8-4765-9617-1e04e07a6b4d,Chrome,Android,mobile,IN,Ernesttown,16,31.42,True
+38edc6bc-1d31-495b-a802-8fcd09b4e95c,kellywest,add_to_cart,2023-10-16 14:57:50,/product/93,2cc9b9c9-de45-41e4-93da-4d48d2ebca91,Firefox,Android,mobile,AU,East Dustin,14,92.16,False
+de933972-a545-475e-a96c-7b9fda13cb4e,lisa32,page_view,2023-08-20 07:59:44,/product/26,3ee87219-fb7a-4bbe-87de-79daf5a362d3,Edge,Windows,mobile,IN,Randybury,15,63.36,True
+f2a5fbdf-cc78-49ac-9d4d-1056dfdbdc08,rachel30,purchase,2023-08-28 06:02:10,/product/15,0840cccf-0da9-4637-a259-381fe6e68a9f,Firefox,iOS,mobile,UK,East Richard,20,29.9,True
+4f3ddfb1-2855-439d-8abb-25a9473de211,huynhvanessa,purchase,2023-01-05 04:42:21,/product/98,f3c5ee9f-35f8-49a6-ade3-cc57b8d90e7c,Edge,Windows,mobile,AU,East Jamesport,4,76.88,False
+8508d730-3d6a-4109-81fb-3941d02ae677,carriegibson,click,2023-11-01 13:12:50,/product/72,9c192e21-130d-42aa-a8a0-5addc64da619,Safari,MacOS,tablet,US,North Johnview,12,118.92,False
+2683514d-17b7-454a-b0ea-fcb44da71e21,williamburns,add_to_cart,2023-10-31 02:53:13,/product/27,09de7c17-8f18-4e64-bf45-3be266fe13f6,Firefox,iOS,desktop,IN,East Patricia,10,28.76,True
+f5e6b7ed-a717-4814-820e-f0cafcc9517c,ccox,click,2023-08-04 15:22:05,/product/47,d9ec363f-e467-4604-a0d8-6cf2d59ad47c,Edge,iOS,mobile,US,Franklinside,2,33.87,False
+d79a2f05-1159-4086-8c57-77459e68c6d9,dlopez,page_view,2023-10-31 20:06:49,/product/76,6f4acf17-c992-4680-9f4d-12901c2f1d84,Edge,Android,desktop,UK,Barneschester,12,27.08,True
+bd351944-6119-48c7-8564-3ea04e8dc7c9,paul59,add_to_cart,2023-04-04 01:45:11,/product/99,edae84f6-504e-466f-bfbc-0df0e339f83e,Safari,iOS,desktop,CA,New Tarachester,17,55.12,True
+9308c50e-cd26-43e1-8edb-8772d31a2457,fvasquez,add_to_cart,2023-01-30 22:25:21,/product/2,8d1d38b7-3bd7-40ab-a66a-8ce5ea2cc24c,Firefox,Windows,tablet,UK,Clarkside,1,46.06,True
+52d3ac97-08ed-4d99-bafd-c5df1d6b9486,timothyrollins,add_to_cart,2023-07-05 14:45:13,/product/79,d2bd2695-f9d4-4706-baad-83f8f38f37bc,Edge,iOS,tablet,UK,East Tammy,7,48.51,True
+b0613a89-8429-41b4-904f-0dc8e559cbac,chamberswilliam,purchase,2023-11-30 09:44:44,/product/10,6fe4b417-037a-4480-9965-4e399b22c758,Chrome,iOS,mobile,AU,East Paulhaven,5,74.0,False
+deed933e-15c9-4276-946f-02faa2ad7277,thomas19,click,2023-02-02 01:00:40,/product/2,1fe6f8b6-5d79-4073-ac60-371089f758fa,Edge,Android,desktop,US,New Jessica,7,116.78,False
+f50a624f-10c2-4e9d-905a-dbe6f62795c2,colechristopher,add_to_cart,2023-10-24 11:32:08,/product/12,1cbf59a6-09b9-48c9-a5d8-22f3d209c367,Chrome,MacOS,tablet,AU,Williamsville,17,82.67,True
+e66fa068-a021-4ab5-98ea-8704cfbfca89,jordan56,add_to_cart,2023-03-19 07:14:06,/product/87,fde96e7d-873b-4e73-ace5-fe18cb388d69,Chrome,Windows,mobile,AU,Russelltown,3,49.67,True
+5cd42437-f8bd-4f79-aa14-095ae545ff53,melissawarner,page_view,2023-12-15 01:12:54,/product/37,0fe03c39-1c65-4864-96b9-148cf410e7dc,Safari,MacOS,tablet,IN,North Julieshire,7,98.19,False
+7a5d7b2c-e386-4d33-b4b6-3c494c7c4a87,bryanboyer,add_to_cart,2023-05-28 03:43:24,/product/41,d301323f-7a83-4d53-8d64-9317b3d0c35c,Edge,Android,desktop,IN,South Jaime,9,37.16,True
+d6ed7971-5e2b-42dc-9275-e6cc724e47b2,leonardjohn,add_to_cart,2023-11-05 08:51:32,/product/92,4d6967e9-ff4a-4f66-af3c-12dbea1fa746,Chrome,iOS,mobile,CA,Raymondview,4,112.25,False
+077b91e3-cff5-4564-b41c-571401f16114,dsmith,click,2023-10-01 02:54:44,/product/70,51f27506-2f65-48bb-a4b0-c5c9ab0f4e20,Firefox,MacOS,tablet,CA,New Mary,9,14.57,False
+0085a4bc-4a61-4345-9e99-5e9c26cdebdc,martinezrachel,page_view,2023-05-22 20:39:01,/product/37,249a1b79-6a3b-485c-9d13-8e366f704374,Chrome,iOS,tablet,AU,Port Catherineview,14,19.21,True
+90987b25-e5b8-42da-99a2-61a72ddbdf4b,veronicarogers,click,2023-11-09 03:17:58,/product/34,fdcd1398-3bdb-42cb-9e54-ed193a39e12d,Edge,iOS,desktop,CA,Petersenmouth,14,99.15,False
+d7e48549-3e16-43e4-b189-d61b2d6da5f5,millsscott,purchase,2023-07-15 07:32:02,/product/71,e978b0bc-c14e-4454-b0c6-fc97c0a7e439,Firefox,iOS,tablet,UK,Kelleytown,11,50.32,True
+c77394a2-71db-498e-9182-1c0e15ca2941,tamara98,page_view,2023-08-20 04:52:23,/product/18,a4595688-7f45-4276-996e-441203f245fa,Edge,MacOS,desktop,IN,Stewartview,19,99.93,True
+1402d9c0-c7c8-437c-99f0-5929caba78c3,wilsonbrian,click,2023-12-04 11:01:19,/product/31,786ccf1c-6a8a-4e56-98f6-384ca1d72662,Edge,Android,tablet,AU,Brownmouth,14,117.55,True
+2be41746-6891-492b-8b9d-b8e4292a03e5,bjackson,purchase,2023-09-12 03:18:40,/product/1,ba16b079-f622-446d-b62a-39f1f91ce6a4,Edge,MacOS,tablet,US,Huntershire,2,98.22,False
+1e36892e-120a-463b-b3ac-3c4288d6c07b,rebeccakline,purchase,2023-06-03 10:57:43,/product/30,5f8c2331-33ba-44a4-a748-11e322bee7a7,Chrome,MacOS,mobile,CA,South Michelleside,15,29.24,False
+89e85752-4e26-4488-b6b4-179a88515942,amber61,click,2023-10-19 14:01:46,/product/25,ceb52f1a-65dc-4381-8bbc-23af7f30855f,Chrome,MacOS,desktop,US,Williamchester,2,12.39,False
+5ec37e56-b9a1-4ec0-8d20-0a311fcb6449,kristen79,page_view,2023-11-03 00:07:29,/product/94,fc9d8d8d-cc4e-4fdb-98f4-3adb531aa418,Chrome,MacOS,mobile,IN,South Joe,3,107.17,False
+e4534c93-b098-4aaf-89b4-810beb620715,karenconway,add_to_cart,2023-12-03 14:48:28,/product/28,1a98e60a-ede8-43e0-81c7-c4a654619a4e,Safari,Android,mobile,US,Michaelborough,12,25.61,True
+a6eff6f0-6072-4b85-ba29-9e1c5148de59,mstrickland,page_view,2023-07-02 17:52:18,/product/34,a9b61909-ce92-4f64-8178-70b432ab9701,Safari,Android,tablet,UK,West Benjamin,20,48.14,False
+98b12fd5-72d3-4f04-86d1-61cc5f8501c0,andrewstracey,purchase,2023-07-04 23:43:46,/product/88,f77693d9-d3de-4b05-8ebf-eac7c9633b72,Safari,MacOS,mobile,CA,Zacharyside,10,47.43,False
+8a4e6af2-3e2d-4f1b-91e0-83258a762e6c,marcnichols,click,2023-03-26 16:32:05,/product/93,221e38db-cf35-4004-9571-8de4f1eefbb3,Firefox,iOS,mobile,CA,Lake Johnshire,16,52.34,False
+4e8bfd90-f207-4c38-bbb9-436566349e13,robinhamilton,page_view,2023-09-05 02:54:16,/product/28,3a426a8c-d035-430f-90a8-bed7fa2c4c9f,Safari,Windows,desktop,IN,Lake Samuel,10,44.81,False
+2217eac1-b652-41f4-9092-b9eb9b139113,fieldskatie,click,2023-03-09 21:37:26,/product/42,56dba122-8d1e-4b8a-904f-31e31d4b7789,Safari,MacOS,mobile,AU,North Amanda,19,22.66,True
+d7eb5806-00ef-4ca4-a96d-d6d12dd979f7,fbrown,purchase,2023-09-21 08:51:53,/product/89,a701ae26-f42f-4288-9e01-e9c9d6f71ea2,Safari,iOS,desktop,AU,South Michael,15,114.85,False
+1b2e7e03-c1ca-436e-b4ac-6c113e4a61ab,david10,page_view,2023-11-26 12:18:57,/product/23,477e6f6b-e7c4-4938-b310-853c1eb87f35,Chrome,iOS,tablet,AU,Reynoldsbury,12,41.78,False
+2fe4b4a3-bc55-4cef-904d-02c1e1eb011d,smccoy,click,2023-12-19 14:34:05,/product/52,37ffc18c-414b-472b-8089-ef8cc3dcfca0,Edge,MacOS,tablet,IN,Melissashire,9,27.77,True
+611271e1-896c-41c5-8528-f58e07b085cc,yesenia97,add_to_cart,2023-01-19 07:26:59,/product/32,ec652000-81f7-4091-bbc4-6f731b1d4058,Firefox,iOS,mobile,IN,Jamesburgh,19,87.56,False
+45b27bf3-a02d-460c-966f-3e07439baee7,julie19,click,2023-12-03 00:43:55,/product/94,a9186cfc-2517-4be9-b647-01254400742b,Firefox,MacOS,desktop,AU,Abigailchester,1,45.39,False
+fec681d4-d29d-459e-b085-65ced853e19a,lewisallen,page_view,2023-06-17 12:15:55,/product/33,a4265fc7-7ee7-4cbd-a235-5b4fd02d2109,Firefox,iOS,mobile,AU,Phelpsview,11,23.24,True
+6601d219-df09-4a9d-83a1-e21d7a58eba5,sheila89,add_to_cart,2023-03-14 07:48:25,/product/78,5307665a-f4ee-4d51-b08d-28fc65ce2ef4,Edge,Windows,mobile,CA,Rodriguezburgh,3,37.45,True
+87285379-3867-4360-a6b1-66a8d0201559,rbrown,page_view,2023-01-16 22:52:21,/product/45,83ab739b-1b57-4716-b65d-26fef52e9054,Firefox,MacOS,mobile,AU,West Cynthiafurt,1,37.2,False
+02f87194-95e6-496d-a223-7f6f3027367a,garciatimothy,page_view,2023-08-30 08:59:37,/product/31,b9203501-5ef8-4704-aef8-87cb12aaa7d3,Safari,Android,mobile,CA,Port Yvonne,13,114.74,True
+29fd7673-6201-48bb-86f6-18fd93f97fbe,harrislindsay,add_to_cart,2023-11-06 18:20:56,/product/97,f544f6f4-b8ff-447f-a30e-7e6e37f7ab37,Chrome,MacOS,desktop,UK,Crystalburgh,13,108.91,True
+b79735f3-c365-46e7-9358-8b0d088204a2,arodriguez,page_view,2023-07-28 16:13:00,/product/24,1f12682c-5193-446f-9bc7-1018fd6d2279,Chrome,Windows,tablet,AU,New Richardmouth,6,90.17,False
+c6b8bceb-26c5-4fbc-bdc7-d9bc8e47c33a,ecervantes,purchase,2023-11-22 03:26:32,/product/23,8cc91847-dbfa-4a2a-bbb1-e46311bed47e,Edge,Windows,desktop,AU,New Theresamouth,19,93.91,True
+5ff37ef3-211f-41c6-86cf-6f63a6c500bc,cunninghamapril,add_to_cart,2023-01-09 11:28:52,/product/62,987f05e9-0ef5-4ac2-9719-dcfbdcf40e3e,Safari,iOS,mobile,CA,Cartermouth,4,86.63,False
+317088b5-9003-4bea-8af1-a43d8053e3af,jaymendoza,purchase,2023-11-18 16:17:45,/product/6,0c3d0216-bd5b-4e69-9f6b-d6826c186ef8,Firefox,iOS,mobile,IN,Port Danielview,12,60.99,True
+f30e0abf-145e-4aa6-a110-d2e453f34362,emily21,click,2023-12-24 02:37:41,/product/79,1297202e-de66-404e-aad0-50ccea5dc0b3,Edge,iOS,mobile,US,Aprilland,4,75.96,True
+63136abe-c0ce-4250-9d7b-a2a8473897c9,michaelwagner,add_to_cart,2023-12-24 01:35:27,/product/4,89e01e6d-a94c-49db-9d6a-5dbc073fd154,Safari,MacOS,desktop,US,Alexport,19,41.83,False
+6702b3a7-24a8-4d20-9e97-348095a0053e,johnburch,add_to_cart,2023-04-02 04:06:27,/product/67,c0ea8315-d116-4b2f-af27-1d491202d90b,Chrome,iOS,desktop,UK,New Gregorystad,2,94.22,True
+ec50b65a-8983-49fe-a42d-7656102676ce,alex35,page_view,2023-01-09 18:14:35,/product/84,fa2dc786-15fc-45c1-b810-4c2ac7e36234,Chrome,Windows,desktop,CA,New Noahport,4,1.86,True
+e442754d-2f4e-4763-aa41-637e1fd04379,jonathan28,purchase,2023-02-24 13:52:11,/product/10,cd87bb16-be3a-4783-90e6-d1ba2cf733e5,Safari,iOS,mobile,US,Jonathanberg,1,93.66,True
+36550131-0536-48c2-b45d-90631a99dfc6,wdoyle,add_to_cart,2023-03-12 05:42:30,/product/18,922a7ae4-9881-45f8-b992-8e068c0bc5fe,Firefox,iOS,mobile,IN,Brownshire,19,27.06,True
+b7a1f24a-d4ef-435a-9ba6-851418ca44a3,campbellmichael,click,2023-08-31 21:12:50,/product/47,ceeec2e3-9b9e-4015-b72d-3dfb8afcccdc,Edge,Android,mobile,UK,West Dianachester,13,39.31,True
+85f1853c-ff65-40f9-a0d4-fd03e79c40e2,taylor51,page_view,2023-03-08 04:19:19,/product/28,7aa4240f-ed4d-4451-922e-5c4136dd9764,Safari,Android,mobile,AU,Sandrashire,10,8.87,True
+6229bf82-3b97-4519-8cbb-af04dabc94f4,qjohnson,page_view,2023-04-04 23:02:27,/product/70,8e8198a9-c185-4467-aeb3-f366b08a871a,Chrome,Windows,mobile,CA,Michelleton,17,112.77,True
+041b68ab-274a-4ac6-809c-4505761ebdae,ryan99,purchase,2023-02-09 15:42:40,/product/46,938924ac-1e13-42d1-b9b0-ffb0ab7d8e0e,Firefox,MacOS,mobile,CA,Warrenton,20,9.8,True
+40428391-5f08-4f06-9fe7-662016fee85f,sclark,purchase,2023-09-12 15:16:16,/product/10,9a5147bc-b97a-4183-ab22-8b432abfff07,Chrome,MacOS,mobile,CA,Lake Ginaland,6,18.41,False
+1cfe6a5e-413f-4ad0-8452-77db231ed899,gonzalezsarah,purchase,2023-08-07 15:46:44,/product/28,e7180fab-a01d-493f-85f0-a1b17b305f64,Firefox,iOS,tablet,US,Walkerport,6,25.99,True
+7f55b5ad-5247-47fb-8adb-9cb4a08e721e,scruz,add_to_cart,2023-10-13 23:20:58,/product/45,a5715595-4356-41cc-b437-a5c402d479de,Firefox,iOS,tablet,UK,Baileyfort,9,101.61,True
+c8b579c5-34d0-465f-8d67-f075e489db0e,thomaslaura,purchase,2023-09-20 14:08:57,/product/29,dce07bea-7722-4a7e-a965-03c1e80cc597,Firefox,iOS,mobile,UK,Thompsonfurt,1,35.27,False
+4d9406b5-d9b0-4231-8154-25ede907e8db,coopermark,page_view,2023-07-30 04:56:31,/product/67,1508b0b8-e048-4aad-8605-2801be2d2205,Safari,Windows,desktop,AU,Valenciaburgh,14,90.05,False
+776ac692-a341-4409-8cbb-e2edaddc4a95,benjamin92,purchase,2023-11-05 21:25:16,/product/99,a98ed755-90b1-4ff1-8d11-052a12cc0504,Safari,Windows,mobile,AU,East Christian,14,35.22,True
+8ee481d7-04bd-4233-b077-f0e2847fc857,sarahvalentine,purchase,2023-06-18 13:01:45,/product/4,8233a577-e782-47ac-b84a-828f5774705f,Edge,MacOS,mobile,US,West Tonyastad,17,22.73,False
+17a1b08c-fdb8-4788-93f1-b92a27ce20dc,mphelps,purchase,2023-05-22 20:59:06,/product/96,08aea6d9-216b-4752-b039-f8b882ed5bbc,Firefox,Android,desktop,US,Wilsonborough,1,32.05,True
+5726aadb-71ec-4402-9930-c082a117d2a2,christian78,add_to_cart,2023-06-21 03:05:25,/product/85,2f0ef251-786e-412f-a2f3-dcf8c15c2094,Chrome,MacOS,desktop,UK,West April,17,39.33,False
+8c7c9e05-e346-4da3-a88a-c407d1596ff4,troy52,add_to_cart,2023-01-09 10:36:17,/product/24,0950ddc1-ccab-4c61-9ba5-058371e5c27f,Safari,Android,desktop,AU,Mooreberg,9,51.29,True
+3152629d-fad8-414d-9350-6d16b9b753bc,jessicajones,click,2023-07-02 05:07:03,/product/59,52f976dd-b5a8-4f8a-9cb4-cf21d62d956f,Chrome,Windows,mobile,US,South Daniel,14,86.59,True
+bef6f567-b0a6-4463-b2bb-bb618caa08e7,kelly91,add_to_cart,2023-11-04 02:24:15,/product/52,f2b9e211-4bc1-4546-950d-05f96ce5e268,Safari,Android,desktop,US,Lake Joanneton,20,11.03,False
+ae5d5eb2-199c-4c22-b43c-838991274e5f,qjohnson,page_view,2023-05-11 12:27:52,/product/29,49b66955-bd42-48b3-aa52-2a447f7a1046,Safari,MacOS,tablet,AU,Veronicatown,9,81.49,False
+b1204100-16eb-4159-a838-cf0c751fc3e3,sethbowen,purchase,2023-10-25 17:22:02,/product/35,27819053-e6dc-4b7c-8507-b72b64da5057,Edge,MacOS,desktop,IN,Lake Jeffrey,1,86.19,False
+09454208-d073-4042-81fb-57cc013aaff4,ecochran,add_to_cart,2023-12-05 04:54:11,/product/6,ca45f116-c1d6-448e-80f4-e80a93ca1a57,Edge,Windows,tablet,IN,West Stephanie,12,107.67,True
+04132bcb-15f8-4aea-9637-5a1256a43271,juliawood,add_to_cart,2023-05-24 10:24:21,/product/5,3f40b433-4dc6-4f99-ac7b-d4eee4c40a0f,Safari,Android,tablet,AU,Mcbridehaven,8,6.48,True
+bcc6bd45-83fa-45bc-9719-c3052820f607,qrivera,purchase,2023-01-15 17:51:57,/product/55,d36a77fc-44fc-49cf-ab48-64db4777f510,Chrome,Android,mobile,IN,Annside,12,11.72,True
+a30e8980-ee9b-4e32-ba0b-3343ecec2802,colleen22,purchase,2023-04-16 22:54:02,/product/99,67d8deb0-27df-4c45-a1fa-78f6a01e193d,Chrome,iOS,desktop,UK,Lake Willie,9,41.41,False
+84aa25d9-bc81-49b1-bc2f-2527ab7b7896,bryantyvette,page_view,2023-12-29 05:43:00,/product/13,a309cac4-19c2-49b3-9aaf-7ed1b320019a,Firefox,Android,tablet,US,Lake Andrewhaven,20,93.21,True
+8a2e053b-2c2d-463b-8abd-b7fc95f73f82,kelleykaren,purchase,2023-01-17 05:41:54,/product/34,13de5002-b1fc-4545-997b-034e13d76cac,Chrome,Windows,mobile,AU,Richardview,20,37.72,True
+84611848-40be-45c4-b799-d660122b043c,kayla43,page_view,2023-01-26 01:13:22,/product/64,3420299f-b6cc-47c7-8974-588051a29d30,Chrome,iOS,mobile,AU,West Benjamin,19,80.01,False
+7fa9f1bd-5ff9-4ea4-8588-ed83eb11eed5,michaeljacobs,page_view,2023-10-30 11:26:45,/product/85,1059176f-3437-4233-8fb3-440d96cb8240,Safari,MacOS,mobile,IN,New Wendy,2,13.94,False
+38e55d57-495b-438e-9b46-f429fbec80e0,ujones,purchase,2023-05-17 02:58:14,/product/57,cb04acff-20c2-4c86-842e-8dc086326532,Edge,MacOS,mobile,UK,Shawnland,3,3.82,False
+cb2c1a20-5f02-42ea-80ce-77ef527aa62e,nelsonerika,click,2023-05-15 11:09:46,/product/14,4046c264-4e33-431f-9982-a6586f7c21dd,Safari,Android,tablet,AU,South Deannaville,12,66.08,False
+4e6bf177-ec78-4a5a-adfe-0a95bb1ec55b,llee,page_view,2023-04-23 13:31:31,/product/80,59b2e479-eb90-492d-bec2-6a5bfbb65d46,Safari,MacOS,tablet,US,Cowanshire,3,96.06,False
+a57be4a4-fc7a-407a-afa9-14c481213e06,vwright,page_view,2023-10-21 17:59:57,/product/28,690bac54-0746-495b-bcb1-fcdd9e9c1f00,Edge,Windows,mobile,IN,Port Maureen,7,97.25,True
+e5a5dee1-1c28-4cec-b0e4-02f0bcf5487f,walterskyle,purchase,2023-10-05 11:33:48,/product/83,7e8b71c0-c7d5-4336-a4a3-a22d93bcd91b,Firefox,Android,tablet,US,East Elizabeth,18,62.89,False
+06022392-405f-40c3-8695-a3fbfad48444,ojohnson,click,2023-04-30 02:52:20,/product/12,cc4c3375-9023-4051-8627-e56ec2250ab2,Chrome,Android,tablet,AU,Gilberthaven,15,86.17,True
+9c33b718-1ba0-4930-b541-bf98c491deef,jeremymoore,purchase,2023-11-16 22:22:26,/product/48,581afa36-b9b3-4eb6-974e-f05405dbd96e,Edge,Windows,mobile,UK,Wilsonton,8,68.44,True
+aeb6457e-4d1b-4c80-b5c6-6d725a0b68d5,tracey85,purchase,2023-04-17 06:13:22,/product/64,2f22a29f-30d2-4515-9c06-6e81af391f28,Edge,MacOS,tablet,CA,West Nathanielberg,7,48.82,True
+308a030d-ab3c-4cfa-9fa7-28e4ea975131,ocooper,add_to_cart,2023-09-04 17:41:39,/product/73,7ca661d2-b292-4247-91be-a77945b02cbc,Chrome,MacOS,desktop,AU,Nicoleville,13,11.18,False
+d7b9c39d-dd3b-406f-839d-38a9253af288,mwilliams,click,2023-08-05 07:24:42,/product/88,c0f42ac7-8edb-451c-aa12-87b9c7d64c79,Safari,MacOS,desktop,AU,Jesseland,8,70.1,False
+910d9ec7-09c0-48bf-ae1d-c7f8344ba02f,robertschristian,click,2023-10-31 14:42:51,/product/14,b1da550e-74d4-40d5-890d-a6c68ef52af9,Firefox,iOS,tablet,CA,New Gloriaside,4,69.45,False
+fb9cf4dc-112f-4022-a80e-db14cb9ba005,tristan53,purchase,2023-12-19 18:04:11,/product/97,5690a7c3-0cac-4d19-bac5-721f03861004,Chrome,iOS,tablet,US,Kayleehaven,18,11.37,True
+f9475c64-6a8c-4e22-80a4-12c6d1051433,vbutler,purchase,2023-02-04 02:03:06,/product/33,d8e8d968-547a-4dc0-9c6b-e0faeceff454,Firefox,MacOS,desktop,AU,Rodriguezport,16,95.15,True
+750e3c33-9ff6-4adc-a066-b78f38ca86fe,christinatucker,click,2023-05-30 02:11:38,/product/65,239fa0cc-110b-42a3-b11f-094f69b45d96,Chrome,iOS,mobile,IN,Dawnfort,16,32.85,False
+55e32cc7-2225-4964-8638-c9a4d2e74ac3,zgriffin,add_to_cart,2023-07-04 17:13:39,/product/21,fc4bd3b2-f1b7-4275-aaed-4d653d51c132,Firefox,Android,mobile,AU,Jessicamouth,13,59.7,True
+3e55bf33-7a82-4e54-bda9-9d9c5725f6ee,williamslarry,add_to_cart,2023-06-30 00:02:05,/product/99,252e8e0f-73e2-42e8-a09c-e53b92f68db8,Edge,Windows,tablet,AU,Reedville,9,108.11,True
+a0a00e20-3c1b-441c-8256-c0ca14188caa,walterjames,page_view,2023-06-16 07:55:49,/product/24,ea481ba3-6c6e-4b39-999f-a77aa9fb8bde,Chrome,iOS,desktop,US,Caseyberg,7,119.57,True
+b27612a7-b079-4b2b-bb14-8c3b2429ecbf,staffordheather,purchase,2023-06-23 22:22:58,/product/93,2594c118-ba70-4769-8403-0f81e0d89bf1,Edge,MacOS,desktop,US,East Emilyport,15,85.19,True
+566b1381-06a0-4a10-b0b1-c34601ad3c3f,angelaolson,add_to_cart,2023-04-06 16:30:18,/product/50,630bb219-369f-4010-a03e-ee4192332bc7,Edge,iOS,desktop,US,South Richard,17,19.86,True
+351a99bd-43a5-42a7-a368-f60ef3812823,andrew46,page_view,2023-10-07 16:37:21,/product/93,70bd45f0-b188-49bc-9fe3-35c6c74233e1,Firefox,Windows,tablet,AU,North Darrellview,17,14.93,True
+e07b24cc-a4f1-4419-9cb0-3a91dce1444a,jmccormick,page_view,2023-09-24 23:40:34,/product/45,9888d6be-2cec-4f98-aca7-fd7c0c584c3c,Edge,Windows,tablet,CA,Sandovalland,1,22.54,False
+2f40d196-6626-450f-b1ea-1dde2f988b3c,griffintammie,add_to_cart,2023-06-05 12:18:58,/product/69,aa411ca6-5681-4aff-bdc3-38e7ca7f6479,Safari,iOS,desktop,AU,North Matthewton,6,36.44,False
+c4e22840-18eb-44c4-bad3-f77aa1eb8d53,clairerodriguez,page_view,2023-07-19 20:48:14,/product/65,283696ba-7e08-404c-aea6-f302ab6fd599,Firefox,iOS,desktop,US,Coxchester,20,22.86,True
+e92c63df-c164-4be6-be9a-1606b7e1dba1,haascharles,click,2023-03-16 08:47:00,/product/73,888e2642-7b3c-4991-9117-9930eb89eb28,Edge,Windows,mobile,CA,Lake Larry,4,24.17,True
+efbaa168-2c22-4a22-ab51-bd2ff23675f5,rrodriguez,click,2023-10-18 06:09:14,/product/28,038c8062-aef9-4083-abb8-b454ce03eaf4,Edge,Windows,mobile,US,West Albertfurt,20,110.21,False
+66c0ed1f-f862-4ca4-bec2-572707c83bc1,coffeysara,click,2023-02-02 15:22:33,/product/73,78e3c142-3198-4c73-8b9c-6ac4264ed113,Safari,MacOS,desktop,IN,New John,7,7.98,False
+f8394cac-db99-4972-992a-8c6f64ba5233,nicholeolsen,purchase,2023-09-23 10:17:20,/product/3,e4d77ee2-d30b-4e33-99ed-f522412f0ae5,Edge,Android,mobile,CA,Lake Dylanburgh,6,68.04,True
+5cbe4f06-f6ce-41e5-be0e-0edccd02b773,joseph66,purchase,2023-12-21 18:23:44,/product/48,19437e99-1a7a-452c-afe9-a8531a0cfbe1,Chrome,MacOS,mobile,US,Lake Aaron,9,37.15,True
+4bceda43-041a-4cc7-af40-4dd6e044922f,theresa85,purchase,2023-08-04 21:37:58,/product/42,709afb84-6186-4bca-a52c-e9b771249803,Edge,iOS,mobile,US,Port Lisa,5,105.74,True
+a732837c-a90a-4dba-815d-aeb3369bf95a,carrilloadam,purchase,2023-06-30 22:32:38,/product/37,d087cfcf-b96a-4501-bf71-02376043e9d5,Safari,Android,tablet,IN,Port Nicholastown,17,100.06,True
+887d763e-c15f-453d-b895-46cdf33d2820,matthewmartinez,purchase,2023-06-26 22:51:43,/product/39,82939695-2d1a-4936-b229-213aa8658f95,Chrome,Android,mobile,UK,Ashleyport,16,60.4,False
+e4dbce1d-fbc3-464a-81a8-09755c1e6cb0,jamesfischer,purchase,2023-12-21 17:34:03,/product/38,6df1210e-10c8-48c2-b8c5-0501418d2649,Safari,iOS,mobile,CA,Port Davidport,1,59.06,True
+8d146dfe-33f6-462d-bfd9-0837e922603f,benjamin58,page_view,2023-08-31 13:10:09,/product/82,a269eae1-f44e-4857-a7e6-aa3fb69fe5f8,Safari,iOS,tablet,US,Brownside,5,21.91,False
+b6743906-1598-4d83-a543-dafe9e0a0e37,dianathompson,page_view,2023-12-13 19:49:04,/product/56,393f2fef-82a7-4890-a7c7-1f286bf19405,Safari,Android,mobile,IN,West Amanda,3,77.27,False
+df293021-e6f1-41b2-80f4-cbc8d534d922,jeremy21,add_to_cart,2023-08-20 07:17:01,/product/11,1ec6e208-49c6-40c1-975e-1fabd2f27555,Safari,Android,desktop,CA,Ellisonmouth,7,68.24,True
+8016ba95-be74-4410-bbaf-2a87735c214f,joseoliver,add_to_cart,2023-06-12 21:33:46,/product/87,57cf6fe3-8895-440c-934e-64c17c9b5149,Edge,Android,desktop,UK,Chadborough,12,29.83,False
+a93884e8-e9c8-4b2e-adec-a344f63025a6,courtney03,click,2023-08-29 18:24:27,/product/28,4b1eed84-edda-40ae-8247-3a6a01737cd6,Firefox,Windows,mobile,CA,Lisafort,20,97.64,False
+4b71f402-9371-4283-8bc7-a2ded78d2672,hshelton,add_to_cart,2023-08-03 20:42:29,/product/50,f0abc55e-4674-45db-bb91-753801016d81,Chrome,Windows,tablet,CA,Gilesmouth,17,47.48,True
+154c9aca-3a55-4281-b94f-ea2a86616210,youngsophia,add_to_cart,2023-04-21 08:00:24,/product/90,eb4a4827-b610-4193-8550-730fb7607979,Safari,iOS,tablet,UK,Kevinchester,9,41.95,True
+5d9a6f26-c5f1-4c12-b236-ececb4c491a1,ryan97,click,2023-08-04 17:46:15,/product/9,e3dcf532-98d1-4bc0-823b-0b67d4d16dc9,Chrome,iOS,mobile,CA,North Claire,1,109.37,False
+4301fc04-5b11-4b2c-80ec-b8b6a8d00105,william46,purchase,2023-10-14 19:43:19,/product/34,316003e7-c794-4a73-9f32-c0eca32b5ead,Edge,Android,mobile,UK,Cookton,16,76.6,True
+39111189-255a-4335-9c04-0c51fa5aaf26,barronluke,click,2023-03-20 18:09:05,/product/68,b1730aa9-90ae-4016-9f36-1292d5368f30,Firefox,iOS,tablet,UK,East Michaelhaven,6,86.48,False
+7c6bd0c1-6581-454a-a731-c8eb4a6045bf,shawnsmith,page_view,2023-11-10 07:28:11,/product/97,69b64689-72c5-456d-9646-42a582a24fc4,Firefox,Android,tablet,US,Erinside,14,115.78,True
+6770068f-e913-4545-9881-3f29f5887b1c,cbaxter,add_to_cart,2023-11-13 11:51:22,/product/98,44ad5934-5be9-4cb3-aec8-79a20ed808fd,Edge,Android,desktop,UK,Samanthaview,17,81.89,False
+31dead65-8b1b-4248-9ee0-fb8152294ce4,jonesstefanie,add_to_cart,2023-09-05 15:13:15,/product/52,4da59759-297e-42c1-ac0d-c032147da8ff,Firefox,Android,desktop,AU,Carrollborough,9,7.44,False
+4a363a7e-ec53-4ee8-81ad-bffc18ded7b0,tlee,purchase,2023-01-31 01:46:17,/product/20,84afbe78-0e0e-4a12-b456-138b7f5091a2,Chrome,MacOS,mobile,CA,Theresaview,2,2.15,False
+669a91b9-aca0-4212-9544-349f503b5fc2,wayne19,click,2023-01-02 14:13:28,/product/96,2a751cf4-0a11-4537-a08f-0980b852d8c7,Chrome,Windows,desktop,US,West Robert,15,22.36,True
+d5e76c42-7e09-48c4-9e87-b1a0b5970393,changcynthia,click,2023-05-06 18:24:19,/product/93,edf5604e-634a-4991-89fa-ab69f20b296e,Edge,iOS,mobile,US,Caitlinberg,8,40.93,False
+a1a9e85e-8f85-45c4-9188-97eebc74e79e,youngantonio,purchase,2023-05-05 19:19:42,/product/42,3f746a87-1dbf-4285-878f-45e0f1d216ef,Edge,Android,desktop,CA,Riveratown,12,27.48,True
+b1423881-8575-47ca-9d2a-08858ee78003,michelle25,purchase,2023-06-17 18:41:09,/product/62,f172ad85-ccf5-40e6-8912-56c62096cfa6,Edge,iOS,mobile,CA,East Deanland,11,42.23,True
+3ffb8d58-5c2e-4a64-88ea-da6ee8d5f32d,christina67,click,2023-03-04 02:36:01,/product/89,f3c79eaa-e370-4bb0-8270-eee8bad79467,Chrome,MacOS,desktop,AU,Lukeberg,1,3.05,True
+dfd1afae-a442-42c9-b574-b4dc0f26de69,jacksonalicia,add_to_cart,2023-10-06 15:17:25,/product/31,73c580bb-7d1f-4851-98a6-cd315bfaec26,Chrome,Android,mobile,AU,North Henryport,13,38.1,True
+08053e45-096c-4587-9c95-7a243eab02ac,brittanymorrison,click,2023-11-30 09:31:24,/product/95,8a2a15db-8b04-4ce3-84df-76c4c1a2b61b,Safari,iOS,desktop,UK,East Kelli,16,50.58,True
+3c51b485-6ec4-4d3c-8039-681cbb13205f,kellysawyer,add_to_cart,2023-04-22 23:26:33,/product/98,a277a620-c33b-4067-8b56-8d204cc475cf,Edge,Windows,mobile,AU,Lake Brandonmouth,4,5.29,True
+31d31f18-eee1-493b-9adb-1eb6a703d1d5,santosjimmy,click,2023-08-23 18:38:16,/product/93,4d6cb03f-a2ee-43ef-8b87-6962f7c70d9c,Firefox,MacOS,desktop,US,West Jonathantown,16,14.67,False
+ef15fb2d-640f-4ac4-bb31-d72330df5b0a,jose68,page_view,2023-11-15 09:40:30,/product/93,e164af92-75a6-4785-a7d8-7813e4bd0a1e,Safari,MacOS,tablet,AU,South Derekburgh,17,89.57,False
+e490ab41-0753-4af7-b861-f926caa531d8,chaserichard,page_view,2023-05-06 14:03:21,/product/43,8c98d3a0-bcce-46b6-90e5-5d4cabefab8f,Firefox,Android,desktop,US,North Michaelborough,6,6.84,True
+601aa2f8-3993-4c1d-844d-709d0b977b40,dunlapelizabeth,add_to_cart,2023-06-24 21:19:41,/product/29,e3affc83-5608-4945-a690-8495a3a9ef0b,Safari,Windows,desktop,CA,Port Luis,2,94.18,False
+4fe087d8-b002-4e5b-9579-ea5545bb0b94,lmcclain,purchase,2023-08-20 16:23:04,/product/27,2fbcf6b8-f755-49f1-980c-690039ba9bb1,Chrome,MacOS,desktop,AU,Wilsonstad,4,98.93,False
+372b48d5-dc49-44b5-9b9e-3eb9e779fa9c,bassfernando,add_to_cart,2023-08-12 18:48:01,/product/91,d32a3049-cc2d-4f48-9fb7-725e7334d417,Chrome,MacOS,desktop,AU,East Elizabeth,1,27.25,False
+33d14879-51a8-403a-b4ae-6a15b589044d,zmyers,purchase,2023-11-02 14:28:59,/product/87,a6979ac8-8944-4b63-82a5-1d5266370f54,Edge,MacOS,mobile,UK,North Carolyn,15,99.16,True
+417b1fda-78da-4443-94e2-8d5fbb580d38,uwalton,click,2023-04-27 17:24:38,/product/22,026073e8-2ade-4ddf-bb59-0d608bbe538d,Firefox,Windows,mobile,IN,East Robert,14,44.14,False
+348f2eda-cdad-4581-8e88-0a49ad5384cf,sancheztyler,purchase,2023-04-24 22:47:54,/product/45,64110460-d708-4c7d-8e57-88bfcb48f92f,Firefox,Android,tablet,US,Powellside,13,110.03,False
+6c725e7e-3598-4c04-a274-df2c325b2625,katherine79,click,2023-10-29 16:33:45,/product/40,60e380f3-2691-487b-b1a9-51b897999165,Edge,MacOS,desktop,UK,New Heatherberg,17,53.09,False
+bf931559-3107-4982-a225-385cedbeaeb2,aliciareynolds,purchase,2023-02-20 02:12:40,/product/90,5b09098e-17a3-469f-b0be-18fdf4f8f59a,Safari,iOS,desktop,AU,New Matthew,17,70.31,True
+4163d276-bf48-4f9e-9d20-5b97326c3bd9,millermckenzie,purchase,2023-01-17 05:12:46,/product/22,5b3779a8-aefe-4a20-9803-42028c1396e1,Safari,MacOS,desktop,CA,Jillianmouth,20,119.71,False
+9f7c6708-dd05-4f23-849c-be7a06b53b6c,kelly81,click,2023-06-18 18:44:23,/product/33,3492a194-e66b-4d18-8e06-bbfe0f30fe8a,Chrome,iOS,tablet,UK,Michaelmouth,9,68.51,False
+c37719f3-2ed4-424f-9c07-5e135e0c2180,jonestimothy,add_to_cart,2023-05-29 05:11:47,/product/38,72b85157-57f4-4870-9a92-3ab32e28b9a7,Firefox,iOS,tablet,CA,Stanleybury,10,88.6,False
+784be220-be96-4beb-a2b5-892970f4500c,stevensalazar,page_view,2023-09-27 10:08:09,/product/62,4c1a5994-11ec-465d-b449-130ceaef06aa,Edge,Windows,desktop,UK,Alicetown,17,86.65,False
+3e2c546b-a960-4dc3-97f4-bcafe7433b52,hartbrittney,purchase,2023-12-14 14:23:03,/product/15,0f47b01a-0258-482c-824a-93ef0b99ebba,Edge,MacOS,mobile,AU,North Jeremy,18,100.64,False
+dcc26ba0-89ba-4f09-8f9a-4fa5988b3c85,hjones,add_to_cart,2023-01-19 14:11:09,/product/59,7f9773b9-5ca2-4fcf-af3e-8df34ae6f956,Firefox,Android,tablet,US,Rodriguezborough,8,68.78,False
+6a63b8e1-d0dd-4d61-a747-e27e2722bc40,longshannon,add_to_cart,2023-10-27 20:00:39,/product/23,a2c860bf-4119-4790-b193-2c845b54f202,Chrome,Android,tablet,US,Darinstad,5,100.95,False
+b2dd7e75-046e-4dc2-a31c-4cd773104801,marshalltamara,add_to_cart,2023-12-30 22:11:23,/product/32,fac5e012-3a5b-4ce2-86c3-06af09eca793,Firefox,iOS,mobile,IN,West Christopher,6,44.29,False
+2ee71262-2f34-4457-96c4-ebcaf76b4603,george83,click,2023-01-01 16:36:13,/product/30,105944f7-7e4f-412f-be58-3064df626127,Safari,iOS,desktop,AU,Port Justinport,14,38.36,True
+30eca25f-ec25-41e1-9d69-5b1cd2d25cc7,sanchezbryan,page_view,2023-10-28 08:44:07,/product/69,593c3d6a-e9cb-44a6-a386-8453b9940a41,Safari,Android,tablet,CA,Lake Charles,5,96.12,False
+a1831875-7d6d-4f6c-a213-01bf21821d2b,pbrown,purchase,2023-05-31 12:31:51,/product/64,0da64efe-2916-4029-ab22-df5ad033d826,Chrome,MacOS,tablet,IN,Port Jeffreyville,14,23.37,False
+2d4c27b6-3bf9-481e-b335-b6d43853596c,scottmark,click,2023-04-15 00:30:09,/product/3,65bf6898-d079-4fb4-9d36-bcda26586941,Firefox,Windows,mobile,US,South Terri,3,89.59,True
+1ce822ea-fab8-4706-8995-77681b133585,jacob01,add_to_cart,2023-07-28 10:46:35,/product/46,463b6d41-084f-47a3-8cf7-c721cfa7a2cb,Chrome,MacOS,desktop,IN,West Adriana,10,44.29,False
+e19fbea5-a3e7-491e-9390-f3c33468a294,porterelizabeth,add_to_cart,2023-05-12 16:14:40,/product/30,3f55bf44-d900-4c22-b493-8f716a453068,Safari,Windows,tablet,CA,New Jasonfort,16,47.22,False
+fc0b76fc-377e-4856-abaa-45064e85dfae,ariley,page_view,2023-11-06 13:17:43,/product/43,f0008f04-19c2-42be-99d1-d2ec601e01a7,Chrome,Android,tablet,AU,Jeffreyland,3,4.41,True
+4e3d7033-0328-4876-8755-5cc05e8bff51,debbieswanson,click,2023-05-29 18:25:48,/product/23,0b21e1ab-256f-474f-af9b-80afd96190f5,Edge,Android,mobile,AU,Aaronstad,5,111.21,True
+425e3a24-bc65-4840-984e-95570f2f6f5f,bhernandez,click,2023-04-07 09:47:12,/product/31,a21e226a-0935-4827-8ddc-d36a13aeef4e,Edge,Windows,tablet,UK,Harrisonton,17,68.58,False
+808443fd-43b9-4696-986a-1115c5415c50,ycarr,add_to_cart,2023-02-23 10:53:09,/product/22,d18651ca-0a9c-403f-9ae7-7b819bcf3d9b,Chrome,MacOS,mobile,AU,Lake Sarahtown,18,79.16,False
+d829f1f9-9bd8-4994-ba1e-94ed7476b41a,wpineda,click,2023-05-13 11:43:07,/product/32,9c4380e3-753f-4a24-b074-8638858cc4fb,Safari,Android,tablet,UK,Patrickbury,3,25.63,True
+50b86176-ca00-4e62-9324-6b06e4643f22,anna17,page_view,2023-04-08 23:59:29,/product/58,d87744c5-7e79-4088-8e5c-53bd17f734f6,Safari,iOS,desktop,IN,South Michaelmouth,17,12.73,True
+795c2ed8-74a7-4dcf-9f4d-5970fb8c4305,david46,click,2023-04-25 14:26:29,/product/31,e1060c47-2444-4c79-8e33-ffffaa6eaa7b,Edge,MacOS,desktop,UK,South Laceytown,17,42.59,False
+a3b6c569-0b4f-492d-ab43-c28c174f1425,lindseycooper,page_view,2023-07-15 15:12:08,/product/60,50eff574-4e82-4c69-8c28-2dffeafa936b,Edge,Windows,mobile,IN,Henryfort,15,13.12,True
+58b27a48-5cc7-4979-8617-373a6d5542c7,kshannon,page_view,2023-04-27 06:19:02,/product/65,68be4854-92c9-4c1d-87ef-286c76caa0e0,Edge,Android,mobile,AU,East Jason,12,39.44,True
+00c07ae9-7976-4047-96f7-f1b61816c1df,watkinstrevor,click,2023-09-18 18:22:24,/product/14,9bd3f825-5cf9-4e24-acf6-d59ce97202a1,Safari,iOS,desktop,IN,Knightberg,8,41.61,True
+1c4b76f5-f621-41c4-bc4c-c6c691e12f3f,vgarcia,add_to_cart,2023-07-20 04:17:39,/product/33,d8f1ce95-c183-43dd-9aae-07b0a758eb83,Edge,Android,mobile,CA,Abigailburgh,3,52.35,True
+2658c53a-17e1-40d1-8c60-c8b942083698,shaun71,page_view,2023-11-19 07:12:00,/product/47,86c2df28-ce05-470f-98d3-49e29bfccd69,Edge,iOS,desktop,US,East Laura,17,42.11,False
+af722473-fca2-463f-bd6d-f9e0313ef098,amcneil,page_view,2023-06-10 04:35:23,/product/79,248c64f3-601a-4774-9a54-98e3326fe6fb,Safari,Android,desktop,IN,Lake Emilyshire,9,101.16,True
+20994269-1c73-492b-99a2-8c5337467dbf,sherry19,purchase,2023-05-23 17:25:02,/product/29,2aadb75b-0c2e-4642-ad10-e23ce0e51654,Chrome,Windows,tablet,US,Chelseachester,15,115.19,True
+cb16035c-1e94-41a4-ba23-07be10768ffc,william41,click,2023-06-11 08:07:50,/product/57,c01543eb-8fe2-4310-b237-1de09dfd0dad,Edge,iOS,mobile,UK,Robertburgh,17,46.59,False
+618202d8-bffc-4701-800f-3ce7b9e51b0a,vmcdonald,page_view,2023-03-29 09:36:21,/product/26,b68953c1-9907-4176-bf96-e2e9bd2e8af3,Edge,iOS,desktop,UK,South Ginachester,10,61.31,False
+16dbb564-78bc-4878-b181-2bd4e3b0bf3c,lharris,purchase,2023-10-05 16:09:13,/product/90,1810db84-39bc-46fc-8707-4fe35324bc51,Firefox,Android,desktop,CA,Gwendolynborough,13,108.67,True
+af7d5234-fe27-4712-b551-af1cbf03b069,slevine,click,2023-07-31 13:22:30,/product/76,a9df935a-2e3c-4415-9eb6-3685254fca6d,Chrome,Windows,mobile,US,North Danielborough,20,55.91,False
+438cc884-6a2a-42b8-b594-5ebbfb22e52f,cgreen,purchase,2023-04-07 08:15:37,/product/46,74e59f9c-babd-44ca-8e1d-073291b1d023,Firefox,iOS,desktop,US,East William,5,77.36,True
+6f15e550-c0fe-4645-9d5d-801b4981a133,agrimes,page_view,2023-04-03 07:08:06,/product/91,2b8451af-1789-4013-86ca-daf21b8ef7bb,Edge,iOS,desktop,AU,Port Garyville,14,34.74,False
+7d617fb9-322d-4678-aebf-3710c0003be1,rrobles,add_to_cart,2023-03-05 16:32:49,/product/12,dafd1635-c627-483a-9e2a-55a477464786,Safari,iOS,mobile,IN,South Jamesville,19,1.9,False
+bc038284-d312-4c39-ba1e-a34b0d5158b0,wilsonmaria,add_to_cart,2023-04-14 11:14:12,/product/78,a5412688-7f15-4c87-a9d2-224b412fc7b9,Safari,Android,desktop,IN,Shannontown,4,11.59,True
+44e4c940-0ee4-494d-8cc4-fd2ab263178a,lisa75,add_to_cart,2023-03-07 19:04:00,/product/63,65f33cc3-daeb-4117-bded-235c76ad9e81,Firefox,MacOS,tablet,AU,Bruceburgh,18,23.99,True
+22d635c1-7627-4abe-8ea5-20394fe204a4,rodriguezjoel,click,2023-05-20 05:10:21,/product/15,5bedc2a1-36fd-41d7-9a5e-2f08816f6257,Chrome,MacOS,desktop,AU,Lake Erin,15,43.02,False
+dedd748f-54cd-4a10-9abd-9aef9051f96c,catherineevans,page_view,2023-06-09 13:57:12,/product/97,12cdb605-9573-404b-afd2-0e6cdc747977,Safari,iOS,desktop,CA,Lake Julieview,10,84.89,False
+52a82a8d-62ce-458f-8200-b88b548d300a,dhall,add_to_cart,2023-06-09 18:50:17,/product/11,367793b4-439e-4c2b-bfba-8676eaca76df,Chrome,Android,tablet,UK,Cannonside,10,66.07,True
+f543c9dc-a12d-4385-b72d-51dab736efb3,larsonjason,click,2023-09-14 19:10:51,/product/98,2e43572c-3861-483b-9e28-6c94e944be02,Safari,Windows,mobile,AU,South Erinshire,19,2.92,True
+77c08aa6-8405-48c7-8d7c-f3a2fbd00210,lmoore,add_to_cart,2023-02-25 05:46:52,/product/28,6a1a4627-405e-4ff7-b540-40772d25e5b1,Edge,MacOS,desktop,US,Owensburgh,4,5.76,False
+8d6d4bd4-e9cc-4113-aaea-72c0b73a2ef4,hayessamuel,page_view,2023-05-06 09:29:53,/product/94,6fa1cfda-629c-4843-992c-fe1bd4762428,Edge,Windows,tablet,IN,East Christine,8,19.95,False
+e305c170-5593-4af4-8f50-6234d395c480,jrose,purchase,2023-09-26 03:20:14,/product/28,bab7f894-79e2-45ad-83ea-b573d6316ef9,Firefox,iOS,desktop,AU,North Kathleen,6,15.12,False
+8fe93c2e-1a80-4e61-9b95-14f8d334c4f8,heidi57,click,2023-05-17 01:31:16,/product/14,b4d04c80-9a73-4a42-be91-32c34a3ac731,Chrome,Android,tablet,CA,Pachecoville,9,81.65,False
+81480b30-a318-433b-92d2-a3ed98dcf364,sheliarowe,click,2023-12-05 18:42:55,/product/51,04f506d4-12a0-459f-abf1-1397a1e44d91,Chrome,Android,tablet,CA,Ingramview,20,46.55,False
+810568a4-2b02-4dc4-bd52-14a561d90d0c,dcoleman,purchase,2023-12-01 20:33:11,/product/61,27fac3ba-9208-4044-890b-6035abbc9eda,Chrome,Windows,desktop,UK,New Thomas,18,80.9,False
+2f9ccb17-26f1-4927-a941-23f81dbcc520,xvaughn,page_view,2023-05-16 08:26:53,/product/15,526c7578-2070-4547-968e-eefd5a267392,Chrome,Android,tablet,CA,New Wendy,19,104.6,False
+d2612ac8-e5a7-4c41-8f25-ebee409e5a72,zgomez,page_view,2023-01-31 08:43:24,/product/57,10037b21-d25d-46a0-a33a-98aef2636d74,Safari,Android,tablet,CA,West Derrickbury,8,117.48,False
+091bb4f3-9aa6-4e9e-a42c-f3ff41585d7f,hroberson,purchase,2023-05-03 16:06:03,/product/89,b791baab-2c64-4c0c-86a3-7997f9f42c8a,Chrome,Android,mobile,AU,New Christine,17,102.27,True
+6c907daf-0c69-4603-9b60-4e03579b7fea,rogerskellie,page_view,2023-07-15 19:04:01,/product/61,45d85c12-d055-4eaa-8ad1-d1a093e2f50e,Safari,Windows,mobile,IN,Port Virginia,18,25.8,False
+4d6ccbae-32d8-4e21-bf53-e693bdcfdb28,doliver,add_to_cart,2023-10-19 23:19:47,/product/99,dc3bccb1-07fb-457e-b89d-c82bb333de3c,Safari,MacOS,mobile,IN,Port Lindsay,14,88.74,False
+471633ba-bb63-4d74-82c7-d61104fcc2e1,joshua87,purchase,2023-11-25 21:16:02,/product/40,3abcc551-fc5b-47c0-ac71-f8d98eedf30f,Safari,iOS,desktop,IN,Lake Teresaview,14,51.83,False
+f3447c84-8cd4-441f-9525-4e9c480ff9c4,pricejustin,page_view,2023-05-13 23:12:29,/product/14,7e9ca21c-bcc8-436e-8c49-2634514749a7,Safari,iOS,mobile,AU,Port Rick,2,58.62,False
+becd2979-c672-401d-ad16-61fee2e7154d,john05,click,2023-11-25 20:44:18,/product/21,a29ea16f-323c-430f-bc13-8690abccc4a1,Firefox,MacOS,tablet,UK,Blairhaven,4,76.24,False
+2747d8fb-cd95-4cc5-9795-6b44da3bc5f6,vspencer,click,2023-07-04 07:46:55,/product/57,d4968809-157f-4110-89b9-da50253d1f29,Edge,Windows,tablet,IN,Elizabethhaven,19,35.24,False
+c2e0dc72-1409-4835-827b-eb67d9e2358e,christophersmith,purchase,2023-11-06 02:04:28,/product/33,e3a409b8-8430-4a6c-8951-cb1a96d93f5c,Edge,Android,tablet,CA,Bensonshire,5,22.91,True
+a183bbef-8660-4460-9536-cc9ab3c5f680,sreynolds,purchase,2023-07-15 01:21:52,/product/32,63fa87de-3a57-46b5-b399-63da5e1a1c90,Edge,Windows,desktop,US,South Valerie,5,18.1,True
+ea1773cf-7c54-475f-80bb-4ea794b26ab6,kylemack,page_view,2023-05-21 11:30:23,/product/20,fe5df8ed-534d-476e-b1c7-f92d6b474614,Firefox,Android,mobile,US,Lake Barbarashire,18,79.24,False
+163e0beb-7e3c-424f-a23a-6cb939091398,smithamy,page_view,2023-02-02 12:26:14,/product/64,24efc2f7-bfb3-4cb1-a1fb-313d140ab95b,Chrome,Windows,tablet,CA,Susanshire,1,11.59,False
+859287de-ffd4-4fa5-aebf-0e4894a3f7ad,perezjennifer,purchase,2023-10-09 21:15:25,/product/58,05d1a9e9-814e-45da-9791-90d93d165cdb,Chrome,iOS,tablet,CA,Port Kristen,6,74.08,True
+eb0570c2-221a-4fc3-8b8a-2e6ffab4e01e,kimberlymunoz,click,2023-03-30 10:02:53,/product/15,dbdca1d6-68c8-4988-9ea8-066ec85bef45,Chrome,Windows,mobile,US,Mariofurt,2,93.32,False
+2e566dde-3451-414a-9963-9a54645dcebc,kelly40,click,2023-08-31 13:30:17,/product/23,59f81fe5-f3f1-4616-88f2-6a38a5b78331,Firefox,Android,tablet,AU,Wesleybury,12,76.9,True
+13f71238-80e2-4c4e-bafe-239bcb43b164,james35,click,2023-10-18 18:22:08,/product/44,d13f970e-0880-44cc-8379-e3a5436fda66,Edge,iOS,desktop,US,Martinview,15,17.21,True
+8ed56a27-593c-4a8a-a9d8-dddd82a85189,qbarber,purchase,2023-05-03 22:36:36,/product/62,f8db7aa5-9796-4024-86e3-94b518006781,Safari,MacOS,mobile,UK,East Jenniferstad,15,20.33,True
+8644e8f1-18e7-4042-9252-1e2b17e95af9,xmiller,page_view,2023-07-31 23:29:43,/product/100,e44be998-d0c4-4a9c-8ad8-09c9e65672a2,Edge,Android,mobile,US,North Randallfurt,5,30.43,False
+21822d2e-2fdb-4015-b307-6a7a0c800ccb,wchandler,page_view,2023-03-21 10:04:17,/product/94,1de4bbe1-a2f0-47ab-b5e8-494c7ad174db,Firefox,MacOS,tablet,UK,Lake Ann,13,83.18,False
+c8892c39-62e0-468b-81f3-0c6e63ea4b1a,johnjohnson,add_to_cart,2023-07-27 20:31:42,/product/44,6752e6c8-11d9-4375-9473-a9ce3e330bbf,Chrome,Windows,tablet,AU,Campbellside,14,108.38,True
+f0c47979-72d8-4cb4-a617-0c4630502734,lthomas,click,2023-05-24 13:03:22,/product/73,09dbd5ea-c8ab-4869-b526-212e3d797aeb,Safari,MacOS,desktop,US,Bakerside,4,71.53,True
+41600830-2843-4efd-8b3c-fb61193f9600,amanda58,page_view,2023-01-13 04:19:54,/product/36,f16c7275-f859-4a30-a69f-bf59c58c357a,Safari,Android,tablet,UK,East Robertchester,18,81.42,False
+e61d5760-2d50-4c9c-ab10-4c39370a6f6c,litiffany,purchase,2023-01-02 19:26:56,/product/58,733c85a6-fe4c-4f3a-8d3a-c03a60a8f342,Firefox,Android,desktop,UK,Dawnhaven,18,85.5,True
+daf03069-e28d-4ef2-a24e-12394effbef2,lmcknight,purchase,2023-08-08 11:53:03,/product/41,498cdd80-a5c0-44e8-a66e-6a892d9b1c0c,Chrome,MacOS,tablet,CA,Christopherstad,5,16.15,False
+34492d01-1d97-4bd6-99db-a0f5b2673ae0,navarrolisa,page_view,2023-10-08 22:37:43,/product/99,9a0c1926-31af-4a79-ab92-0e834d0872c1,Chrome,MacOS,tablet,CA,West Kayleestad,4,15.06,True
+519f5465-d507-4733-9153-eba50fad5c39,lsingh,click,2023-10-23 22:40:24,/product/25,a912de85-fd74-481d-a19a-53abda777ee6,Firefox,Android,tablet,CA,New James,11,116.11,False
+ed8de207-594f-4a9a-810c-6f027790b63f,zhernandez,click,2023-03-10 13:20:33,/product/44,83bace2d-f545-4be7-8215-e31f312e8b90,Edge,Windows,mobile,CA,Veronicamouth,5,37.7,False
+e51527d2-d8d8-4190-b582-b33ff0fbd85a,josephbrewer,purchase,2023-12-15 11:09:25,/product/13,f8085490-efb6-4d99-a5f3-4688f61a0da9,Safari,Android,desktop,IN,Debrafurt,10,49.17,False
+7f3207aa-92bf-4576-b7d4-eeb8f88ffab4,jessica56,add_to_cart,2023-09-27 16:07:27,/product/57,d428d498-1d7c-44ba-ba74-cf0d4da0d9b2,Chrome,Windows,mobile,UK,Ebonyland,2,32.14,False
+5296eac4-7d61-4ec9-856f-9ac5a6d062d8,johnsonmathew,click,2023-11-25 19:38:45,/product/77,32a896f3-61c2-4273-8461-42b4c05ebdd1,Edge,Android,tablet,AU,North Jeffreybury,7,51.18,True
+54b0f4e1-3f72-4a32-9c00-82865eeefe79,vanessa19,page_view,2023-07-01 12:38:08,/product/17,c5ad4374-925f-494f-a074-c01a2c146f97,Firefox,Android,desktop,UK,Lake Kerrimouth,4,48.1,False
+a0153967-78cd-41e9-9fbd-0ef2eda5483b,alison92,add_to_cart,2023-05-21 02:46:55,/product/34,94360108-80a7-46ca-93b6-b22794943f7f,Firefox,Windows,mobile,US,South James,16,82.69,False
+d98cf02f-18bc-4c29-9522-210e66997267,curryeric,add_to_cart,2023-02-11 21:55:09,/product/71,0cf6c1a9-4db8-4e66-bf52-c0444dee2f76,Edge,Android,mobile,IN,Floresfurt,8,40.45,False
+f9a03d83-26e5-4494-bc5d-5f4fa8db3f2d,waltersamber,page_view,2023-12-31 12:23:21,/product/1,da3e2c48-d45f-4a30-888d-c41e42108aa3,Edge,Android,desktop,IN,Adamhaven,5,3.78,True
+da16f5f9-2393-47d6-b38b-e3da2450af2e,kmonroe,purchase,2023-02-02 18:09:06,/product/27,13c81d9e-b3d4-4311-b8f5-e61b67a85419,Chrome,Windows,mobile,AU,Stephenport,9,79.71,True
+e466f845-2264-4041-900b-619ec532ef67,garyadams,page_view,2023-11-10 07:49:47,/product/67,a1c44769-b472-4e5c-9462-df1491654d67,Safari,Android,tablet,IN,Sanchezville,16,76.06,False
+60678146-ee4b-4735-8568-414f32600ceb,reidlauren,purchase,2023-06-21 12:57:21,/product/40,88f677b0-025d-4cd4-85ae-cb6115a8db7a,Firefox,Android,tablet,IN,Mosleyborough,15,20.72,False
+13834752-1512-419d-b651-30348c00414b,kristina07,add_to_cart,2023-03-17 18:11:08,/product/93,477d28f5-7947-407a-8e51-3b5b44a85514,Chrome,Windows,desktop,US,Swansonfort,11,79.03,False
+0740e149-dd96-47e1-8756-79dc1447c44d,gibbsmichael,purchase,2023-02-15 04:00:50,/product/57,378b14f7-241e-42d5-a069-8c6557cbed1e,Edge,iOS,tablet,AU,East Stephentown,11,57.96,True
+09a000b4-4f15-4fe8-9fe9-a5d54c1c7771,wallacejames,page_view,2023-03-21 14:50:03,/product/100,86aa4215-cc5d-4128-8e16-27e0d123e4a9,Safari,Windows,tablet,US,Port Sarah,5,95.04,True
+507e266a-1548-4a61-a3a3-5bcb34364791,alanthomas,purchase,2023-11-14 15:58:34,/product/71,1302e47e-63d5-4dcf-a8c2-5a1dc56bf6bf,Chrome,Android,desktop,CA,Woodview,18,3.59,True
+f91c55b7-82af-4c64-9cf1-34c4b06f06e1,georgerose,page_view,2023-08-03 16:39:30,/product/52,502dd5af-8e6c-4c96-832d-122b73b87524,Firefox,iOS,mobile,CA,Mcknightmouth,12,44.31,False
+8c2cf582-f8a8-493f-8553-bf0f2b1d925c,ydavidson,purchase,2023-04-26 10:38:10,/product/97,ae33766b-32ae-43cd-851a-4a14ec9fbe39,Firefox,iOS,desktop,UK,Jackhaven,9,93.38,True
+81928e2e-5260-40cd-9445-85ef2a8e3af6,brianwilson,click,2023-04-20 12:33:10,/product/7,571f7aa7-bf31-4752-970d-b45136c1726e,Edge,iOS,mobile,US,Jenniferfurt,6,47.48,True
+b3856a04-29b7-48d8-aa48-033501709556,xperez,purchase,2023-07-16 09:14:11,/product/61,e772347c-e94a-4eb8-9236-5b332d32212e,Safari,MacOS,tablet,US,Chadmouth,6,116.7,True
+4c732611-9b27-4f99-a01f-784471522b35,hporter,purchase,2023-11-27 08:12:53,/product/56,2a338f2a-8574-479b-9309-413704304bfa,Chrome,Android,mobile,CA,South Ronaldport,17,33.54,False
+27762847-dce5-4df4-a252-87cc9aec2048,julie05,purchase,2023-07-02 19:54:58,/product/54,5653255b-befb-4ede-bf2a-7ec34c5db9db,Firefox,Windows,mobile,CA,Lake Daniel,18,104.09,False
+0810ab01-e559-478d-bafc-f30c16519af1,hsnyder,add_to_cart,2023-12-19 11:40:15,/product/80,cc10ef74-2b27-49c1-95dd-7ed114961a1c,Edge,Android,mobile,IN,West Rachael,6,49.96,True
+cedd8df5-66c1-4f13-879b-56adf0e6ae5e,samuel79,page_view,2023-03-31 23:34:00,/product/20,0ed010d2-408b-42e9-ba55-016f3cf2d2ea,Firefox,Windows,desktop,CA,East Danielle,17,16.12,True
+960d6e56-b41a-4cd1-bc00-a4e0f957c3b9,harriscandice,click,2023-11-05 07:44:19,/product/45,d3e1b796-f1cb-4085-86c6-cb9ca258229f,Firefox,Windows,desktop,IN,Sherrystad,2,38.13,True
+489be0f5-522d-4e84-8a2b-3bc72345e4bb,wandamartinez,add_to_cart,2023-10-04 23:08:17,/product/57,da7eb78e-9d17-480d-a056-72003060c984,Firefox,Windows,desktop,CA,Davidville,1,17.61,True
+02f1380f-a21e-4db5-a380-3e7d68438e03,ewilson,page_view,2023-06-22 09:50:31,/product/29,93e10e67-40ff-4895-ad73-d7fab01371fe,Safari,Windows,tablet,UK,Joshuastad,8,12.02,True
+b4e8fea3-de97-497f-8796-7a41589bd037,robinsoncolleen,page_view,2023-05-15 08:16:07,/product/46,1f5bc6b9-2706-4558-a838-d8dc0f0a7e3c,Safari,iOS,mobile,US,South Stevenville,4,49.57,True
+2a9756bd-f428-48f2-bc80-83dc491ff886,patricia44,purchase,2023-12-12 16:13:10,/product/99,acd71a85-951c-4532-bd76-3da3b5116db6,Firefox,iOS,tablet,CA,East Gabriel,16,63.13,True
+e7c20d9a-9a5c-4617-a967-c895b059e016,geralddavis,purchase,2023-04-07 17:45:25,/product/33,ee007927-a01f-4cd1-8b2c-efce4c98941b,Chrome,iOS,desktop,UK,Nelsonfort,15,41.09,True
+3db25d46-cb1d-4fd9-8419-e212870490e0,pearsonmichael,page_view,2023-08-20 08:34:48,/product/63,b18e2975-31ad-4687-b894-1d3bc84ddb2d,Chrome,iOS,tablet,IN,Paynehaven,12,66.82,True
+ca4da573-b68c-4914-8d5b-a8fe787705fc,colemaureen,click,2023-03-18 11:17:31,/product/53,3d949eb8-eeee-4395-95d1-b3e82a0a2a0c,Safari,Windows,desktop,US,Robertshire,11,3.21,False
+4725277e-e1a3-42ff-a2c2-5a29e86ad223,ewhite,purchase,2023-04-06 10:36:25,/product/1,f8a03133-b93b-47e7-9df3-93f77f0d0bd4,Edge,Android,desktop,AU,Cruzberg,18,109.83,False
+02534d0f-998b-4f42-b5a8-dc6e88287d69,alvinhill,click,2023-10-26 21:31:22,/product/65,3e811bb1-ddef-424e-aa58-8cb38b3832bd,Chrome,MacOS,tablet,CA,Brooketown,10,77.24,True
+68cf402b-52e8-466c-94db-67e200a94e2b,christopher62,purchase,2023-07-23 21:49:28,/product/90,b4eb5f9d-937c-4b12-872e-628711d7fb59,Firefox,Windows,tablet,UK,New Tamarachester,17,52.27,False
+41211c64-0d1c-4844-8071-83e19a6318de,joshuanewman,purchase,2023-08-23 13:09:43,/product/32,30833eea-9288-4e03-8ebf-fb1e53a81c5f,Firefox,iOS,tablet,CA,Johnchester,19,59.57,True
+57c33333-f3e9-4a12-bbed-7f16ec9d271a,pthomas,click,2023-09-15 22:59:55,/product/59,92b4ef3e-2e65-48f4-b2ce-c976473fef99,Safari,Android,tablet,US,Michelleville,20,38.91,True
+dc974354-3e4b-4a35-b0c6-50931ce39bea,smithdarren,add_to_cart,2023-12-15 10:54:47,/product/34,f86fa329-b6ac-496f-9250-54e4f9a4fdd8,Safari,Android,tablet,US,Kimberlyville,7,95.1,False
+7292d3d7-8b69-484a-a3cf-c89a64231198,meadowsjoshua,page_view,2023-06-04 04:38:17,/product/83,06934b1c-d603-49fb-a0be-bd83acdecb7a,Chrome,Windows,desktop,IN,Christinaland,14,15.38,True
+b669da8c-8cf5-4cdc-867c-32b46d936c52,peter33,add_to_cart,2023-12-28 13:03:35,/product/66,a2d3efaa-2cc8-4572-a5b1-0fce129a10ab,Edge,Windows,mobile,IN,East Jennifer,6,52.64,False
+5e8090da-f13f-4bf4-b665-a7d388bbc156,jdavis,page_view,2023-07-28 16:10:05,/product/75,bd57a585-92ed-475a-8b44-b8db3229ec53,Edge,MacOS,desktop,UK,South Lindseyberg,1,22.96,False
+cc842d0e-521b-49d1-a39c-d624c79770fd,jpitts,page_view,2023-10-01 19:41:16,/product/48,82f6a677-506a-4097-8afc-fecbb0fb184a,Edge,iOS,tablet,UK,Port Brittany,12,44.42,False
+aa329ab3-4665-4d95-89ff-6084702ab924,benjamin83,click,2023-09-04 05:24:17,/product/80,dfe70048-202e-4308-8323-932f0f9bfbcb,Firefox,Android,mobile,US,East Bonnie,12,72.99,True
+b0c3414b-598a-4c87-8961-4311661afb33,michelleramirez,purchase,2023-10-29 07:22:50,/product/5,09b1d6ed-a0a6-4712-be8a-f432752dc209,Firefox,MacOS,desktop,UK,Burgesstown,19,73.02,False
+e06e9834-3339-4199-a50d-a6388b16a9fd,jasonrichmond,purchase,2023-08-24 19:34:11,/product/10,13626275-fe06-4f4f-af88-54b7751a86e7,Chrome,iOS,mobile,AU,Lake Johnborough,7,5.61,True
+6a11e134-bbeb-494a-ab67-3960718fee73,erika05,add_to_cart,2023-09-05 20:28:48,/product/34,b0343b33-e8cd-4f12-816a-890613ca048a,Chrome,Windows,desktop,AU,Saraborough,6,9.51,False
+b9c2c681-870b-4a33-b3cf-2cc57d9820da,stoutmatthew,click,2023-08-06 10:22:08,/product/81,ac788804-607f-4887-9004-35ce1c680eda,Edge,Android,tablet,UK,North Heather,14,14.46,False
+a468e05d-6d83-4a71-90a5-7aacb639aa10,shane88,page_view,2023-11-05 11:59:02,/product/92,0e61b993-6da2-47b0-b284-23f6850eb746,Edge,Android,desktop,US,South Nicholasmouth,2,49.51,True
+3aa1257c-653d-4450-91c5-f780b763fb32,shannon43,purchase,2023-10-29 14:30:12,/product/23,84f7f676-41e3-43b0-9694-4488301b66d2,Chrome,Windows,desktop,CA,Howellview,7,47.67,False
+94153c75-ac3c-4798-a7a5-670fc46a550c,qvargas,page_view,2023-10-12 19:42:41,/product/6,68d85ac3-61fc-4316-bb2e-29486a880587,Safari,MacOS,mobile,AU,North Nicoleshire,15,2.16,True
+b26349eb-ad09-4d80-8bbe-9f985c95eec1,katherine91,purchase,2023-01-12 16:39:28,/product/67,48aa7c0d-368a-43c5-8a93-ab91f4533f05,Edge,Android,desktop,AU,New Karenburgh,15,65.27,True
+37c3bb8b-2e4e-4276-af3d-0b64f6e4529c,jeremyharris,click,2023-09-02 14:57:55,/product/1,7423de25-3203-42c7-8948-26ad2ad8d476,Edge,Android,desktop,CA,Jackiechester,1,41.86,False
+05a1d76c-d144-43f6-a16a-b2ce2b756d89,newtonbriana,page_view,2023-07-22 12:08:19,/product/1,8f5cef03-4065-47ff-99c0-07c6740702b2,Firefox,iOS,desktop,AU,Donaldsonborough,5,80.84,True
+58b35e69-c28b-494e-ab04-4b3caf243aa5,ilewis,purchase,2023-03-21 06:21:36,/product/24,1cde83b0-1a40-415c-89a2-cbcc00185132,Chrome,Android,tablet,US,Arnoldchester,4,4.23,False
+aa7d0eb6-fb5f-4488-9eeb-b7ce0cea16bc,scottwalters,page_view,2023-04-19 11:59:30,/product/74,86ef7942-36ec-4c8e-88ae-de79085eb9d0,Firefox,iOS,tablet,AU,Sarahshire,13,98.85,True
+1abfa41e-fa01-4c43-b8c2-4c24c946b374,valerie28,purchase,2023-02-12 21:20:04,/product/25,f9bc197c-5ba0-400d-a7f2-e13a564809f8,Safari,iOS,tablet,IN,Lake Lindsey,10,74.83,False
+9f2f39bd-7a25-485e-a221-40e9339f73f8,audreywebb,add_to_cart,2023-10-20 02:22:50,/product/25,8520f303-9c12-4b66-9ae3-db851dc99596,Chrome,Windows,tablet,IN,Georgeburgh,13,28.33,False
+f4cbdbf5-17a1-42a4-9384-b0d7320e1b40,rcook,page_view,2023-06-14 23:00:25,/product/78,e50c7dbc-5c81-48ff-ad1f-9946ba33f63e,Safari,Windows,mobile,CA,Andersenchester,4,115.65,False
+e71a5f65-9b4e-4754-b478-72604db483e9,theodore44,click,2023-11-19 06:05:11,/product/51,21749ca6-b027-4bf8-bb84-7b46b16b181a,Safari,Android,tablet,IN,Lake Ronaldstad,10,12.36,True
+fbaace9c-0c00-4379-995d-826310a20545,bethmccoy,page_view,2023-07-06 10:10:43,/product/42,c250247c-a50d-49ec-8298-1a21bfd1c50d,Chrome,iOS,mobile,AU,Mosleyport,11,52.69,False
+66c1c745-9fbe-466c-b644-720c56f15269,penny19,add_to_cart,2023-12-17 06:32:29,/product/42,4c8225ff-4e93-4286-b966-88678671b72e,Safari,MacOS,tablet,IN,Reyeshaven,5,87.15,False
+d093beba-b8e8-4de5-a419-794e9c72db93,matthew71,add_to_cart,2023-06-11 21:31:40,/product/51,4bf9a497-a3c2-4dfc-85a2-10e0f6b6a98c,Safari,iOS,tablet,UK,Wernerhaven,6,90.65,False
+66864beb-befc-4199-a4e3-2354017a4123,brentortiz,purchase,2023-04-14 04:51:49,/product/17,e3804f47-0ffe-4d84-bf5b-68a953d843dc,Safari,Android,desktop,AU,East Sean,16,77.03,False
+44d365e9-ef70-40fb-ac8b-ec32c57e1632,hendricksjulie,page_view,2023-09-04 13:40:01,/product/71,feea5e44-2c26-4cee-8be0-6d7919662c4c,Edge,iOS,desktop,CA,Samanthaside,5,70.1,False
+ea07625c-822f-425f-a4b9-4ad888175237,kevin07,click,2023-08-30 21:36:08,/product/88,da0cc90e-2e61-43dc-a645-50a8d1f0e67e,Edge,MacOS,mobile,AU,Paigeburgh,19,95.32,True
+5ef53772-b7a8-43cc-be68-65d51f63fdcc,grodriguez,page_view,2023-10-10 20:14:10,/product/48,7f94ef1b-a93b-41e2-96e4-b472262d293c,Safari,Android,desktop,CA,Lake Keithview,12,46.82,True
+85a95d65-b47b-4c2e-931b-ce8702b1d41b,armstronglaura,purchase,2023-05-19 03:20:46,/product/69,5ece429e-3735-46ee-b26c-b2b528a4f537,Chrome,Android,tablet,UK,Port Stephanieport,9,25.82,False
+66fd9eeb-5391-4c03-917e-e94e6bb6487a,lindseylynn,purchase,2023-05-05 22:43:26,/product/16,3b4cc46a-4b2e-49c4-9b42-69834ba8c18d,Firefox,iOS,tablet,CA,New Trevor,14,97.23,False
+1a512d3d-e605-419b-9cb7-79ab7ed78a6f,johngarcia,click,2023-03-25 17:00:08,/product/76,ecb3b419-62fe-4ac0-9d9c-c1f0c4b9bfd7,Chrome,Windows,desktop,CA,Jacquelineshire,12,59.23,False
+ec1b5b6e-a732-4686-81d9-e03252d713bc,donnajones,add_to_cart,2023-08-10 14:37:09,/product/29,43d73a3a-c6ee-4994-9a40-03d00e258159,Safari,iOS,mobile,CA,Flynnville,14,23.57,False
+6c1151c6-0e87-4e59-b72b-9ea0df67578a,jruiz,purchase,2023-04-30 09:30:22,/product/33,980e72bb-e266-4772-9edb-82ebfeb272a9,Safari,MacOS,tablet,AU,East Jenny,11,27.23,False
+8060fed8-baf1-41f9-8282-94f823cd8c22,priceruth,purchase,2023-07-29 08:59:40,/product/78,2d50f348-c663-4f91-aff2-634638f7c484,Edge,Android,desktop,AU,Barnesbury,8,49.97,True
+9d760a95-52ce-4223-a44d-74651d183678,ohampton,click,2023-05-22 14:12:27,/product/60,b64b2f1b-43c5-4327-ad9a-3d13b9bd1baf,Firefox,MacOS,mobile,AU,West Erika,12,19.68,True
+36765c4b-bac3-43c4-a77d-448711b332cf,acooper,page_view,2023-12-10 22:24:27,/product/81,7caa3e9b-f377-4f2b-ae41-6d1d5e526e82,Firefox,Android,mobile,IN,West David,19,62.49,False

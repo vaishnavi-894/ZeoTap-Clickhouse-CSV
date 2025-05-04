@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,price,stock_quantity,last_updated,supplier_id,supplier_name,lead_time,reorder_point,safety_stock
+P000000,Electronics Headphones 0,Electronics,Headphones,115.43,65,2024-10-30 07:38:05,S0000,Supplier 0,1,40,16
+P000001,Home & Garden Decor 1,Home & Garden,Decor,992.82,48,2024-03-08 23:51:30,S0001,Supplier 1,12,36,19
+P000002,Sports Footwear 2,Sports,Footwear,495.9,95,2024-06-09 13:14:30,S0002,Supplier 2,13,39,11
+P000003,Home & Garden Furniture 3,Home & Garden,Furniture,143.1,84,2024-08-12 04:17:29,S0003,Supplier 3,13,31,15
+P000004,Home & Garden Tools 4,Home & Garden,Tools,247.05,67,2024-02-07 19:47:12,S0004,Supplier 4,3,22,19
+P000005,Home & Garden Tools 5,Home & Garden,Tools,628.33,60,2023-07-12 16:43:55,S0005,Supplier 5,12,32,13
+P000006,Electronics Laptops 6,Electronics,Laptops,766.48,0,2023-06-08 03:42:07,S0006,Supplier 6,12,32,12
+P000007,Sports Apparel 7,Sports,Apparel,895.45,100,2023-09-13 22:33:02,S0007,Supplier 7,14,32,16
+P000008,Electronics Smartphones 8,Electronics,Smartphones,542.3,31,2024-10-09 16:35:51,S0008,Supplier 8,2,31,17
+P000009,Home & Garden Decor 9,Home & Garden,Decor,357.59,78,2024-08-09 20:15:40,S0009,Supplier 9,4,15,14
+P000010,Home & Garden Decor 10,Home & Garden,Decor,46.15,61,2023-03-21 14:45:52,S0010,Supplier 10,11,19,8
+P000011,Home & Garden Tools 11,Home & Garden,Tools,237.62,6,2024-12-20 21:25:18,S0011,Supplier 11,7,49,14
+P000012,Books Children 12,Books,Children,918.6,58,2023-01-25 19:09:36,S0012,Supplier 12,14,38,10
+P000013,Clothing Men 13,Clothing,Men,380.22,58,2024-04-26 18:31:11,S0013,Supplier 13,7,13,19
+P000014,Clothing Men 14,Clothing,Men,377.61,72,2024-03-08 14:19:37,S0014,Supplier 14,13,42,18
+P000015,Clothing Kids 15,Clothing,Kids,545.87,21,2023-05-25 03:18:54,S0015,Supplier 15,8,34,15
+P000016,Electronics Laptops 16,Electronics,Laptops,649.58,47,2024-11-28 07:05:50,S0016,Supplier 16,9,47,7
+P000017,Electronics Smartphones 17,Electronics,Smartphones,103.47,35,2025-03-17 13:41:04,S0017,Supplier 17,12,35,10
+P000018,Sports Equipment 18,Sports,Equipment,163.4,82,2024-04-14 23:44:54,S0018,Supplier 18,4,19,5
+P000019,Sports Equipment 19,Sports,Equipment,111.88,72,2023-06-06 06:43:11,S0019,Supplier 19,10,41,9
+P000020,Home & Garden Furniture 20,Home & Garden,Furniture,754.41,82,2023-06-09 08:49:11,S0020,Supplier 20,7,41,11
+P000021,Home & Garden Furniture 21,Home & Garden,Furniture,746.09,68,2024-07-21 21:41:48,S0021,Supplier 21,1,21,9
+P000022,Home & Garden Tools 22,Home & Garden,Tools,496.56,40,2023-11-17 03:08:17,S0022,Supplier 22,6,47,10
+P000023,Sports Equipment 23,Sports,Equipment,904.93,85,2024-06-16 20:52:40,S0023,Supplier 23,14,43,18
+P000024,Sports Equipment 24,Sports,Equipment,378.42,16,2023-01-18 07:31:46,S0024,Supplier 24,8,48,11
+P000025,Electronics Headphones 25,Electronics,Headphones,797.21,67,2023-08-04 17:12:27,S0025,Supplier 25,6,23,18
+P000026,Sports Footwear 26,Sports,Footwear,155.04,88,2023-12-10 16:56:23,S0026,Supplier 26,3,30,14
+P000027,Books Children 27,Books,Children,140.08,98,2025-04-01 14:21:55,S0027,Supplier 27,2,33,15
+P000028,Books Non-Fiction 28,Books,Non-Fiction,212.69,40,2024-05-13 13:08:01,S0028,Supplier 28,10,30,14
+P000029,Sports Equipment 29,Sports,Equipment,254.1,96,2024-07-29 20:15:35,S0029,Supplier 29,6,27,13
+P000030,Sports Apparel 30,Sports,Apparel,527.37,18,2023-04-27 18:08:53,S0030,Supplier 30,13,13,20
+P000031,Electronics Smartphones 31,Electronics,Smartphones,255.92,74,2023-05-11 15:05:29,S0031,Supplier 31,7,16,6
+P000032,Books Fiction 32,Books,Fiction,134.5,93,2024-11-28 00:04:11,S0032,Supplier 32,14,30,19
+P000033,Books Children 33,Books,Children,954.82,20,2023-05-17 08:23:18,S0033,Supplier 33,9,36,18
+P000034,Books Children 34,Books,Children,967.63,13,2023-01-18 05:14:18,S0034,Supplier 34,12,42,20
+P000035,Books Fiction 35,Books,Fiction,569.01,41,2025-03-20 19:03:14,S0035,Supplier 35,13,45,14
+P000036,Home & Garden Tools 36,Home & Garden,Tools,67.35,66,2023-12-04 05:31:49,S0036,Supplier 36,5,40,11
+P000037,Electronics Laptops 37,Electronics,Laptops,639.37,23,2023-09-16 04:47:35,S0037,Supplier 37,9,50,10
+P000038,Home & Garden Tools 38,Home & Garden,Tools,308.36,31,2024-08-25 14:44:02,S0038,Supplier 38,8,30,8
+P000039,Books Non-Fiction 39,Books,Non-Fiction,846.57,63,2024-03-28 14:54:49,S0039,Supplier 39,11,22,9
+P000040,Clothing Kids 40,Clothing,Kids,465.53,46,2025-01-28 17:17:30,S0040,Supplier 40,5,49,17
+P000041,Electronics Smartphones 41,Electronics,Smartphones,615.62,79,2024-08-15 11:18:01,S0041,Supplier 41,13,11,13
+P000042,Books Non-Fiction 42,Books,Non-Fiction,921.26,34,2024-01-19 01:47:21,S0042,Supplier 42,10,49,10
+P000043,Home & Garden Furniture 43,Home & Garden,Furniture,958.48,65,2024-09-14 06:26:03,S0043,Supplier 43,5,40,12
+P000044,Electronics Laptops 44,Electronics,Laptops,628.36,83,2023-09-15 04:54:39,S0044,Supplier 44,8,32,14
+P000045,Sports Footwear 45,Sports,Footwear,810.32,28,2023-03-25 15:33:47,S0045,Supplier 45,13,22,16
+P000046,Home & Garden Tools 46,Home & Garden,Tools,808.22,76,2024-10-06 13:14:33,S0046,Supplier 46,4,30,19
+P000047,Home & Garden Furniture 47,Home & Garden,Furniture,733.75,63,2024-07-21 08:40:31,S0047,Supplier 47,11,34,20
+P000048,Sports Apparel 48,Sports,Apparel,280.39,20,2024-06-03 15:26:41,S0048,Supplier 48,10,46,13
+P000049,Books Fiction 49,Books,Fiction,79.97,68,2024-10-29 06:02:51,S0049,Supplier 49,4,49,18
+P000050,Home & Garden Tools 50,Home & Garden,Tools,188.24,60,2024-12-14 01:02:04,S0050,Supplier 50,6,48,12
+P000051,Books Fiction 51,Books,Fiction,319.18,78,2023-07-26 20:13:37,S0051,Supplier 51,11,17,13
+P000052,Clothing Men 52,Clothing,Men,191.02,27,2023-03-17 03:53:09,S0052,Supplier 52,5,19,6
+P000053,Electronics Laptops 53,Electronics,Laptops,214.78,22,2023-12-28 05:43:35,S0053,Supplier 53,11,10,17
+P000054,Home & Garden Decor 54,Home & Garden,Decor,961.96,92,2024-02-06 12:52:53,S0054,Supplier 54,12,47,16
+P000055,Books Non-Fiction 55,Books,Non-Fiction,130.99,79,2023-09-09 22:38:55,S0055,Supplier 55,8,23,13
+P000056,Electronics Smartphones 56,Electronics,Smartphones,812.26,41,2023-04-22 17:12:43,S0056,Supplier 56,11,39,5
+P000057,Home & Garden Tools 57,Home & Garden,Tools,569.06,76,2023-02-28 20:21:10,S0057,Supplier 57,4,27,8
+P000058,Home & Garden Tools 58,Home & Garden,Tools,155.29,9,2023-05-04 02:10:10,S0058,Supplier 58,5,48,16
+P000059,Sports Equipment 59,Sports,Equipment,888.36,3,2024-08-24 15:27:52,S0059,Supplier 59,10,41,14
+P000060,Sports Apparel 60,Sports,Apparel,341.06,87,2024-01-28 19:38:32,S0060,Supplier 60,11,33,15
+P000061,Sports Equipment 61,Sports,Equipment,889.27,55,2023-07-21 17:26:25,S0061,Supplier 61,1,49,18
+P000062,Electronics Headphones 62,Electronics,Headphones,683.81,29,2024-11-19 12:30:12,S0062,Supplier 62,1,17,10
+P000063,Clothing Kids 63,Clothing,Kids,675.2,9,2024-10-09 23:55:04,S0063,Supplier 63,8,45,12
+P000064,Sports Apparel 64,Sports,Apparel,785.54,16,2024-03-19 08:07:25,S0064,Supplier 64,3,46,6
+P000065,Books Children 65,Books,Children,571.53,26,2023-06-14 00:38:39,S0065,Supplier 65,14,32,15
+P000066,Sports Footwear 66,Sports,Footwear,617.94,39,2025-01-29 00:37:16,S0066,Supplier 66,1,40,8
+P000067,Clothing Women 67,Clothing,Women,171.96,88,2023-07-13 16:11:41,S0067,Supplier 67,7,22,19
+P000068,Clothing Women 68,Clothing,Women,620.38,73,2023-06-22 02:22:12,S0068,Supplier 68,12,46,7
+P000069,Home & Garden Decor 69,Home & Garden,Decor,986.37,81,2023-10-13 17:38:27,S0069,Supplier 69,7,38,14
+P000070,Books Children 70,Books,Children,833.5,94,2023-01-12 20:44:12,S0070,Supplier 70,14,13,9
+P000071,Books Children 71,Books,Children,39.3,55,2023-08-06 17:37:47,S0071,Supplier 71,13,12,16
+P000072,Books Fiction 72,Books,Fiction,257.31,43,2024-03-11 18:19:22,S0072,Supplier 72,8,31,9
+P000073,Home & Garden Decor 73,Home & Garden,Decor,450.27,96,2025-01-11 11:07:36,S0073,Supplier 73,2,42,15
+P000074,Home & Garden Tools 74,Home & Garden,Tools,363.71,75,2023-10-19 00:49:58,S0074,Supplier 74,14,41,8
+P000075,Home & Garden Furniture 75,Home & Garden,Furniture,826.96,84,2024-03-09 05:58:06,S0075,Supplier 75,11,49,17
+P000076,Sports Footwear 76,Sports,Footwear,326.23,20,2023-02-01 04:01:24,S0076,Supplier 76,1,29,10
+P000077,Sports Footwear 77,Sports,Footwear,216.49,54,2025-02-23 13:09:32,S0077,Supplier 77,3,17,14
+P000078,Books Non-Fiction 78,Books,Non-Fiction,836.08,76,2024-04-13 13:58:58,S0078,Supplier 78,7,10,11
+P000079,Sports Equipment 79,Sports,Equipment,259.6,30,2024-05-01 00:38:29,S0079,Supplier 79,8,36,5
+P000080,Books Non-Fiction 80,Books,Non-Fiction,58.3,79,2024-06-06 07:05:58,S0080,Supplier 80,12,30,7
+P000081,Home & Garden Tools 81,Home & Garden,Tools,845.7,34,2025-05-03 00:47:08,S0081,Supplier 81,7,30,18
+P000082,Sports Apparel 82,Sports,Apparel,753.62,60,2024-01-15 11:59:47,S0082,Supplier 82,9,11,17
+P000083,Clothing Kids 83,Clothing,Kids,884.29,42,2025-03-31 16:29:18,S0083,Supplier 83,4,37,16
+P000084,Sports Apparel 84,Sports,Apparel,670.7,78,2023-12-29 04:07:54,S0084,Supplier 84,2,20,10
+P000085,Home & Garden Decor 85,Home & Garden,Decor,836.69,17,2024-06-07 19:16:24,S0085,Supplier 85,13,32,13
+P000086,Books Children 86,Books,Children,161.82,40,2023-09-06 12:30:09,S0086,Supplier 86,14,44,15
+P000087,Home & Garden Tools 87,Home & Garden,Tools,399.8,85,2025-01-11 09:36:34,S0087,Supplier 87,1,14,9
+P000088,Electronics Headphones 88,Electronics,Headphones,415.15,66,2024-04-14 14:23:50,S0088,Supplier 88,1,21,19
+P000089,Sports Footwear 89,Sports,Footwear,333.03,73,2024-03-23 20:04:59,S0089,Supplier 89,4,42,11
+P000090,Clothing Women 90,Clothing,Women,476.83,96,2024-10-12 00:42:39,S0090,Supplier 90,9,39,13
+P000091,Sports Footwear 91,Sports,Footwear,637.52,62,2024-11-19 04:26:32,S0091,Supplier 91,8,41,12
+P000092,Sports Equipment 92,Sports,Equipment,294.81,66,2024-04-06 08:07:26,S0092,Supplier 92,9,41,17
+P000093,Home & Garden Decor 93,Home & Garden,Decor,102.05,91,2024-07-29 19:08:51,S0093,Supplier 93,10,41,5
+P000094,Sports Equipment 94,Sports,Equipment,800.16,71,2023-10-11 00:10:40,S0094,Supplier 94,12,46,9
+P000095,Electronics Smartphones 95,Electronics,Smartphones,217.56,12,2025-02-05 22:32:21,S0095,Supplier 95,10,17,11
+P000096,Books Fiction 96,Books,Fiction,566.07,19,2024-08-31 02:15:00,S0096,Supplier 96,1,47,10
+P000097,Sports Footwear 97,Sports,Footwear,594.08,99,2024-03-20 14:06:14,S0097,Supplier 97,13,30,5
+P000098,Books Children 98,Books,Children,274.17,82,2025-04-16 04:27:44,S0098,Supplier 98,13,28,17
+P000099,Clothing Kids 99,Clothing,Kids,971.53,64,2024-05-11 15:59:01,S0099,Supplier 99,13,40,6
+P000100,Electronics Headphones 100,Electronics,Headphones,678.44,90,2023-01-13 10:47:29,S0100,Supplier 100,3,30,19
+P000101,Home & Garden Decor 101,Home & Garden,Decor,69.61,17,2023-01-21 18:07:05,S0101,Supplier 101,11,11,13
+P000102,Books Non-Fiction 102,Books,Non-Fiction,164.47,75,2023-02-04 12:21:15,S0102,Supplier 102,4,21,12
+P000103,Electronics Smartphones 103,Electronics,Smartphones,533.31,46,2024-10-12 13:08:33,S0103,Supplier 103,10,40,17
+P000104,Electronics Headphones 104,Electronics,Headphones,176.61,61,2024-09-01 12:28:18,S0104,Supplier 104,13,42,20
+P000105,Home & Garden Decor 105,Home & Garden,Decor,99.33,65,2023-06-12 15:10:10,S0105,Supplier 105,8,11,20
+P000106,Electronics Smartphones 106,Electronics,Smartphones,161.03,74,2024-08-24 02:54:09,S0106,Supplier 106,4,14,14
+P000107,Clothing Women 107,Clothing,Women,892.8,94,2023-01-14 18:11:56,S0107,Supplier 107,7,20,5
+P000108,Books Fiction 108,Books,Fiction,373.15,81,2023-01-10 18:15:02,S0108,Supplier 108,10,22,13
+P000109,Electronics Headphones 109,Electronics,Headphones,982.85,31,2025-03-24 23:44:45,S0109,Supplier 109,14,26,20
+P000110,Electronics Laptops 110,Electronics,Laptops,891.12,37,2023-08-08 10:38:49,S0110,Supplier 110,11,43,17
+P000111,Home & Garden Furniture 111,Home & Garden,Furniture,214.15,89,2024-10-20 11:01:35,S0111,Supplier 111,9,28,16
+P000112,Home & Garden Decor 112,Home & Garden,Decor,477.89,56,2025-01-01 14:36:25,S0112,Supplier 112,11,22,11
+P000113,Clothing Women 113,Clothing,Women,196.61,28,2024-08-11 08:11:59,S0113,Supplier 113,9,48,12
+P000114,Sports Equipment 114,Sports,Equipment,675.42,53,2024-08-20 08:11:02,S0114,Supplier 114,1,22,19
+P000115,Sports Apparel 115,Sports,Apparel,623.06,93,2025-04-26 21:41:46,S0115,Supplier 115,8,36,20
+P000116,Electronics Laptops 116,Electronics,Laptops,557.09,67,2024-06-13 02:15:08,S0116,Supplier 116,10,25,20
+P000117,Books Fiction 117,Books,Fiction,993.01,82,2023-08-13 06:41:05,S0117,Supplier 117,1,22,11
+P000118,Electronics Laptops 118,Electronics,Laptops,603.9,14,2023-09-03 02:47:47,S0118,Supplier 118,2,42,5
+P000119,Electronics Headphones 119,Electronics,Headphones,785.0,49,2023-12-09 04:25:33,S0119,Supplier 119,2,49,13
+P000120,Electronics Smartphones 120,Electronics,Smartphones,204.03,96,2023-06-14 10:01:23,S0120,Supplier 120,12,27,7
+P000121,Electronics Smartphones 121,Electronics,Smartphones,438.58,51,2024-06-02 13:29:41,S0121,Supplier 121,14,18,12
+P000122,Electronics Headphones 122,Electronics,Headphones,522.98,89,2024-05-28 03:31:27,S0122,Supplier 122,3,37,15
+P000123,Electronics Smartphones 123,Electronics,Smartphones,817.32,38,2023-02-28 09:57:46,S0123,Supplier 123,7,30,10
+P000124,Home & Garden Decor 124,Home & Garden,Decor,86.21,63,2025-03-04 00:15:43,S0124,Supplier 124,4,33,8
+P000125,Home & Garden Tools 125,Home & Garden,Tools,965.43,15,2023-12-04 15:46:05,S0125,Supplier 125,7,12,16
+P000126,Clothing Women 126,Clothing,Women,908.69,38,2023-12-16 20:33:23,S0126,Supplier 126,12,12,20
+P000127,Home & Garden Decor 127,Home & Garden,Decor,630.98,77,2023-06-12 10:34:38,S0127,Supplier 127,13,20,9
+P000128,Home & Garden Tools 128,Home & Garden,Tools,523.34,80,2024-11-21 16:23:56,S0128,Supplier 128,3,16,5
+P000129,Sports Apparel 129,Sports,Apparel,235.59,88,2023-11-01 10:39:45,S0129,Supplier 129,4,50,14
+P000130,Books Non-Fiction 130,Books,Non-Fiction,204.25,89,2024-03-27 20:57:25,S0130,Supplier 130,10,23,16
+P000131,Books Children 131,Books,Children,809.05,37,2025-01-17 01:04:59,S0131,Supplier 131,7,34,13
+P000132,Clothing Kids 132,Clothing,Kids,117.85,24,2023-11-22 12:47:56,S0132,Supplier 132,7,23,16
+P000133,Sports Footwear 133,Sports,Footwear,687.05,20,2025-04-03 19:37:39,S0133,Supplier 133,8,34,17
+P000134,Books Non-Fiction 134,Books,Non-Fiction,208.54,16,2024-07-09 08:00:32,S0134,Supplier 134,8,22,16
+P000135,Sports Equipment 135,Sports,Equipment,922.78,98,2025-04-11 18:14:34,S0135,Supplier 135,2,11,8
+P000136,Clothing Kids 136,Clothing,Kids,851.02,42,2023-08-30 16:19:07,S0136,Supplier 136,14,10,7
+P000137,Books Non-Fiction 137,Books,Non-Fiction,487.54,64,2023-10-15 16:35:29,S0137,Supplier 137,6,28,8
+P000138,Sports Apparel 138,Sports,Apparel,464.94,71,2025-02-23 20:14:10,S0138,Supplier 138,3,41,9
+P000139,Sports Footwear 139,Sports,Footwear,70.28,49,2023-06-18 04:06:35,S0139,Supplier 139,4,21,15
+P000140,Clothing Women 140,Clothing,Women,874.16,90,2023-12-06 14:17:58,S0140,Supplier 140,7,25,12
+P000141,Sports Apparel 141,Sports,Apparel,154.51,33,2024-12-16 12:23:06,S0141,Supplier 141,8,26,14
+P000142,Sports Apparel 142,Sports,Apparel,756.83,23,2024-08-29 06:28:02,S0142,Supplier 142,13,40,5
+P000143,Home & Garden Furniture 143,Home & Garden,Furniture,32.61,79,2023-08-13 05:28:10,S0143,Supplier 143,11,23,6
+P000144,Sports Footwear 144,Sports,Footwear,375.58,21,2023-10-23 18:05:21,S0144,Supplier 144,8,48,9
+P000145,Clothing Men 145,Clothing,Men,322.06,49,2024-08-25 22:44:51,S0145,Supplier 145,13,20,13
+P000146,Electronics Smartphones 146,Electronics,Smartphones,202.68,80,2024-04-14 07:00:47,S0146,Supplier 146,9,44,6
+P000147,Sports Footwear 147,Sports,Footwear,611.55,8,2024-01-04 22:24:31,S0147,Supplier 147,12,18,19
+P000148,Books Non-Fiction 148,Books,Non-Fiction,853.27,74,2023-09-11 22:33:05,S0148,Supplier 148,5,29,20
+P000149,Electronics Laptops 149,Electronics,Laptops,696.71,91,2023-02-13 09:52:57,S0149,Supplier 149,11,21,8
+P000150,Books Children 150,Books,Children,848.22,51,2023-08-16 14:00:37,S0150,Supplier 150,3,44,8
+P000151,Electronics Smartphones 151,Electronics,Smartphones,782.93,50,2023-01-15 02:40:33,S0151,Supplier 151,3,33,7
+P000152,Books Non-Fiction 152,Books,Non-Fiction,510.5,0,2024-12-06 17:03:36,S0152,Supplier 152,11,13,5
+P000153,Electronics Laptops 153,Electronics,Laptops,509.84,97,2023-08-24 00:04:59,S0153,Supplier 153,9,35,17
+P000154,Sports Apparel 154,Sports,Apparel,211.49,5,2024-01-25 00:25:28,S0154,Supplier 154,13,32,10
+P000155,Home & Garden Furniture 155,Home & Garden,Furniture,190.19,48,2024-07-31 16:44:04,S0155,Supplier 155,11,13,11
+P000156,Clothing Kids 156,Clothing,Kids,107.85,66,2024-09-05 12:05:46,S0156,Supplier 156,1,33,8
+P000157,Electronics Headphones 157,Electronics,Headphones,373.35,73,2023-06-23 19:52:14,S0157,Supplier 157,2,15,5
+P000158,Clothing Women 158,Clothing,Women,509.69,32,2024-07-13 09:52:13,S0158,Supplier 158,6,19,19
+P000159,Electronics Headphones 159,Electronics,Headphones,480.23,21,2024-07-24 21:36:38,S0159,Supplier 159,1,12,19
+P000160,Books Non-Fiction 160,Books,Non-Fiction,823.41,83,2024-04-27 00:04:06,S0160,Supplier 160,4,31,16
+P000161,Books Non-Fiction 161,Books,Non-Fiction,325.76,56,2025-01-18 02:48:54,S0161,Supplier 161,9,14,17
+P000162,Home & Garden Decor 162,Home & Garden,Decor,837.76,37,2024-05-30 11:22:17,S0162,Supplier 162,4,28,9
+P000163,Electronics Smartphones 163,Electronics,Smartphones,941.69,76,2024-08-01 09:15:24,S0163,Supplier 163,3,34,7
+P000164,Books Non-Fiction 164,Books,Non-Fiction,343.07,24,2023-12-03 12:04:26,S0164,Supplier 164,7,22,16
+P000165,Sports Apparel 165,Sports,Apparel,778.27,70,2024-07-01 01:23:42,S0165,Supplier 165,12,24,17
+P000166,Clothing Women 166,Clothing,Women,24.74,94,2023-10-15 06:31:19,S0166,Supplier 166,7,25,19
+P000167,Clothing Women 167,Clothing,Women,912.47,12,2023-08-24 14:27:14,S0167,Supplier 167,5,22,14
+P000168,Sports Apparel 168,Sports,Apparel,966.91,29,2024-01-19 09:38:28,S0168,Supplier 168,13,26,6
+P000169,Clothing Kids 169,Clothing,Kids,749.93,17,2023-01-24 01:03:41,S0169,Supplier 169,11,21,10
+P000170,Electronics Smartphones 170,Electronics,Smartphones,326.42,37,2024-01-30 05:22:23,S0170,Supplier 170,7,19,19
+P000171,Clothing Men 171,Clothing,Men,34.03,74,2023-12-05 04:02:26,S0171,Supplier 171,10,46,6
+P000172,Clothing Women 172,Clothing,Women,855.23,69,2023-04-12 16:58:12,S0172,Supplier 172,7,47,7
+P000173,Clothing Women 173,Clothing,Women,864.09,29,2023-08-20 08:11:49,S0173,Supplier 173,13,11,20
+P000174,Electronics Headphones 174,Electronics,Headphones,723.42,84,2024-08-15 22:17:00,S0174,Supplier 174,4,33,15
+P000175,Home & Garden Tools 175,Home & Garden,Tools,552.49,64,2024-03-01 02:11:27,S0175,Supplier 175,13,49,15
+P000176,Sports Apparel 176,Sports,Apparel,817.3,81,2024-04-16 01:17:22,S0176,Supplier 176,6,43,5
+P000177,Sports Apparel 177,Sports,Apparel,140.25,77,2024-07-24 18:35:28,S0177,Supplier 177,10,41,11
+P000178,Electronics Laptops 178,Electronics,Laptops,866.96,56,2024-08-01 02:18:05,S0178,Supplier 178,12,24,8
+P000179,Clothing Kids 179,Clothing,Kids,859.41,14,2023-11-12 06:19:17,S0179,Supplier 179,2,20,5
+P000180,Clothing Men 180,Clothing,Men,438.26,70,2023-06-02 19:34:04,S0180,Supplier 180,4,20,12
+P000181,Sports Equipment 181,Sports,Equipment,561.99,36,2024-09-06 13:14:30,S0181,Supplier 181,9,14,14
+P000182,Electronics Headphones 182,Electronics,Headphones,168.67,84,2023-12-04 10:25:08,S0182,Supplier 182,9,23,13
+P000183,Home & Garden Tools 183,Home & Garden,Tools,57.0,48,2024-09-18 20:48:36,S0183,Supplier 183,5,19,5
+P000184,Clothing Men 184,Clothing,Men,460.3,69,2025-01-28 14:33:05,S0184,Supplier 184,7,45,20
+P000185,Home & Garden Furniture 185,Home & Garden,Furniture,944.55,45,2023-01-31 02:48:37,S0185,Supplier 185,11,29,20
+P000186,Books Fiction 186,Books,Fiction,867.91,24,2023-01-05 16:00:59,S0186,Supplier 186,5,21,19
+P000187,Sports Apparel 187,Sports,Apparel,163.94,93,2023-09-18 07:05:38,S0187,Supplier 187,14,22,17
+P000188,Home & Garden Decor 188,Home & Garden,Decor,104.31,36,2024-07-14 02:26:55,S0188,Supplier 188,6,42,18
+P000189,Clothing Women 189,Clothing,Women,881.24,10,2025-02-21 15:19:38,S0189,Supplier 189,13,42,11
+P000190,Home & Garden Tools 190,Home & Garden,Tools,531.39,88,2023-09-05 20:10:38,S0190,Supplier 190,8,19,14
+P000191,Electronics Laptops 191,Electronics,Laptops,385.49,48,2023-01-30 19:44:37,S0191,Supplier 191,13,25,8
+P000192,Books Children 192,Books,Children,405.94,37,2023-09-10 13:12:39,S0192,Supplier 192,4,37,8
+P000193,Sports Equipment 193,Sports,Equipment,566.34,88,2023-12-23 17:02:00,S0193,Supplier 193,12,25,6
+P000194,Clothing Women 194,Clothing,Women,297.12,93,2025-01-01 04:01:31,S0194,Supplier 194,14,41,12
+P000195,Sports Footwear 195,Sports,Footwear,231.26,36,2023-03-23 07:45:19,S0195,Supplier 195,3,50,17
+P000196,Clothing Men 196,Clothing,Men,150.66,48,2024-05-23 21:11:09,S0196,Supplier 196,7,32,13
+P000197,Books Fiction 197,Books,Fiction,500.64,49,2023-11-30 00:14:51,S0197,Supplier 197,11,16,8
+P000198,Home & Garden Tools 198,Home & Garden,Tools,250.37,48,2024-11-28 12:18:50,S0198,Supplier 198,4,38,14
+P000199,Clothing Men 199,Clothing,Men,47.61,40,2025-04-14 11:47:40,S0199,Supplier 199,13,40,7
+P000200,Home & Garden Furniture 200,Home & Garden,Furniture,170.35,15,2024-12-21 04:26:33,S0200,Supplier 200,5,39,15
+P000201,Books Fiction 201,Books,Fiction,842.76,80,2023-10-16 03:02:50,S0201,Supplier 201,9,17,11
+P000202,Electronics Laptops 202,Electronics,Laptops,454.49,23,2023-06-20 04:20:28,S0202,Supplier 202,4,40,5
+P000203,Clothing Men 203,Clothing,Men,645.01,97,2024-04-12 05:25:58,S0203,Supplier 203,7,20,5
+P000204,Books Children 204,Books,Children,794.41,3,2024-04-19 15:51:32,S0204,Supplier 204,13,10,10
+P000205,Books Non-Fiction 205,Books,Non-Fiction,112.83,84,2024-07-24 10:46:22,S0205,Supplier 205,4,39,16
+P000206,Clothing Men 206,Clothing,Men,957.12,99,2023-07-08 21:01:16,S0206,Supplier 206,14,36,6
+P000207,Electronics Smartphones 207,Electronics,Smartphones,271.51,90,2023-06-10 19:12:10,S0207,Supplier 207,14,45,18
+P000208,Clothing Kids 208,Clothing,Kids,919.73,73,2023-09-10 13:53:12,S0208,Supplier 208,5,15,16
+P000209,Books Children 209,Books,Children,182.65,12,2023-06-21 20:03:58,S0209,Supplier 209,11,27,19
+P000210,Sports Footwear 210,Sports,Footwear,404.0,82,2024-05-05 15:01:58,S0210,Supplier 210,5,25,17
+P000211,Clothing Women 211,Clothing,Women,714.13,83,2024-05-02 01:00:17,S0211,Supplier 211,3,41,19
+P000212,Sports Equipment 212,Sports,Equipment,386.94,18,2025-02-04 15:49:40,S0212,Supplier 212,11,35,13
+P000213,Clothing Women 213,Clothing,Women,532.0,53,2024-05-30 19:54:29,S0213,Supplier 213,8,33,15
+P000214,Clothing Women 214,Clothing,Women,377.24,14,2023-12-31 05:15:50,S0214,Supplier 214,9,14,10
+P000215,Electronics Laptops 215,Electronics,Laptops,358.49,12,2023-02-16 09:50:18,S0215,Supplier 215,12,18,11
+P000216,Home & Garden Furniture 216,Home & Garden,Furniture,626.29,57,2024-04-14 22:11:45,S0216,Supplier 216,2,31,20
+P000217,Sports Footwear 217,Sports,Footwear,893.65,83,2024-02-02 09:48:26,S0217,Supplier 217,4,38,10
+P000218,Books Fiction 218,Books,Fiction,438.29,65,2025-01-20 09:16:34,S0218,Supplier 218,2,35,10
+P000219,Home & Garden Furniture 219,Home & Garden,Furniture,191.86,92,2025-01-07 12:00:07,S0219,Supplier 219,9,46,9
+P000220,Sports Apparel 220,Sports,Apparel,423.36,60,2023-08-02 16:38:28,S0220,Supplier 220,14,38,6
+P000221,Electronics Laptops 221,Electronics,Laptops,475.08,52,2023-05-26 09:43:41,S0221,Supplier 221,1,40,20
+P000222,Electronics Smartphones 222,Electronics,Smartphones,887.96,11,2024-06-27 18:53:57,S0222,Supplier 222,6,15,17
+P000223,Clothing Kids 223,Clothing,Kids,791.37,75,2025-04-24 01:06:20,S0223,Supplier 223,8,35,7
+P000224,Books Fiction 224,Books,Fiction,711.75,49,2023-07-03 11:22:47,S0224,Supplier 224,13,37,5
+P000225,Electronics Headphones 225,Electronics,Headphones,905.63,29,2025-03-11 12:44:51,S0225,Supplier 225,14,11,11
+P000226,Home & Garden Tools 226,Home & Garden,Tools,46.57,44,2023-09-19 20:19:10,S0226,Supplier 226,8,25,7
+P000227,Home & Garden Furniture 227,Home & Garden,Furniture,516.32,65,2025-04-20 05:40:06,S0227,Supplier 227,8,37,16
+P000228,Electronics Laptops 228,Electronics,Laptops,590.65,20,2024-05-29 09:38:27,S0228,Supplier 228,12,41,15
+P000229,Clothing Kids 229,Clothing,Kids,32.52,45,2023-09-21 20:05:12,S0229,Supplier 229,9,38,6
+P000230,Electronics Laptops 230,Electronics,Laptops,821.99,52,2024-03-19 17:01:51,S0230,Supplier 230,4,48,6
+P000231,Clothing Kids 231,Clothing,Kids,151.82,64,2023-11-03 00:35:33,S0231,Supplier 231,12,28,11
+P000232,Books Non-Fiction 232,Books,Non-Fiction,219.13,95,2023-12-11 10:36:20,S0232,Supplier 232,7,26,19
+P000233,Clothing Kids 233,Clothing,Kids,993.37,62,2024-01-24 15:37:03,S0233,Supplier 233,2,42,6
+P000234,Books Non-Fiction 234,Books,Non-Fiction,710.11,28,2024-01-07 20:07:13,S0234,Supplier 234,6,42,11
+P000235,Sports Equipment 235,Sports,Equipment,263.31,97,2023-11-11 14:58:30,S0235,Supplier 235,5,47,13
+P000236,Sports Apparel 236,Sports,Apparel,685.66,0,2024-08-03 15:42:24,S0236,Supplier 236,4,49,10
+P000237,Electronics Smartphones 237,Electronics,Smartphones,369.56,39,2024-09-01 08:26:08,S0237,Supplier 237,13,34,7
+P000238,Sports Apparel 238,Sports,Apparel,32.23,0,2024-07-23 14:01:17,S0238,Supplier 238,2,36,10
+P000239,Home & Garden Tools 239,Home & Garden,Tools,810.7,8,2023-07-20 11:39:40,S0239,Supplier 239,3,19,14
+P000240,Books Fiction 240,Books,Fiction,297.56,4,2024-02-22 18:52:52,S0240,Supplier 240,6,34,11
+P000241,Books Non-Fiction 241,Books,Non-Fiction,28.09,32,2024-03-26 21:21:24,S0241,Supplier 241,3,43,10
+P000242,Clothing Kids 242,Clothing,Kids,598.0,45,2023-05-19 06:52:54,S0242,Supplier 242,8,50,7
+P000243,Clothing Women 243,Clothing,Women,921.57,48,2024-12-18 21:01:23,S0243,Supplier 243,4,14,18
+P000244,Clothing Men 244,Clothing,Men,73.47,52,2024-02-23 16:12:28,S0244,Supplier 244,14,21,14
+P000245,Clothing Men 245,Clothing,Men,77.69,74,2023-02-21 10:01:49,S0245,Supplier 245,5,11,19
+P000246,Clothing Women 246,Clothing,Women,74.5,21,2023-12-12 17:28:38,S0246,Supplier 246,6,18,8
+P000247,Electronics Laptops 247,Electronics,Laptops,611.74,35,2024-11-24 09:53:28,S0247,Supplier 247,13,35,13
+P000248,Sports Equipment 248,Sports,Equipment,45.62,80,2023-03-22 22:40:25,S0248,Supplier 248,7,48,12
+P000249,Electronics Laptops 249,Electronics,Laptops,818.46,65,2023-10-11 22:40:46,S0249,Supplier 249,1,18,13
+P000250,Home & Garden Furniture 250,Home & Garden,Furniture,471.89,87,2025-03-20 00:37:43,S0250,Supplier 250,13,49,15
+P000251,Sports Apparel 251,Sports,Apparel,628.57,14,2025-03-09 21:17:27,S0251,Supplier 251,1,50,12
+P000252,Books Fiction 252,Books,Fiction,900.57,58,2023-01-30 03:37:26,S0252,Supplier 252,9,45,15
+P000253,Electronics Headphones 253,Electronics,Headphones,731.61,64,2023-08-10 20:12:28,S0253,Supplier 253,7,22,10
+P000254,Home & Garden Tools 254,Home & Garden,Tools,877.48,39,2023-04-11 15:44:44,S0254,Supplier 254,4,25,5
+P000255,Electronics Headphones 255,Electronics,Headphones,746.91,3,2024-12-15 03:24:32,S0255,Supplier 255,13,19,8
+P000256,Books Non-Fiction 256,Books,Non-Fiction,718.34,10,2024-04-17 17:25:20,S0256,Supplier 256,6,34,8
+P000257,Home & Garden Decor 257,Home & Garden,Decor,767.73,66,2024-12-29 15:28:19,S0257,Supplier 257,11,46,14
+P000258,Sports Apparel 258,Sports,Apparel,509.93,58,2024-05-24 00:12:50,S0258,Supplier 258,4,14,18
+P000259,Clothing Kids 259,Clothing,Kids,260.02,91,2024-04-03 09:38:14,S0259,Supplier 259,6,23,15
+P000260,Books Non-Fiction 260,Books,Non-Fiction,609.29,62,2025-03-16 03:35:45,S0260,Supplier 260,4,12,18
+P000261,Sports Footwear 261,Sports,Footwear,327.57,73,2023-10-07 18:24:22,S0261,Supplier 261,9,27,11
+P000262,Sports Equipment 262,Sports,Equipment,41.67,33,2023-07-18 12:06:24,S0262,Supplier 262,13,13,20
+P000263,Clothing Kids 263,Clothing,Kids,134.14,99,2023-09-14 10:29:44,S0263,Supplier 263,6,47,7
+P000264,Books Fiction 264,Books,Fiction,729.58,65,2023-06-09 11:59:18,S0264,Supplier 264,9,34,9
+P000265,Electronics Smartphones 265,Electronics,Smartphones,379.23,31,2023-07-03 22:48:30,S0265,Supplier 265,7,42,8
+P000266,Sports Apparel 266,Sports,Apparel,864.98,55,2023-07-02 12:54:13,S0266,Supplier 266,1,12,5
+P000267,Clothing Kids 267,Clothing,Kids,88.01,10,2023-10-08 02:19:46,S0267,Supplier 267,10,17,15
+P000268,Sports Footwear 268,Sports,Footwear,887.25,15,2023-09-24 02:09:17,S0268,Supplier 268,13,10,6
+P000269,Home & Garden Furniture 269,Home & Garden,Furniture,836.75,34,2024-05-02 08:15:41,S0269,Supplier 269,9,14,13
+P000270,Electronics Headphones 270,Electronics,Headphones,630.87,95,2023-08-22 11:12:29,S0270,Supplier 270,14,19,13
+P000271,Books Fiction 271,Books,Fiction,99.82,91,2024-05-26 13:56:36,S0271,Supplier 271,5,47,19
+P000272,Clothing Women 272,Clothing,Women,147.05,7,2023-11-04 17:57:05,S0272,Supplier 272,5,35,14
+P000273,Home & Garden Decor 273,Home & Garden,Decor,539.85,94,2025-03-08 06:35:51,S0273,Supplier 273,5,14,7
+P000274,Books Non-Fiction 274,Books,Non-Fiction,29.65,29,2023-12-05 23:11:30,S0274,Supplier 274,13,28,9
+P000275,Clothing Women 275,Clothing,Women,861.98,13,2024-09-29 17:32:53,S0275,Supplier 275,11,46,20
+P000276,Sports Footwear 276,Sports,Footwear,47.99,14,2024-01-09 06:28:43,S0276,Supplier 276,8,49,6
+P000277,Clothing Men 277,Clothing,Men,663.17,50,2023-08-14 05:01:59,S0277,Supplier 277,4,47,12
+P000278,Sports Equipment 278,Sports,Equipment,810.24,59,2024-07-03 04:17:42,S0278,Supplier 278,11,11,7
+P000279,Books Children 279,Books,Children,388.55,3,2023-11-10 02:29:12,S0279,Supplier 279,13,29,10
+P000280,Home & Garden Decor 280,Home & Garden,Decor,471.71,38,2023-03-26 14:23:37,S0280,Supplier 280,1,19,13
+P000281,Books Children 281,Books,Children,505.24,3,2023-10-01 02:38:43,S0281,Supplier 281,11,17,5
+P000282,Clothing Kids 282,Clothing,Kids,113.85,64,2023-07-07 03:53:59,S0282,Supplier 282,13,10,13
+P000283,Sports Equipment 283,Sports,Equipment,983.41,2,2024-06-11 15:31:17,S0283,Supplier 283,10,19,18
+P000284,Clothing Men 284,Clothing,Men,305.6,35,2024-06-10 07:24:28,S0284,Supplier 284,1,15,10
+P000285,Clothing Men 285,Clothing,Men,302.18,35,2023-11-05 19:52:31,S0285,Supplier 285,11,18,15
+P000286,Clothing Men 286,Clothing,Men,552.62,73,2025-02-20 18:49:16,S0286,Supplier 286,6,36,16
+P000287,Clothing Kids 287,Clothing,Kids,903.71,6,2023-08-16 10:13:55,S0287,Supplier 287,13,49,5
+P000288,Home & Garden Tools 288,Home & Garden,Tools,729.06,78,2023-12-31 08:06:37,S0288,Supplier 288,11,39,17
+P000289,Sports Apparel 289,Sports,Apparel,931.23,76,2024-05-14 09:11:41,S0289,Supplier 289,6,40,15
+P000290,Electronics Laptops 290,Electronics,Laptops,107.97,85,2024-01-21 09:23:53,S0290,Supplier 290,13,15,6
+P000291,Home & Garden Furniture 291,Home & Garden,Furniture,827.27,72,2025-02-11 13:29:04,S0291,Supplier 291,5,50,5
+P000292,Clothing Women 292,Clothing,Women,289.28,81,2023-03-30 00:08:31,S0292,Supplier 292,5,29,13
+P000293,Clothing Men 293,Clothing,Men,574.73,59,2024-05-16 17:29:58,S0293,Supplier 293,1,17,12
+P000294,Home & Garden Furniture 294,Home & Garden,Furniture,390.89,80,2024-02-16 10:11:05,S0294,Supplier 294,4,23,7
+P000295,Books Children 295,Books,Children,401.65,56,2023-11-12 04:44:44,S0295,Supplier 295,1,44,11
+P000296,Books Non-Fiction 296,Books,Non-Fiction,664.57,51,2024-02-18 02:08:44,S0296,Supplier 296,8,49,20
+P000297,Electronics Smartphones 297,Electronics,Smartphones,679.16,14,2023-08-06 00:41:20,S0297,Supplier 297,6,28,14
+P000298,Sports Apparel 298,Sports,Apparel,320.79,48,2023-01-02 07:38:32,S0298,Supplier 298,3,21,8
+P000299,Home & Garden Tools 299,Home & Garden,Tools,417.95,10,2023-04-01 08:49:41,S0299,Supplier 299,7,41,20
+P000300,Home & Garden Tools 300,Home & Garden,Tools,298.93,2,2023-09-20 03:32:51,S0300,Supplier 300,2,27,5
+P000301,Electronics Headphones 301,Electronics,Headphones,236.12,61,2024-03-03 10:47:36,S0301,Supplier 301,3,38,20
+P000302,Books Non-Fiction 302,Books,Non-Fiction,783.08,55,2025-01-06 13:40:19,S0302,Supplier 302,12,10,11
+P000303,Home & Garden Decor 303,Home & Garden,Decor,734.75,7,2024-04-16 13:29:03,S0303,Supplier 303,5,10,13
+P000304,Sports Apparel 304,Sports,Apparel,186.17,83,2024-10-06 02:41:18,S0304,Supplier 304,4,27,17
+P000305,Home & Garden Decor 305,Home & Garden,Decor,105.73,71,2024-05-12 01:47:38,S0305,Supplier 305,8,20,17
+P000306,Clothing Men 306,Clothing,Men,775.71,64,2024-04-26 11:48:43,S0306,Supplier 306,4,18,14
+P000307,Clothing Men 307,Clothing,Men,434.86,10,2024-10-13 17:10:34,S0307,Supplier 307,2,49,16
+P000308,Books Children 308,Books,Children,33.45,33,2023-04-15 16:52:15,S0308,Supplier 308,4,46,11
+P000309,Home & Garden Tools 309,Home & Garden,Tools,639.87,32,2024-09-18 17:23:22,S0309,Supplier 309,7,46,7
+P000310,Clothing Women 310,Clothing,Women,180.41,52,2024-11-12 16:45:23,S0310,Supplier 310,7,19,20
+P000311,Electronics Headphones 311,Electronics,Headphones,444.31,54,2024-09-28 05:17:07,S0311,Supplier 311,10,14,12
+P000312,Books Non-Fiction 312,Books,Non-Fiction,402.54,96,2024-09-06 01:56:33,S0312,Supplier 312,9,10,20
+P000313,Home & Garden Tools 313,Home & Garden,Tools,537.08,64,2024-03-25 23:19:46,S0313,Supplier 313,13,17,13
+P000314,Electronics Laptops 314,Electronics,Laptops,127.45,37,2024-09-25 06:21:41,S0314,Supplier 314,12,13,19
+P000315,Home & Garden Tools 315,Home & Garden,Tools,416.68,61,2024-04-09 17:45:58,S0315,Supplier 315,1,46,11
+P000316,Clothing Kids 316,Clothing,Kids,381.79,27,2025-02-06 22:02:15,S0316,Supplier 316,6,32,5
+P000317,Electronics Smartphones 317,Electronics,Smartphones,571.72,83,2025-03-14 00:45:28,S0317,Supplier 317,7,10,9
+P000318,Books Fiction 318,Books,Fiction,181.72,59,2023-09-08 10:33:06,S0318,Supplier 318,10,29,16
+P000319,Books Non-Fiction 319,Books,Non-Fiction,135.15,19,2023-01-03 10:08:17,S0319,Supplier 319,9,45,18
+P000320,Books Non-Fiction 320,Books,Non-Fiction,241.66,41,2025-04-06 04:35:24,S0320,Supplier 320,4,25,11
+P000321,Electronics Headphones 321,Electronics,Headphones,958.81,94,2024-12-07 06:13:56,S0321,Supplier 321,2,41,13
+P000322,Home & Garden Decor 322,Home & Garden,Decor,824.48,20,2024-09-03 01:45:13,S0322,Supplier 322,2,18,11
+P000323,Sports Apparel 323,Sports,Apparel,973.59,5,2024-09-03 07:13:33,S0323,Supplier 323,5,37,16
+P000324,Electronics Smartphones 324,Electronics,Smartphones,700.6,66,2024-03-29 13:32:39,S0324,Supplier 324,14,24,19
+P000325,Clothing Women 325,Clothing,Women,347.86,75,2025-03-28 14:26:50,S0325,Supplier 325,3,22,16
+P000326,Home & Garden Furniture 326,Home & Garden,Furniture,509.85,9,2024-04-29 23:48:54,S0326,Supplier 326,1,15,14
+P000327,Electronics Laptops 327,Electronics,Laptops,885.58,33,2023-11-16 09:19:53,S0327,Supplier 327,12,44,12
+P000328,Electronics Smartphones 328,Electronics,Smartphones,534.57,71,2023-10-20 05:50:19,S0328,Supplier 328,9,28,11
+P000329,Home & Garden Furniture 329,Home & Garden,Furniture,525.39,2,2023-02-15 14:24:00,S0329,Supplier 329,2,28,19
+P000330,Electronics Smartphones 330,Electronics,Smartphones,691.38,68,2023-11-08 03:33:46,S0330,Supplier 330,13,50,7
+P000331,Home & Garden Furniture 331,Home & Garden,Furniture,998.69,60,2023-06-10 00:49:53,S0331,Supplier 331,4,24,7
+P000332,Clothing Men 332,Clothing,Men,395.09,69,2024-07-18 07:16:40,S0332,Supplier 332,9,32,9
+P000333,Sports Footwear 333,Sports,Footwear,244.45,35,2023-02-04 07:19:43,S0333,Supplier 333,7,25,19
+P000334,Books Fiction 334,Books,Fiction,55.91,3,2024-02-29 07:45:37,S0334,Supplier 334,9,21,10
+P000335,Clothing Kids 335,Clothing,Kids,280.67,86,2025-03-05 00:47:53,S0335,Supplier 335,6,12,7
+P000336,Home & Garden Decor 336,Home & Garden,Decor,579.21,39,2024-01-20 20:04:47,S0336,Supplier 336,8,36,10
+P000337,Books Fiction 337,Books,Fiction,566.37,95,2023-12-03 01:37:27,S0337,Supplier 337,11,50,12
+P000338,Home & Garden Decor 338,Home & Garden,Decor,494.56,1,2024-04-01 07:59:35,S0338,Supplier 338,4,42,17
+P000339,Books Children 339,Books,Children,384.67,30,2024-08-02 00:02:55,S0339,Supplier 339,10,42,15
+P000340,Sports Footwear 340,Sports,Footwear,518.14,71,2023-05-30 17:55:49,S0340,Supplier 340,7,24,6
+P000341,Clothing Kids 341,Clothing,Kids,547.33,5,2024-11-28 23:19:16,S0341,Supplier 341,2,38,12
+P000342,Sports Equipment 342,Sports,Equipment,664.32,46,2023-04-25 04:32:42,S0342,Supplier 342,10,29,9
+P000343,Sports Footwear 343,Sports,Footwear,609.94,70,2023-04-17 18:14:52,S0343,Supplier 343,14,48,6
+P000344,Home & Garden Tools 344,Home & Garden,Tools,570.34,38,2024-04-16 20:32:18,S0344,Supplier 344,11,22,10
+P000345,Home & Garden Tools 345,Home & Garden,Tools,671.55,33,2023-04-26 20:58:24,S0345,Supplier 345,1,23,19
+P000346,Sports Footwear 346,Sports,Footwear,834.04,30,2023-10-25 19:56:22,S0346,Supplier 346,4,20,17
+P000347,Sports Apparel 347,Sports,Apparel,422.09,86,2024-01-27 11:00:39,S0347,Supplier 347,2,11,20
+P000348,Sports Equipment 348,Sports,Equipment,788.3,41,2024-09-19 22:22:23,S0348,Supplier 348,13,16,5
+P000349,Books Children 349,Books,Children,69.28,91,2024-09-26 10:06:00,S0349,Supplier 349,7,12,9
+P000350,Books Children 350,Books,Children,521.28,40,2024-01-07 20:14:35,S0350,Supplier 350,13,47,15
+P000351,Clothing Women 351,Clothing,Women,248.89,49,2025-01-25 23:07:08,S0351,Supplier 351,2,48,8
+P000352,Books Non-Fiction 352,Books,Non-Fiction,760.16,55,2023-09-12 15:53:47,S0352,Supplier 352,5,19,13
+P000353,Sports Equipment 353,Sports,Equipment,968.5,90,2023-11-30 10:15:23,S0353,Supplier 353,9,32,14
+P000354,Electronics Laptops 354,Electronics,Laptops,809.24,23,2023-12-07 16:27:28,S0354,Supplier 354,3,14,9
+P000355,Books Fiction 355,Books,Fiction,105.99,24,2024-01-28 01:07:42,S0355,Supplier 355,14,33,15
+P000356,Books Fiction 356,Books,Fiction,716.75,61,2023-10-03 23:35:12,S0356,Supplier 356,3,38,14
+P000357,Clothing Kids 357,Clothing,Kids,249.37,49,2023-10-07 07:43:13,S0357,Supplier 357,13,37,9
+P000358,Books Fiction 358,Books,Fiction,394.91,14,2024-08-20 23:25:00,S0358,Supplier 358,3,22,12
+P000359,Home & Garden Tools 359,Home & Garden,Tools,718.3,44,2023-11-10 10:19:59,S0359,Supplier 359,2,19,20
+P000360,Sports Equipment 360,Sports,Equipment,452.99,11,2024-03-29 01:59:55,S0360,Supplier 360,4,25,6
+P000361,Home & Garden Decor 361,Home & Garden,Decor,827.91,77,2023-10-19 08:15:35,S0361,Supplier 361,3,42,5
+P000362,Electronics Headphones 362,Electronics,Headphones,630.77,8,2023-12-23 01:01:59,S0362,Supplier 362,2,43,19
+P000363,Books Non-Fiction 363,Books,Non-Fiction,752.77,14,2023-12-16 08:59:43,S0363,Supplier 363,1,46,7
+P000364,Electronics Headphones 364,Electronics,Headphones,844.47,39,2023-06-13 07:54:03,S0364,Supplier 364,5,11,7
+P000365,Books Non-Fiction 365,Books,Non-Fiction,592.35,4,2024-07-01 15:20:12,S0365,Supplier 365,7,14,7
+P000366,Clothing Women 366,Clothing,Women,226.96,27,2023-04-27 04:26:39,S0366,Supplier 366,11,23,15
+P000367,Sports Footwear 367,Sports,Footwear,167.32,18,2025-03-18 08:07:37,S0367,Supplier 367,12,35,11
+P000368,Sports Footwear 368,Sports,Footwear,237.92,58,2023-02-26 10:37:49,S0368,Supplier 368,14,22,5
+P000369,Clothing Men 369,Clothing,Men,270.97,48,2024-07-26 01:31:17,S0369,Supplier 369,8,19,9
+P000370,Sports Equipment 370,Sports,Equipment,50.0,93,2024-05-19 22:35:49,S0370,Supplier 370,12,35,20
+P000371,Electronics Smartphones 371,Electronics,Smartphones,582.97,100,2024-01-21 15:18:19,S0371,Supplier 371,14,48,17
+P000372,Electronics Laptops 372,Electronics,Laptops,124.69,59,2024-09-10 06:11:25,S0372,Supplier 372,4,23,6
+P000373,Books Fiction 373,Books,Fiction,145.93,58,2023-05-12 13:47:45,S0373,Supplier 373,2,43,11
+P000374,Clothing Kids 374,Clothing,Kids,484.14,69,2025-01-25 18:50:26,S0374,Supplier 374,7,39,7
+P000375,Books Non-Fiction 375,Books,Non-Fiction,812.24,31,2024-11-21 05:00:36,S0375,Supplier 375,5,20,16
+P000376,Books Fiction 376,Books,Fiction,461.84,91,2025-03-06 13:56:24,S0376,Supplier 376,9,43,9
+P000377,Clothing Men 377,Clothing,Men,312.91,1,2025-03-28 20:52:12,S0377,Supplier 377,11,49,10
+P000378,Books Children 378,Books,Children,770.0,35,2023-05-13 02:11:18,S0378,Supplier 378,7,32,16
+P000379,Books Children 379,Books,Children,74.48,31,2025-01-04 00:00:13,S0379,Supplier 379,11,50,17
+P000380,Home & Garden Tools 380,Home & Garden,Tools,781.18,87,2023-10-19 05:43:50,S0380,Supplier 380,12,31,19
+P000381,Clothing Women 381,Clothing,Women,707.47,66,2023-01-06 16:10:15,S0381,Supplier 381,10,44,16
+P000382,Books Non-Fiction 382,Books,Non-Fiction,162.74,11,2023-06-03 12:57:50,S0382,Supplier 382,9,39,13
+P000383,Clothing Women 383,Clothing,Women,248.08,66,2023-09-18 03:40:57,S0383,Supplier 383,9,15,10
+P000384,Home & Garden Decor 384,Home & Garden,Decor,261.72,4,2023-10-25 23:26:27,S0384,Supplier 384,10,37,19
+P000385,Books Non-Fiction 385,Books,Non-Fiction,56.75,75,2024-06-18 10:24:16,S0385,Supplier 385,6,46,9
+P000386,Clothing Kids 386,Clothing,Kids,707.98,51,2025-03-25 07:09:04,S0386,Supplier 386,8,40,19
+P000387,Electronics Headphones 387,Electronics,Headphones,944.6,93,2024-09-03 20:21:56,S0387,Supplier 387,9,21,9
+P000388,Electronics Laptops 388,Electronics,Laptops,622.27,18,2024-08-28 14:56:43,S0388,Supplier 388,1,25,12
+P000389,Books Fiction 389,Books,Fiction,197.31,0,2025-02-15 15:12:53,S0389,Supplier 389,9,26,12
+P000390,Clothing Women 390,Clothing,Women,525.16,11,2023-02-18 21:18:12,S0390,Supplier 390,11,13,8
+P000391,Electronics Headphones 391,Electronics,Headphones,738.7,58,2025-02-15 00:34:54,S0391,Supplier 391,2,39,10
+P000392,Sports Equipment 392,Sports,Equipment,118.95,40,2023-06-10 15:23:08,S0392,Supplier 392,5,19,8
+P000393,Home & Garden Furniture 393,Home & Garden,Furniture,572.22,79,2025-02-18 02:17:45,S0393,Supplier 393,13,13,12
+P000394,Clothing Women 394,Clothing,Women,11.47,27,2023-06-29 22:32:18,S0394,Supplier 394,10,19,18
+P000395,Sports Apparel 395,Sports,Apparel,910.64,49,2023-11-04 18:22:58,S0395,Supplier 395,14,47,18
+P000396,Home & Garden Furniture 396,Home & Garden,Furniture,220.74,42,2024-08-11 02:24:52,S0396,Supplier 396,5,39,5
+P000397,Books Non-Fiction 397,Books,Non-Fiction,284.25,11,2023-12-18 02:23:27,S0397,Supplier 397,10,23,10
+P000398,Books Children 398,Books,Children,935.72,81,2023-08-24 05:58:59,S0398,Supplier 398,1,35,18
+P000399,Books Fiction 399,Books,Fiction,942.54,23,2023-04-06 21:32:41,S0399,Supplier 399,7,44,13
+P000400,Sports Footwear 400,Sports,Footwear,520.4,79,2024-03-02 16:12:20,S0400,Supplier 400,11,33,14
+P000401,Books Fiction 401,Books,Fiction,322.91,41,2023-12-20 01:30:20,S0401,Supplier 401,14,46,6
+P000402,Electronics Laptops 402,Electronics,Laptops,491.39,38,2023-05-02 10:09:06,S0402,Supplier 402,13,43,15
+P000403,Clothing Men 403,Clothing,Men,754.71,99,2023-08-13 14:06:30,S0403,Supplier 403,8,32,14
+P000404,Electronics Smartphones 404,Electronics,Smartphones,970.08,15,2025-04-11 06:36:22,S0404,Supplier 404,14,15,5
+P000405,Electronics Smartphones 405,Electronics,Smartphones,282.54,76,2023-07-13 03:02:32,S0405,Supplier 405,4,11,14
+P000406,Home & Garden Furniture 406,Home & Garden,Furniture,957.02,37,2025-02-28 01:04:53,S0406,Supplier 406,10,12,20
+P000407,Clothing Men 407,Clothing,Men,517.48,13,2023-01-03 12:35:30,S0407,Supplier 407,8,13,10
+P000408,Electronics Smartphones 408,Electronics,Smartphones,907.2,2,2024-08-07 08:50:33,S0408,Supplier 408,11,25,11
+P000409,Books Children 409,Books,Children,28.32,98,2024-08-29 09:42:48,S0409,Supplier 409,7,42,11
+P000410,Books Fiction 410,Books,Fiction,961.45,57,2024-08-17 14:40:27,S0410,Supplier 410,13,25,19
+P000411,Sports Apparel 411,Sports,Apparel,423.64,99,2023-09-13 03:02:03,S0411,Supplier 411,2,17,17
+P000412,Home & Garden Decor 412,Home & Garden,Decor,408.68,78,2024-04-18 23:32:51,S0412,Supplier 412,7,37,12
+P000413,Clothing Kids 413,Clothing,Kids,778.03,92,2023-03-10 20:52:24,S0413,Supplier 413,1,34,7
+P000414,Electronics Smartphones 414,Electronics,Smartphones,597.1,3,2025-04-05 22:39:37,S0414,Supplier 414,14,33,19
+P000415,Electronics Headphones 415,Electronics,Headphones,357.37,59,2024-08-13 04:00:29,S0415,Supplier 415,10,14,6
+P000416,Electronics Laptops 416,Electronics,Laptops,147.46,18,2024-07-20 00:37:32,S0416,Supplier 416,13,11,18
+P000417,Electronics Laptops 417,Electronics,Laptops,680.37,10,2024-11-22 21:53:27,S0417,Supplier 417,1,44,16
+P000418,Electronics Laptops 418,Electronics,Laptops,221.28,46,2024-01-20 23:27:39,S0418,Supplier 418,2,21,8
+P000419,Clothing Women 419,Clothing,Women,155.8,1,2023-12-15 11:08:33,S0419,Supplier 419,10,17,9
+P000420,Books Children 420,Books,Children,480.04,22,2024-07-14 06:01:41,S0420,Supplier 420,7,14,10
+P000421,Books Children 421,Books,Children,971.72,39,2025-01-31 02:52:54,S0421,Supplier 421,6,46,5
+P000422,Sports Footwear 422,Sports,Footwear,454.76,2,2024-09-02 02:51:38,S0422,Supplier 422,13,42,6
+P000423,Sports Apparel 423,Sports,Apparel,950.31,25,2023-01-14 11:28:48,S0423,Supplier 423,9,18,18
+P000424,Home & Garden Furniture 424,Home & Garden,Furniture,132.78,6,2025-02-01 21:06:57,S0424,Supplier 424,8,31,11
+P000425,Sports Footwear 425,Sports,Footwear,777.14,60,2025-01-17 22:19:08,S0425,Supplier 425,7,15,7
+P000426,Clothing Men 426,Clothing,Men,409.35,91,2024-07-05 01:28:23,S0426,Supplier 426,8,18,16
+P000427,Clothing Kids 427,Clothing,Kids,457.53,26,2023-07-24 09:09:23,S0427,Supplier 427,9,43,18
+P000428,Books Non-Fiction 428,Books,Non-Fiction,575.88,90,2025-02-14 22:37:55,S0428,Supplier 428,14,49,13
+P000429,Clothing Kids 429,Clothing,Kids,600.08,90,2024-01-07 08:04:38,S0429,Supplier 429,10,21,12
+P000430,Home & Garden Decor 430,Home & Garden,Decor,559.88,16,2023-10-08 19:36:53,S0430,Supplier 430,2,16,12
+P000431,Clothing Women 431,Clothing,Women,370.09,62,2024-02-16 02:11:24,S0431,Supplier 431,13,36,12
+P000432,Home & Garden Decor 432,Home & Garden,Decor,454.83,76,2023-11-05 19:14:53,S0432,Supplier 432,14,41,14
+P000433,Sports Apparel 433,Sports,Apparel,510.79,79,2023-10-21 12:11:49,S0433,Supplier 433,7,38,11
+P000434,Sports Footwear 434,Sports,Footwear,107.2,23,2024-04-30 03:15:57,S0434,Supplier 434,2,48,7
+P000435,Electronics Headphones 435,Electronics,Headphones,673.87,88,2023-08-24 21:00:50,S0435,Supplier 435,2,38,18
+P000436,Home & Garden Tools 436,Home & Garden,Tools,941.98,19,2023-10-20 21:44:55,S0436,Supplier 436,7,21,13
+P000437,Electronics Smartphones 437,Electronics,Smartphones,425.19,100,2024-04-09 23:40:12,S0437,Supplier 437,4,40,16
+P000438,Clothing Kids 438,Clothing,Kids,108.65,36,2025-03-25 16:27:11,S0438,Supplier 438,8,11,20
+P000439,Home & Garden Tools 439,Home & Garden,Tools,692.9,27,2023-04-27 12:04:20,S0439,Supplier 439,1,41,20
+P000440,Home & Garden Furniture 440,Home & Garden,Furniture,443.25,76,2023-10-23 11:57:40,S0440,Supplier 440,2,50,15
+P000441,Home & Garden Tools 441,Home & Garden,Tools,463.41,68,2023-04-04 12:28:58,S0441,Supplier 441,4,42,12
+P000442,Home & Garden Decor 442,Home & Garden,Decor,847.19,95,2023-08-30 03:17:55,S0442,Supplier 442,12,41,7
+P000443,Home & Garden Furniture 443,Home & Garden,Furniture,711.02,63,2023-11-23 03:12:41,S0443,Supplier 443,1,46,13
+P000444,Clothing Women 444,Clothing,Women,514.32,78,2023-08-25 13:41:39,S0444,Supplier 444,3,46,10
+P000445,Clothing Men 445,Clothing,Men,771.25,70,2025-01-01 20:56:20,S0445,Supplier 445,13,18,20
+P000446,Books Children 446,Books,Children,353.39,87,2024-06-24 18:20:54,S0446,Supplier 446,1,11,19
+P000447,Books Children 447,Books,Children,19.88,39,2025-01-09 11:47:06,S0447,Supplier 447,8,48,13
+P000448,Clothing Kids 448,Clothing,Kids,252.54,12,2025-01-07 02:41:17,S0448,Supplier 448,14,14,17
+P000449,Home & Garden Furniture 449,Home & Garden,Furniture,364.21,45,2024-08-06 00:37:26,S0449,Supplier 449,14,36,17
+P000450,Clothing Women 450,Clothing,Women,222.82,10,2024-09-21 05:51:01,S0450,Supplier 450,10,26,11
+P000451,Books Non-Fiction 451,Books,Non-Fiction,296.39,62,2024-06-03 06:22:03,S0451,Supplier 451,2,22,11
+P000452,Clothing Men 452,Clothing,Men,369.09,43,2023-04-11 02:48:53,S0452,Supplier 452,5,46,19
+P000453,Sports Apparel 453,Sports,Apparel,135.23,59,2025-01-03 10:22:06,S0453,Supplier 453,9,50,19
+P000454,Home & Garden Decor 454,Home & Garden,Decor,544.54,25,2025-04-25 20:51:12,S0454,Supplier 454,2,35,10
+P000455,Clothing Men 455,Clothing,Men,540.7,25,2023-07-24 06:36:21,S0455,Supplier 455,11,40,17
+P000456,Clothing Men 456,Clothing,Men,747.48,38,2023-10-07 20:58:19,S0456,Supplier 456,4,45,13
+P000457,Home & Garden Decor 457,Home & Garden,Decor,467.79,90,2025-02-18 05:32:38,S0457,Supplier 457,1,27,11
+P000458,Clothing Women 458,Clothing,Women,73.97,71,2024-02-09 23:32:24,S0458,Supplier 458,1,13,16
+P000459,Sports Footwear 459,Sports,Footwear,547.37,79,2023-09-25 00:11:10,S0459,Supplier 459,13,24,10
+P000460,Home & Garden Tools 460,Home & Garden,Tools,74.94,90,2025-02-27 15:16:37,S0460,Supplier 460,5,32,20
+P000461,Electronics Headphones 461,Electronics,Headphones,735.66,12,2023-12-13 14:27:18,S0461,Supplier 461,6,24,13
+P000462,Home & Garden Furniture 462,Home & Garden,Furniture,418.22,88,2023-11-27 07:28:58,S0462,Supplier 462,12,21,13
+P000463,Books Non-Fiction 463,Books,Non-Fiction,599.63,27,2025-01-05 00:50:42,S0463,Supplier 463,4,43,20
+P000464,Clothing Men 464,Clothing,Men,904.97,11,2024-02-21 02:41:57,S0464,Supplier 464,10,14,18
+P000465,Electronics Headphones 465,Electronics,Headphones,423.17,59,2023-08-06 03:57:54,S0465,Supplier 465,11,11,13
+P000466,Sports Apparel 466,Sports,Apparel,819.84,21,2024-06-29 17:01:46,S0466,Supplier 466,12,22,12
+P000467,Clothing Women 467,Clothing,Women,42.64,37,2023-06-06 19:10:56,S0467,Supplier 467,5,44,17
+P000468,Books Children 468,Books,Children,474.4,81,2023-08-19 10:28:59,S0468,Supplier 468,12,24,15
+P000469,Books Children 469,Books,Children,370.99,25,2024-08-18 21:56:02,S0469,Supplier 469,9,21,9
+P000470,Sports Apparel 470,Sports,Apparel,484.94,83,2025-02-23 23:49:49,S0470,Supplier 470,6,45,8
+P000471,Books Non-Fiction 471,Books,Non-Fiction,622.02,65,2025-04-02 07:33:39,S0471,Supplier 471,2,15,14
+P000472,Home & Garden Furniture 472,Home & Garden,Furniture,502.94,1,2023-06-09 07:42:06,S0472,Supplier 472,8,16,15
+P000473,Home & Garden Tools 473,Home & Garden,Tools,687.02,87,2024-09-24 20:51:38,S0473,Supplier 473,13,50,6
+P000474,Sports Equipment 474,Sports,Equipment,538.83,57,2023-03-19 03:12:37,S0474,Supplier 474,2,24,17
+P000475,Sports Footwear 475,Sports,Footwear,777.5,32,2023-06-17 15:21:11,S0475,Supplier 475,12,30,10
+P000476,Home & Garden Decor 476,Home & Garden,Decor,699.45,47,2024-04-04 10:33:39,S0476,Supplier 476,8,47,20
+P000477,Electronics Laptops 477,Electronics,Laptops,272.74,17,2023-03-28 13:37:18,S0477,Supplier 477,1,19,18
+P000478,Electronics Laptops 478,Electronics,Laptops,846.31,55,2025-03-26 21:00:41,S0478,Supplier 478,2,43,13
+P000479,Books Non-Fiction 479,Books,Non-Fiction,59.4,57,2024-02-10 21:50:33,S0479,Supplier 479,5,38,18
+P000480,Books Children 480,Books,Children,517.02,46,2025-04-18 14:34:27,S0480,Supplier 480,3,33,5
+P000481,Books Non-Fiction 481,Books,Non-Fiction,755.73,93,2023-04-26 23:42:29,S0481,Supplier 481,4,46,16
+P000482,Books Children 482,Books,Children,566.47,41,2024-05-15 12:24:04,S0482,Supplier 482,9,15,14
+P000483,Clothing Kids 483,Clothing,Kids,255.93,58,2023-09-04 15:47:55,S0483,Supplier 483,12,12,8
+P000484,Books Children 484,Books,Children,394.48,7,2024-10-02 14:32:57,S0484,Supplier 484,5,14,6
+P000485,Home & Garden Furniture 485,Home & Garden,Furniture,557.08,50,2024-10-03 01:55:41,S0485,Supplier 485,3,39,5
+P000486,Electronics Smartphones 486,Electronics,Smartphones,493.69,6,2023-02-04 23:41:32,S0486,Supplier 486,1,38,10
+P000487,Clothing Kids 487,Clothing,Kids,742.09,77,2024-01-01 11:19:11,S0487,Supplier 487,5,17,16
+P000488,Home & Garden Tools 488,Home & Garden,Tools,371.39,29,2024-09-15 16:34:12,S0488,Supplier 488,4,22,5
+P000489,Home & Garden Tools 489,Home & Garden,Tools,999.39,31,2023-06-18 23:48:52,S0489,Supplier 489,8,46,6
+P000490,Books Children 490,Books,Children,610.29,13,2023-12-27 18:31:48,S0490,Supplier 490,7,30,15
+P000491,Clothing Men 491,Clothing,Men,765.12,47,2024-05-25 09:58:51,S0491,Supplier 491,6,15,12
+P000492,Clothing Kids 492,Clothing,Kids,568.06,38,2024-11-27 05:41:58,S0492,Supplier 492,14,14,11
+P000493,Sports Apparel 493,Sports,Apparel,485.06,85,2025-03-27 22:11:43,S0493,Supplier 493,11,13,7
+P000494,Clothing Women 494,Clothing,Women,205.09,86,2023-06-02 00:36:59,S0494,Supplier 494,7,33,13
+P000495,Books Non-Fiction 495,Books,Non-Fiction,361.2,50,2025-03-30 16:29:02,S0495,Supplier 495,13,43,13
+P000496,Electronics Laptops 496,Electronics,Laptops,490.88,14,2025-04-08 04:44:17,S0496,Supplier 496,13,49,8
+P000497,Sports Footwear 497,Sports,Footwear,419.49,48,2024-10-17 08:54:11,S0497,Supplier 497,10,22,18
+P000498,Electronics Smartphones 498,Electronics,Smartphones,357.79,96,2023-08-13 12:28:13,S0498,Supplier 498,14,34,13
+P000499,Electronics Headphones 499,Electronics,Headphones,700.11,13,2023-01-20 12:15:03,S0499,Supplier 499,8,21,16

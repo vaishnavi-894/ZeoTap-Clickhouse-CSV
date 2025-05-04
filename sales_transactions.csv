@@ -1,0 +1,1501 @@
+transaction_id,order_id,customer_id,product_id,quantity,unit_price,total_price,discount,tax,transaction_date,transaction_time,payment_method,status,shipping_address,billing_address
+T000000,O000000,145,P000407,2,517.48,1552.44,0.1,0.16,2023-12-14,2023-12-14 17:19:47,paypal,pending,"5634 Paul Green Apt. 905
+Ellenhaven, AR 71840","75887 Adams Gardens
+Heathershire, MO 96352"
+T000001,O000001,374,P000150,4,848.22,848.22,0.16,0.09,2023-12-10,2023-12-10 02:18:58,paypal,cancelled,"39724 Russell Radial Suite 723
+North Sandraland, TN 65418","93320 Richards Meadows
+Laurenton, GA 45302"
+T000002,O000002,242,P000242,5,598.0,2392.0,0.27,0.19,2023-02-17,2023-02-17 14:00:00,paypal,pending,"75461 Patrick Greens Apt. 078
+New James, UT 20754","PSC 8282, Box 9290
+APO AP 05270"
+T000003,O000003,12,P000488,2,371.39,371.39,0.01,0.2,2023-01-05,2023-01-05 16:24:58,credit_card,cancelled,"574 Ryan Turnpike Suite 791
+Rodriguezmouth, KS 55288","3665 Cindy Spur Apt. 767
+Gatesburgh, PR 01298"
+T000004,O000004,334,P000139,1,70.28,281.12,0.26,0.06,2023-03-01,2023-03-01 07:16:52,bank_transfer,completed,"53583 Taylor Parkways
+South Katherine, MO 68903","49338 Ashley Crest Suite 750
+Foxton, TX 57380"
+T000005,O000005,373,P000389,2,197.31,197.31,0.25,0.14,2023-09-15,2023-09-15 06:26:43,bank_transfer,pending,"029 Jennifer Light Suite 446
+Ericstad, MI 97562","006 Alexis Crossroad
+East Jennifermouth, NM 76784"
+T000006,O000006,437,P000084,3,670.7,670.7,0.17,0.13,2023-01-09,2023-01-09 05:36:20,credit_card,cancelled,"1413 Corey Rapid
+Tiffanymouth, IL 57317","5206 Adam Rapid Apt. 514
+Sethhaven, UT 18546"
+T000007,O000007,212,P000341,3,547.33,2736.65,0.11,0.16,2023-06-02,2023-06-02 19:19:15,credit_card,cancelled,"4389 Alyssa Bridge Apt. 725
+Shannonshire, ME 03137","121 Justin Street Apt. 991
+Kevinbury, MI 34068"
+T000008,O000008,411,P000070,1,833.5,4167.5,0.02,0.19,2023-01-22,2023-01-22 18:58:05,bank_transfer,cancelled,"10720 Mitchell Stravenue
+Mitchellview, GU 61487","Unit 6718 Box 7694
+DPO AA 09133"
+T000009,O000009,208,P000276,1,47.99,191.96,0.26,0.19,2023-07-02,2023-07-02 11:25:28,credit_card,completed,"5188 Candace Course
+East Amanda, PW 96960","82191 Desiree Plains
+Dylanberg, RI 27427"
+T000010,O000010,19,P000058,2,155.29,310.58,0.04,0.18,2023-12-05,2023-12-05 05:46:50,bank_transfer,cancelled,"460 Lisa Harbors
+Jessicamouth, VT 25947","88488 Montgomery Burg Apt. 667
+Campbellville, MD 80224"
+T000011,O000011,382,P000337,1,566.37,2831.85,0.17,0.14,2023-05-09,2023-05-09 20:20:32,paypal,cancelled,"9576 Mooney Curve
+West William, MA 18647","955 Whitney Pike
+Carlosport, SC 06345"
+T000012,O000012,113,P000160,1,823.41,3293.64,0.24,0.17,2023-04-06,2023-04-06 18:29:09,credit_card,pending,"8062 Rosales Knolls
+Maryfurt, MO 46594","846 Gonzalez Brooks
+Lake Johnfurt, MO 08442"
+T000013,O000013,335,P000213,3,532.0,1064.0,0.03,0.14,2023-10-06,2023-10-06 04:28:57,credit_card,cancelled,"48748 Booth Tunnel
+Annland, PA 71386","69364 Rose Spur
+South Morganside, AR 31622"
+T000014,O000014,262,P000042,4,921.26,3685.04,0.21,0.15,2023-12-03,2023-12-03 21:34:16,credit_card,cancelled,"479 Smith Summit
+New Garrettville, FL 13626","186 Steven Tunnel Suite 783
+Maldonadomouth, KS 62945"
+T000015,O000015,83,P000144,2,375.58,375.58,0.2,0.1,2023-05-27,2023-05-27 17:45:40,paypal,completed,"9038 Armstrong Falls Apt. 520
+Leeview, CO 23372","51279 Anderson Cliff Apt. 903
+Williamshaven, KY 21220"
+T000016,O000016,74,P000392,2,118.95,118.95,0.08,0.14,2023-07-13,2023-07-13 18:11:41,bank_transfer,pending,"116 Johnson Ferry Apt. 597
+South Linda, IL 16025","26762 Summers Creek
+South Nicole, TN 74415"
+T000017,O000017,474,P000435,5,673.87,3369.35,0.07,0.17,2023-03-16,2023-03-16 04:07:54,credit_card,completed,"7968 Clark Street Suite 896
+Larryshire, UT 04133","81818 Meyer Isle
+Kaylahaven, VA 13990"
+T000018,O000018,478,P000282,3,113.85,569.25,0.2,0.09,2023-11-04,2023-11-04 02:41:45,paypal,completed,"878 Lee Divide
+Newtonmouth, IL 07834","018 Anna Walks Suite 205
+Jenniferberg, KY 48279"
+T000019,O000019,466,P000369,3,270.97,812.91,0.3,0.08,2023-08-29,2023-08-29 19:36:06,paypal,pending,"55551 Powell Cliff Apt. 283
+Mcclurechester, TN 83791","85534 Harris Fork
+Port Joshuaton, MP 18830"
+T000020,O000020,395,P000398,4,935.72,4678.6,0.01,0.14,2023-08-16,2023-08-16 20:37:44,paypal,cancelled,"78798 Shaw Knoll Apt. 824
+Port Donna, AS 61595","123 Bradley Forest
+Lake Dillon, IL 81903"
+T000021,O000021,243,P000213,1,532.0,2128.0,0.15,0.16,2023-06-29,2023-06-29 21:42:41,bank_transfer,completed,"002 Carroll Tunnel Suite 967
+Colleenburgh, VT 40102","972 Russell Ferry
+North Sonyaport, FL 93024"
+T000022,O000022,64,P000378,5,770.0,770.0,0.05,0.13,2023-03-15,2023-03-15 02:10:06,paypal,cancelled,"2260 Garcia Drive Suite 033
+Gregoryshire, AZ 93092","738 Jennifer Ports Suite 558
+Guerreroton, VT 88360"
+T000023,O000023,236,P000131,4,809.05,1618.1,0.22,0.07,2023-08-06,2023-08-06 10:04:55,paypal,cancelled,"57295 Kimberly Unions Apt. 007
+Benjaminmouth, LA 41374","94321 Molly Burg Suite 832
+Amystad, IN 39659"
+T000024,O000024,117,P000481,4,755.73,1511.46,0.27,0.07,2023-03-23,2023-03-23 16:23:06,bank_transfer,pending,"8334 Hoover Square Suite 974
+Baileymouth, SD 31654","Unit 9066 Box 5533
+DPO AE 40846"
+T000025,O000025,248,P000188,2,104.31,208.62,0.24,0.16,2023-07-24,2023-07-24 04:38:03,bank_transfer,cancelled,"Unit 1917 Box 0737
+DPO AE 98662","514 Steele Mission Suite 299
+West Kayleeton, DE 89108"
+T000026,O000026,369,P000260,3,609.29,3046.45,0.04,0.12,2023-11-19,2023-11-19 16:41:31,paypal,completed,"03511 Petersen Forge
+West Autumn, TX 72632","10107 Kenneth Ports Suite 064
+Port Michael, DE 33207"
+T000027,O000027,436,P000162,2,837.76,1675.52,0.09,0.08,2023-05-05,2023-05-05 09:00:10,credit_card,cancelled,"1616 Munoz Row Suite 797
+South Annemouth, PR 39999","3091 Lucas Via Suite 981
+Cohenville, NC 92185"
+T000028,O000028,471,P000371,3,582.97,1165.94,0.25,0.15,2023-03-23,2023-03-23 22:24:27,credit_card,pending,"27303 Rogers Glen Apt. 570
+Port Roy, MI 76521","0071 White Course
+Johnsonton, RI 70621"
+T000029,O000029,32,P000434,1,107.2,428.8,0.1,0.1,2023-09-19,2023-09-19 12:47:45,credit_card,cancelled,"982 Carla Village Apt. 482
+West Nathan, IL 63552","15787 Steven Squares Apt. 250
+Jenniferville, MN 18627"
+T000030,O000030,61,P000299,2,417.95,835.9,0.11,0.14,2023-04-23,2023-04-23 10:20:32,bank_transfer,cancelled,"4227 Barnett Bridge Suite 531
+New John, NC 11655","3557 David Way Suite 167
+Kaylabury, NC 94317"
+T000031,O000031,219,P000219,1,191.86,383.72,0.06,0.14,2023-04-28,2023-04-28 17:28:38,credit_card,pending,"500 Rose Harbors Apt. 435
+Port Rhondafort, LA 89176","41487 James Isle
+East Mary, ND 52970"
+T000032,O000032,32,P000097,4,594.08,594.08,0.27,0.12,2023-11-14,2023-11-14 22:43:47,paypal,cancelled,"277 Mariah Way
+Stevetown, RI 32876","2566 Thomas Turnpike Suite 232
+East Jameschester, GU 49991"
+T000033,O000033,130,P000013,1,380.22,380.22,0.27,0.16,2023-07-22,2023-07-22 00:44:11,credit_card,completed,"USNS Cardenas
+FPO AA 29718","2359 Brandon Light
+Schroederhaven, WI 97428"
+T000034,O000034,95,P000149,4,696.71,3483.55,0.3,0.09,2023-09-16,2023-09-16 00:28:59,paypal,pending,"76388 Allen Glen Suite 123
+Karentown, WA 35173","261 James Island
+Evanton, PR 90889"
+T000035,O000035,71,P000323,5,973.59,1947.18,0.09,0.11,2023-07-27,2023-07-27 15:55:27,bank_transfer,completed,"61115 Sweeney Corner
+West Paigemouth, PR 06915","293 Jennifer Mission Apt. 385
+Jenkinsborough, ND 41404"
+T000036,O000036,123,P000246,1,74.5,372.5,0.03,0.15,2023-09-08,2023-09-08 17:12:21,credit_card,pending,"01738 Cheyenne Parks
+Lake Ian, WY 26946","018 Johnston Lodge Apt. 238
+Lake Melissafort, WV 03740"
+T000037,O000037,367,P000220,4,423.36,2116.8,0.24,0.17,2023-07-27,2023-07-27 08:40:43,credit_card,completed,"USCGC Price
+FPO AE 52298","83840 Knapp Stravenue Apt. 720
+Fullerburgh, GA 52754"
+T000038,O000038,295,P000369,2,270.97,1083.88,0.22,0.05,2023-01-23,2023-01-23 14:59:13,bank_transfer,cancelled,"15599 Simmons Freeway
+New Evanport, MD 36899","7048 Matthew Estates
+Ellisshire, AS 83809"
+T000039,O000039,192,P000374,4,484.14,484.14,0.29,0.08,2023-12-03,2023-12-03 11:01:35,bank_transfer,pending,"9879 Melinda Landing Apt. 817
+Elizabethfurt, UT 14651","4148 Wheeler Land Suite 154
+West Seanside, RI 33984"
+T000040,O000040,140,P000015,2,545.87,545.87,0.03,0.07,2023-06-04,2023-06-04 13:01:57,paypal,completed,"599 Michael Pines Suite 006
+Lake Lisafort, AL 79566","14865 Tucker Lane Apt. 108
+New Elizabethton, FM 66369"
+T000041,O000041,357,P000322,1,824.48,824.48,0.25,0.11,2023-05-23,2023-05-23 17:31:39,paypal,completed,"36258 Adams Tunnel
+Port Nicholastown, LA 04759","2210 Paula Dam
+Port Teresafort, SC 23594"
+T000042,O000042,493,P000371,1,582.97,1748.91,0.2,0.18,2023-03-07,2023-03-07 01:57:15,bank_transfer,pending,"6206 Wright Tunnel
+South Thomas, FL 98041","0640 Ryan Common
+New David, IL 41183"
+T000043,O000043,266,P000477,3,272.74,818.22,0.09,0.07,2023-01-05,2023-01-05 17:19:43,paypal,completed,"1084 Bryant Isle Apt. 399
+Huangland, MN 37294","92047 Wells Brooks Suite 505
+Barnesberg, KS 22478"
+T000044,O000044,297,P000426,2,409.35,818.7,0.22,0.15,2023-07-10,2023-07-10 08:39:11,bank_transfer,pending,"PSC 6063, Box 0198
+APO AP 50526","768 Escobar Estates Apt. 187
+Rosarioshire, AR 71764"
+T000045,O000045,377,P000473,1,687.02,1374.04,0.02,0.18,2023-05-17,2023-05-17 03:30:28,bank_transfer,cancelled,"996 Vazquez Summit Suite 953
+Meyerfort, PA 74028","497 Barker Port
+West Michaelberg, CA 25206"
+T000046,O000046,349,P000000,1,115.43,461.72,0.18,0.16,2023-04-22,2023-04-22 10:48:09,paypal,pending,"98539 Linda Oval Apt. 251
+Lauraton, NJ 16069","24370 Mora Isle
+Christineburgh, VA 32748"
+T000047,O000047,179,P000317,3,571.72,1143.44,0.07,0.12,2023-01-28,2023-01-28 04:47:43,credit_card,pending,"93889 Jones Glen Suite 456
+East Sherryland, GA 87655","790 Reed Trace
+Lake Stephanie, DE 38894"
+T000048,O000048,395,P000337,1,566.37,2831.85,0.06,0.18,2023-01-27,2023-01-27 09:39:11,credit_card,completed,"42546 Reginald Ports Apt. 612
+New Hollyton, MA 54291","9584 Lopez Mill
+Tracychester, MH 01060"
+T000049,O000049,104,P000252,1,900.57,3602.28,0.11,0.08,2023-06-18,2023-06-18 08:40:18,bank_transfer,pending,"9525 Anthony Squares Apt. 027
+Bauerberg, MS 82668","PSC 1858, Box 0352
+APO AE 47459"
+T000050,O000050,259,P000118,5,603.9,1811.7,0.24,0.11,2023-04-03,2023-04-03 14:38:23,paypal,completed,"PSC 8537, Box 3666
+APO AE 53606","09123 Washington Valleys
+Whiteton, IL 72190"
+T000051,O000051,328,P000158,5,509.69,2548.45,0.16,0.17,2023-01-07,2023-01-07 04:18:34,bank_transfer,completed,"172 John Mission
+Barajasberg, IL 52272","59658 Tammy Trail Apt. 064
+Patrickshire, TN 32012"
+T000052,O000052,274,P000357,3,249.37,997.48,0.04,0.15,2023-12-30,2023-12-30 22:36:56,paypal,pending,"732 Matthews Trafficway Suite 520
+Lake Russell, AR 13948","02659 Cassidy Centers
+Hillside, VT 52584"
+T000053,O000053,477,P000406,1,957.02,2871.06,0.19,0.17,2023-03-29,2023-03-29 07:55:24,bank_transfer,pending,"6241 Nathaniel Ports Apt. 311
+East Michelebury, MN 56062","32793 Lori Field Apt. 164
+Washingtonville, OK 86373"
+T000054,O000054,319,P000414,5,597.1,2985.5,0.05,0.05,2023-09-27,2023-09-27 03:31:29,paypal,pending,"Unit 5907 Box 7187
+DPO AA 29149","7002 Preston Park Suite 213
+West Roger, AZ 97633"
+T000055,O000055,232,P000459,3,547.37,547.37,0.14,0.1,2023-01-17,2023-01-17 19:31:28,bank_transfer,cancelled,"22905 Webb Run
+Port Emily, AR 16031","6029 Sweeney Mill
+North Amandaview, MT 36416"
+T000056,O000056,193,P000111,1,214.15,1070.75,0.12,0.12,2023-02-15,2023-02-15 22:27:41,bank_transfer,completed,"9493 John Streets Apt. 557
+New Michelleshire, CO 68431","957 Brandy Via Suite 701
+Port Michael, MN 75485"
+T000057,O000057,280,P000045,2,810.32,1620.64,0.04,0.07,2023-12-28,2023-12-28 17:26:24,credit_card,cancelled,"PSC 9028, Box 4215
+APO AE 03720","38993 Weaver Drives
+Jonesberg, NV 54402"
+T000058,O000058,88,P000024,4,378.42,1135.26,0.05,0.11,2023-03-21,2023-03-21 00:05:57,paypal,completed,"Unit 8826 Box 3679
+DPO AE 49236","299 Diana Ramp
+New Chelsea, ME 95920"
+T000059,O000059,484,P000263,1,134.14,670.7,0.12,0.12,2023-09-06,2023-09-06 10:32:25,bank_transfer,completed,"85848 Adam Ridges Suite 767
+Wrightville, AS 87426","35456 Williams Harbors
+South Jillianland, MA 88816"
+T000060,O000060,86,P000229,2,32.52,97.56,0.07,0.18,2023-03-11,2023-03-11 20:56:11,credit_card,completed,"5527 Simmons Radial
+East Nicholas, WI 70247","00640 Herring Springs Suite 590
+Port Kelly, WI 42003"
+T000061,O000061,274,P000120,3,204.03,816.12,0.25,0.07,2023-01-22,2023-01-22 16:37:31,credit_card,pending,"2365 Peter Road Suite 748
+Andrewborough, UT 86386","92295 Brian Ridges Apt. 501
+North Terry, KS 18563"
+T000062,O000062,9,P000458,3,73.97,221.91,0.13,0.19,2023-03-25,2023-03-25 08:53:36,paypal,completed,"156 Caleb Plain Suite 403
+West Jamesstad, PW 76981","13193 Jacob Track Apt. 766
+Fosterside, VI 43386"
+T000063,O000063,280,P000050,5,188.24,188.24,0.15,0.08,2023-11-19,2023-11-19 06:32:08,credit_card,completed,"016 Weaver Neck Apt. 608
+North Jerry, FM 01953","8238 Mcintosh Extension Apt. 068
+South Hollymouth, AS 45813"
+T000064,O000064,1,P000048,4,280.39,841.17,0.29,0.1,2023-07-25,2023-07-25 20:20:35,credit_card,completed,"395 Cole Islands
+North Olivia, RI 76232","53956 Shah Burg
+Port Joseph, NC 71410"
+T000065,O000065,235,P000203,3,645.01,1290.02,0.19,0.12,2023-10-15,2023-10-15 15:02:04,bank_transfer,cancelled,"9056 William Station Apt. 984
+Edwardfort, WI 28493","4284 Rivera Avenue Apt. 589
+East Ryanberg, NH 90329"
+T000066,O000066,360,P000042,1,921.26,3685.04,0.3,0.08,2023-06-15,2023-06-15 21:12:33,paypal,pending,"USNV Walker
+FPO AE 65322","52458 Harris Fields Suite 633
+South Nicoleburgh, HI 31472"
+T000067,O000067,315,P000417,5,680.37,3401.85,0.03,0.19,2023-07-06,2023-07-06 01:00:44,credit_card,cancelled,"14966 Patrick Cliffs
+Sarahmouth, HI 49520","074 Miles Isle
+North Michael, FL 05034"
+T000068,O000068,63,P000279,2,388.55,1554.2,0.24,0.15,2023-04-29,2023-04-29 10:14:24,bank_transfer,pending,"70379 Taylor Flat Suite 407
+South Kaitlin, VA 01014","6801 Mary Turnpike
+North Lucastown, UT 53114"
+T000069,O000069,273,P000000,4,115.43,461.72,0.12,0.18,2023-12-06,2023-12-06 04:56:35,credit_card,completed,"33522 Krueger Ridges Suite 941
+Moorebury, PA 44760","36540 Dunlap Parkway Suite 144
+Michaelhaven, NE 46799"
+T000070,O000070,426,P000276,3,47.99,239.95,0.22,0.15,2023-08-27,2023-08-27 14:52:09,paypal,cancelled,"3589 Reginald Estates
+Baileyburgh, MS 40995","PSC 9326, Box 5926
+APO AA 56801"
+T000071,O000071,298,P000376,3,461.84,923.68,0.21,0.07,2023-04-20,2023-04-20 19:53:42,paypal,completed,"1692 Jones Station
+Port Darylfurt, ME 10080","PSC 9994, Box 0480
+APO AA 76358"
+T000072,O000072,485,P000268,4,887.25,3549.0,0.15,0.16,2023-02-22,2023-02-22 20:28:27,bank_transfer,completed,"PSC 2418, Box 6134
+APO AE 65272","USS Espinoza
+FPO AP 92796"
+T000073,O000073,212,P000074,3,363.71,727.42,0.19,0.18,2023-09-06,2023-09-06 09:21:06,paypal,completed,"865 Young Lane Suite 765
+Nicholashaven, PR 71597","8354 Scott Shore Apt. 960
+Higginschester, AZ 87874"
+T000074,O000074,97,P000385,3,56.75,170.25,0.09,0.1,2023-05-20,2023-05-20 10:49:59,paypal,pending,"18968 Adams Square
+North Tanya, OK 07087","3586 Sarah Land Suite 132
+Jamesborough, TN 73694"
+T000075,O000075,74,P000499,3,700.11,2800.44,0.18,0.11,2023-02-20,2023-02-20 06:46:46,credit_card,completed,"PSC 0265, Box 7796
+APO AP 60494","684 Austin Mills Suite 104
+Chloeview, MO 13442"
+T000076,O000076,232,P000153,4,509.84,509.84,0.17,0.09,2023-07-11,2023-07-11 21:24:14,bank_transfer,completed,"5051 Tyler Villages Apt. 530
+West Johnside, NJ 67392","819 Mills Terrace Suite 038
+West Kevinmouth, AL 72875"
+T000077,O000077,398,P000457,1,467.79,2338.95,0.12,0.09,2023-03-11,2023-03-11 20:06:26,bank_transfer,completed,"01018 David Village Suite 709
+South Ashleyland, AK 33593","404 John Springs
+New Christinetown, ME 60557"
+T000078,O000078,356,P000425,1,777.14,777.14,0.19,0.19,2023-04-04,2023-04-04 15:53:00,credit_card,cancelled,"65534 Smith Canyon
+Elliotttown, VT 98781","757 Brown Vista
+South Victoria, RI 63859"
+T000079,O000079,10,P000309,2,639.87,1279.74,0.07,0.11,2023-09-15,2023-09-15 19:01:11,paypal,completed,"9498 Henry Extension
+Kellybury, OH 85547","724 Smith Wells
+Port Randybury, NJ 57931"
+T000080,O000080,362,P000375,2,812.24,4061.2,0.27,0.13,2023-03-30,2023-03-30 08:33:21,bank_transfer,completed,"102 Judith Park Apt. 628
+Josephmouth, ID 43693","1180 Ortiz Ramp
+Lake Aliceport, MH 24481"
+T000081,O000081,340,P000274,1,29.65,29.65,0.02,0.1,2023-06-21,2023-06-21 07:39:27,bank_transfer,completed,"22708 Jerry Points Apt. 221
+West Catherinefort, NH 43229","6550 Brianna Drive
+Susanton, DE 70398"
+T000082,O000082,129,P000097,1,594.08,1188.16,0.13,0.05,2023-05-14,2023-05-14 18:51:34,paypal,cancelled,"7694 Williams Points
+Port Justin, PW 23820","820 James Motorway Apt. 784
+Port Erinhaven, KY 81053"
+T000083,O000083,366,P000008,3,542.3,2169.2,0.26,0.1,2023-04-14,2023-04-14 10:58:56,paypal,pending,"527 Robert Stravenue
+Smithfort, GA 63934","871 Mcdaniel Well
+Lake Gary, AL 14241"
+T000084,O000084,10,P000104,3,176.61,529.83,0.05,0.16,2023-05-04,2023-05-04 11:30:21,bank_transfer,cancelled,"35126 Gabriel Plaza
+Millerstad, ID 44738","38811 Smith Station Apt. 871
+Brittanychester, VT 06558"
+T000085,O000085,90,P000227,4,516.32,1032.64,0.01,0.07,2023-08-28,2023-08-28 06:43:00,credit_card,cancelled,"961 Young Mews Suite 051
+New Debra, GA 09817","652 Perry Bypass
+East Miguelburgh, PA 94734"
+T000086,O000086,245,P000291,1,827.27,827.27,0.14,0.14,2023-07-10,2023-07-10 08:10:54,credit_card,cancelled,"720 Aguilar Spur Apt. 130
+West Jennifer, SC 61720","045 Jennings Loop
+South Courtney, FL 22466"
+T000087,O000087,454,P000036,4,67.35,67.35,0.1,0.13,2023-03-26,2023-03-26 09:50:48,paypal,pending,"5273 Bennett Road
+East Gary, MN 24488","4952 Michelle Plaza Apt. 136
+Jonesburgh, NY 40428"
+T000088,O000088,214,P000492,2,568.06,2840.3,0.19,0.19,2023-09-05,2023-09-05 12:55:40,paypal,completed,"372 Ryan Place Apt. 129
+Oconnellton, VA 08846","258 Richard Divide Suite 154
+South Amandaland, KY 50443"
+T000089,O000089,78,P000483,4,255.93,511.86,0.11,0.17,2023-11-18,2023-11-18 00:13:18,paypal,completed,"291 Cassandra Point
+Hamiltonport, MN 05643","31158 Sydney Isle Apt. 584
+Charlesstad, NM 51062"
+T000090,O000090,219,P000019,2,111.88,111.88,0.23,0.2,2023-05-08,2023-05-08 04:38:49,bank_transfer,completed,"844 Thomas Springs
+West Morganbury, UT 08945","947 Padilla Knoll
+North David, NC 77420"
+T000091,O000091,329,P000112,1,477.89,2389.45,0.23,0.07,2023-06-29,2023-06-29 21:00:14,bank_transfer,pending,"284 Wilson Shore
+West Monica, ME 97093","53775 Anderson Divide Apt. 659
+North Derek, VI 43849"
+T000092,O000092,295,P000077,5,216.49,432.98,0.03,0.12,2023-07-18,2023-07-18 14:21:58,paypal,pending,"895 Barr Stream
+Port Calvinfort, WA 03541","07279 Sara Camp
+Williamborough, WY 45740"
+T000093,O000093,23,P000153,3,509.84,1529.52,0.03,0.19,2023-12-07,2023-12-07 04:58:16,bank_transfer,pending,"6517 Vasquez Skyway
+Brownside, MA 00565","981 Green Overpass
+Lake Taylor, ME 29410"
+T000094,O000094,387,P000301,2,236.12,1180.6,0.23,0.08,2023-12-10,2023-12-10 23:41:26,paypal,completed,"279 Jennifer Manors Suite 358
+North Joshuashire, DE 14044","356 Ross Harbor Suite 024
+Lake Joycemouth, AZ 23193"
+T000095,O000095,104,P000033,4,954.82,2864.46,0.2,0.13,2023-04-20,2023-04-20 22:22:14,credit_card,cancelled,"009 Teresa Ports
+Seantown, FL 85974","0880 Charles Walks Suite 639
+North Jamesshire, DC 76811"
+T000096,O000096,28,P000240,3,297.56,595.12,0.1,0.1,2023-01-26,2023-01-26 10:12:24,credit_card,cancelled,"34249 Kelly Inlet Suite 274
+New Hector, MP 22291","0906 Sandra Orchard
+Kellyville, DE 45312"
+T000097,O000097,60,P000288,4,729.06,2916.24,0.24,0.1,2023-07-12,2023-07-12 19:31:55,bank_transfer,cancelled,"92960 Gamble Track
+Mcdonaldchester, MN 71782","218 Brandy Gardens Suite 512
+Port Teresa, MT 81732"
+T000098,O000098,61,P000258,4,509.93,1019.86,0.01,0.09,2023-05-22,2023-05-22 06:18:34,bank_transfer,completed,"991 Koch Lane Suite 873
+North Nicholaston, WV 11975","9346 Miles Ville
+South Nicole, IL 58666"
+T000099,O000099,194,P000483,2,255.93,255.93,0.17,0.1,2023-03-04,2023-03-04 01:32:41,paypal,pending,"Unit 8598 Box 8163
+DPO AP 83216","69692 Marcus Radial
+South Angela, DE 69450"
+T000100,O000100,485,P000432,2,454.83,1819.32,0.05,0.17,2023-07-21,2023-07-21 17:41:44,bank_transfer,pending,"88725 Timothy Locks Apt. 376
+New Kimberly, AK 13409","6769 Paul Lakes Apt. 211
+Richardschester, KY 05760"
+T000101,O000101,177,P000176,5,817.3,1634.6,0.11,0.09,2023-11-06,2023-11-06 02:31:22,credit_card,cancelled,"55190 Montes Drives
+Lake Cassandraton, OH 42582","475 Wilson Ways Suite 946
+Brookston, OR 40647"
+T000102,O000102,488,P000160,2,823.41,1646.82,0.21,0.12,2023-06-06,2023-06-06 06:57:56,bank_transfer,pending,"863 Meredith Parkways
+South Nina, SD 40201","1902 Karen Manors Suite 851
+South Wanda, MO 51800"
+T000103,O000103,438,P000473,2,687.02,1374.04,0.21,0.12,2023-04-25,2023-04-25 18:04:28,credit_card,pending,"86112 Yang Mountain Apt. 454
+Lake Stephenville, NM 30091","710 Kennedy Springs
+East Justintown, MA 18630"
+T000104,O000104,276,P000131,4,809.05,809.05,0.01,0.14,2023-02-20,2023-02-20 00:11:02,bank_transfer,completed,"524 Johnson Rue
+Torresside, OR 89223","488 Nelson Wall Suite 486
+New Brandon, FM 89015"
+T000105,O000105,490,P000445,5,771.25,771.25,0.28,0.14,2023-11-25,2023-11-25 13:41:15,bank_transfer,cancelled,"9071 Lewis Plaza Suite 077
+East Daisytown, RI 02308","USNS Farrell
+FPO AP 07039"
+T000106,O000106,483,P000192,4,405.94,811.88,0.03,0.14,2023-12-09,2023-12-09 11:46:24,paypal,completed,"000 Prince Plains Apt. 402
+Waltersview, KY 30001","Unit 4122 Box 7855
+DPO AP 79174"
+T000107,O000107,451,P000358,4,394.91,1184.73,0.03,0.08,2023-09-06,2023-09-06 21:26:05,paypal,completed,"788 Joseph Rapids
+Margaretville, VI 15877","8504 Linda Landing
+Collinsberg, AZ 62426"
+T000108,O000108,282,P000050,2,188.24,188.24,0.24,0.13,2023-12-26,2023-12-26 12:51:01,paypal,cancelled,"923 Mark Rue Apt. 793
+Luisport, NJ 03906","PSC 5589, Box 8473
+APO AE 46975"
+T000109,O000109,346,P000151,5,782.93,1565.86,0.11,0.17,2023-10-03,2023-10-03 18:31:39,credit_card,cancelled,"1587 Le Pines Apt. 614
+South Rogerfort, AZ 20851","207 Gregory Village
+East Matthew, FL 74722"
+T000110,O000110,344,P000110,5,891.12,3564.48,0.16,0.18,2023-11-01,2023-11-01 01:16:19,credit_card,pending,"99475 Mcclain Glens
+Jeffreyview, FM 43170","602 Jeffrey Square
+Suttonland, ID 41774"
+T000111,O000111,481,P000060,3,341.06,1023.18,0.12,0.11,2023-06-13,2023-06-13 23:05:26,bank_transfer,cancelled,"79917 Foster Club Suite 260
+South Matthew, AZ 88768","24064 Morgan Mission
+Port Debrafurt, OK 32337"
+T000112,O000112,150,P000396,3,220.74,1103.7,0.05,0.09,2023-10-09,2023-10-09 07:20:31,bank_transfer,completed,"752 Tran Meadow Apt. 857
+Farleyburgh, NJ 13023","0202 Jose Way Suite 204
+Lake Linda, VT 31653"
+T000113,O000113,477,P000360,5,452.99,2264.95,0.02,0.14,2023-05-09,2023-05-09 13:01:00,paypal,cancelled,"PSC 4488, Box 9004
+APO AE 47712","2517 Bailey Spring
+West Malik, AZ 24013"
+T000114,O000114,241,P000470,1,484.94,969.88,0.22,0.19,2023-09-29,2023-09-29 00:19:40,paypal,cancelled,"790 Ryan Landing Apt. 749
+New Sara, CO 35646","USNS Pacheco
+FPO AA 58552"
+T000115,O000115,474,P000328,1,534.57,1069.14,0.22,0.18,2023-03-03,2023-03-03 01:04:11,bank_transfer,completed,"946 Courtney Plains Apt. 290
+Heatherside, MP 16774","2647 Richard Centers
+Harrisview, CA 42684"
+T000116,O000116,189,P000430,5,559.88,1679.64,0.21,0.1,2023-06-09,2023-06-09 17:31:10,bank_transfer,cancelled,"415 Nicole Isle
+Lake Angela, NV 51809","63201 Wood Gateway
+Scottshire, KY 57965"
+T000117,O000117,415,P000391,5,738.7,3693.5,0.01,0.13,2023-02-03,2023-02-03 13:01:38,credit_card,cancelled,"USNS Conley
+FPO AE 93293","USCGC Lucas
+FPO AE 77754"
+T000118,O000118,444,P000164,1,343.07,1372.28,0.17,0.16,2023-08-31,2023-08-31 19:43:47,bank_transfer,pending,"PSC 9948, Box 0410
+APO AP 09707","01744 John Lane
+South Terrybury, UT 17671"
+T000119,O000119,152,P000319,3,135.15,270.3,0.27,0.18,2023-11-25,2023-11-25 07:49:50,paypal,completed,"1916 Conrad Island Suite 197
+New William, KY 85363","309 Melanie Drive Suite 955
+Johnsonborough, GU 74588"
+T000120,O000120,382,P000322,4,824.48,4122.4,0.13,0.15,2023-02-24,2023-02-24 03:54:01,paypal,cancelled,"214 Andrew Passage Suite 813
+Heatherberg, GA 81501","Unit 2800 Box 8607
+DPO AE 04717"
+T000121,O000121,118,P000202,2,454.49,454.49,0.25,0.17,2023-12-25,2023-12-25 03:33:24,bank_transfer,pending,"0934 Andrew Locks Suite 670
+Matthewstad, KY 69317","59496 Mcdonald Vista Suite 693
+Markport, PA 37352"
+T000122,O000122,155,P000356,3,716.75,1433.5,0.28,0.17,2023-03-02,2023-03-02 10:36:47,credit_card,completed,"1337 Nguyen Place Suite 633
+Port Brian, NE 68806","20182 Wright Isle Apt. 985
+Sparksview, MI 47517"
+T000123,O000123,430,P000183,4,57.0,114.0,0.06,0.09,2023-02-23,2023-02-23 03:08:37,paypal,cancelled,"USNS Reyes
+FPO AP 62752","86201 Smith Valleys Suite 026
+East Carlosfort, SC 89916"
+T000124,O000124,267,P000202,4,454.49,2272.45,0.04,0.11,2023-02-21,2023-02-21 06:01:24,credit_card,completed,"87431 Lori Fort
+Gonzalezmouth, FL 52334","241 Anthony Village Suite 133
+Annastad, MN 49053"
+T000125,O000125,200,P000318,5,181.72,181.72,0.12,0.18,2023-01-17,2023-01-17 03:50:43,credit_card,cancelled,"615 Huynh Crest Apt. 819
+Bobside, GU 28596","7198 Chambers Mountain
+Samanthabury, ID 33167"
+T000126,O000126,283,P000113,4,196.61,589.83,0.07,0.07,2023-09-08,2023-09-08 14:38:17,paypal,cancelled,"7807 Michael Summit Apt. 722
+Poncebury, CA 57191","2746 Duke Trail
+Andersonborough, AZ 24022"
+T000127,O000127,349,P000461,5,735.66,2942.64,0.24,0.1,2023-11-05,2023-11-05 01:09:28,paypal,completed,"58935 Cooley Fork Apt. 342
+Meredithville, ID 36488","6042 Brown Summit
+West Cynthia, UT 06236"
+T000128,O000128,32,P000389,4,197.31,394.62,0.21,0.09,2023-06-12,2023-06-12 21:54:12,credit_card,pending,"5185 Richard Oval Suite 199
+Billyland, RI 90527","86012 Adams Causeway Apt. 106
+Ericfurt, OK 65035"
+T000129,O000129,172,P000301,3,236.12,236.12,0.0,0.11,2023-05-28,2023-05-28 10:20:29,bank_transfer,pending,"4886 Thomas Plaza Suite 983
+Lake Ebony, VT 45128","80072 Collin Creek Suite 836
+Staceyhaven, WA 41410"
+T000130,O000130,207,P000417,3,680.37,680.37,0.07,0.11,2023-07-02,2023-07-02 20:29:22,credit_card,cancelled,"62686 Ramirez Points
+Nealhaven, MA 21379","08704 Teresa Canyon Apt. 717
+East Kathleenborough, VT 57784"
+T000131,O000131,210,P000075,5,826.96,2480.88,0.02,0.13,2023-01-05,2023-01-05 22:19:29,bank_transfer,pending,"7594 Ryan Springs
+Ashleyburgh, WV 84520","17413 Amanda Mount Suite 287
+North Steveberg, GU 38850"
+T000132,O000132,280,P000484,2,394.48,1183.44,0.15,0.07,2023-12-21,2023-12-21 01:57:30,paypal,pending,"PSC 6976, Box 5549
+APO AP 42641","4118 Larry Shoals
+Yolandaland, AK 73799"
+T000133,O000133,392,P000018,5,163.4,490.2,0.07,0.15,2023-06-04,2023-06-04 13:58:50,bank_transfer,cancelled,"5292 Christy Canyon
+East Cherylchester, KS 79084","555 Kimberly Cove
+Kyleborough, WI 89918"
+T000134,O000134,11,P000007,1,895.45,895.45,0.05,0.12,2023-01-03,2023-01-03 06:19:22,credit_card,completed,"Unit 5374 Box 0451
+DPO AA 49453","USS Fisher
+FPO AA 99591"
+T000135,O000135,478,P000423,3,950.31,1900.62,0.04,0.1,2023-03-11,2023-03-11 03:40:40,paypal,pending,"USNV Hayes
+FPO AA 36621","560 Owens Tunnel
+South Susanchester, OH 74869"
+T000136,O000136,433,P000216,2,626.29,3131.45,0.24,0.15,2023-04-28,2023-04-28 19:45:11,bank_transfer,completed,"36800 West Way Apt. 941
+Port Samanthaport, NY 40435","0121 Earl Square
+Rangelview, MD 40148"
+T000137,O000137,213,P000446,2,353.39,706.78,0.13,0.08,2023-08-29,2023-08-29 19:33:41,paypal,cancelled,"43781 Murphy Parkways
+Lutzton, IA 40468","637 Morgan Plaza Apt. 975
+North Cynthia, ID 72411"
+T000138,O000138,244,P000206,1,957.12,957.12,0.27,0.15,2023-03-17,2023-03-17 13:22:38,bank_transfer,cancelled,"Unit 9517 Box 3782
+DPO AA 78612","397 Heather Spurs
+Matthewton, NE 80013"
+T000139,O000139,188,P000028,4,212.69,212.69,0.14,0.09,2023-03-05,2023-03-05 12:35:03,bank_transfer,cancelled,"02205 Barber Pine Apt. 132
+Braunside, IN 21323","563 Johnson Common
+Jamesview, OK 25027"
+T000140,O000140,252,P000023,1,904.93,2714.79,0.25,0.08,2023-12-13,2023-12-13 02:40:53,credit_card,pending,"4872 Harper Oval Apt. 081
+North Jennifer, GA 83981","Unit 8430 Box 5650
+DPO AA 45848"
+T000141,O000141,397,P000445,4,771.25,2313.75,0.21,0.16,2023-08-27,2023-08-27 18:30:22,bank_transfer,completed,"979 Gibson Keys
+West Kevin, UT 80802","5247 Levine Pine Apt. 707
+Harrisonside, ID 13928"
+T000142,O000142,487,P000262,5,41.67,41.67,0.21,0.07,2023-05-11,2023-05-11 19:19:41,bank_transfer,cancelled,"81646 Debbie Trafficway Apt. 180
+Poncechester, IN 26171","205 Corey Tunnel
+Lake Kevin, NM 41498"
+T000143,O000143,120,P000179,5,859.41,859.41,0.01,0.18,2023-10-27,2023-10-27 08:54:24,credit_card,cancelled,"PSC 6073, Box 3855
+APO AA 57662","427 Andrea Path
+Lopezside, NH 03031"
+T000144,O000144,401,P000228,5,590.65,1771.95,0.15,0.11,2023-12-25,2023-12-25 20:27:58,bank_transfer,completed,"36718 Bruce Ford
+Lake John, AZ 39188","163 Santos Roads Apt. 577
+Brandonstad, IL 68687"
+T000145,O000145,353,P000490,3,610.29,1220.58,0.09,0.08,2023-11-23,2023-11-23 17:27:44,bank_transfer,cancelled,"PSC 1137, Box 0544
+APO AA 37429","58794 Romero Passage
+South Shelbytown, VI 47651"
+T000146,O000146,472,P000123,4,817.32,1634.64,0.23,0.12,2023-01-08,2023-01-08 02:32:32,bank_transfer,pending,"6341 Emily Harbors Suite 586
+South Leviburgh, SC 74450","Unit 9675 Box 5339
+DPO AE 90693"
+T000147,O000147,35,P000171,3,34.03,102.09,0.28,0.16,2023-01-28,2023-01-28 11:08:26,bank_transfer,cancelled,"619 Simmons Neck Suite 274
+Stanleyborough, OK 15663","90584 Mcgee Vista Apt. 335
+Michelletown, NH 27771"
+T000148,O000148,461,P000202,5,454.49,908.98,0.09,0.09,2023-07-20,2023-07-20 18:14:41,paypal,pending,"13925 Hunter Center
+Cathyhaven, WV 02022","297 Joyce Walks
+Royshire, MS 28437"
+T000149,O000149,295,P000122,5,522.98,2091.92,0.16,0.2,2023-06-23,2023-06-23 08:42:17,credit_card,completed,"795 Costa Mission
+Leeshire, NC 33996","89141 Lisa Place
+North Michaelmouth, DC 59079"
+T000150,O000150,329,P000166,4,24.74,98.96,0.07,0.09,2023-09-06,2023-09-06 07:01:30,bank_transfer,completed,"USNV Glass
+FPO AP 30157","7434 Jenkins Fords
+Tiffanyside, IA 86735"
+T000151,O000151,73,P000289,5,931.23,931.23,0.26,0.08,2023-06-25,2023-06-25 02:17:14,paypal,pending,"58530 Spencer Alley
+North Samantha, AZ 27566","55615 Michael Tunnel
+East Codyburgh, AS 80175"
+T000152,O000152,304,P000216,5,626.29,2505.16,0.29,0.07,2023-10-18,2023-10-18 23:05:36,paypal,completed,"01373 Gregg Cliff
+East Garyshire, AS 93831","3676 Greg Road Apt. 327
+Youngmouth, UT 95930"
+T000153,O000153,435,P000119,5,785.0,2355.0,0.12,0.07,2023-07-24,2023-07-24 21:11:05,paypal,cancelled,"0448 Miller Points Suite 678
+Rebeccaton, PR 71922","93378 Nicholas Rapid Suite 144
+Amberport, MN 70607"
+T000154,O000154,208,P000370,5,50.0,50.0,0.26,0.1,2023-11-27,2023-11-27 08:27:27,paypal,cancelled,"3498 James Squares Suite 194
+Crystalton, MT 45686","36672 Daniel Island Suite 682
+West Oscarside, UT 15847"
+T000155,O000155,364,P000304,1,186.17,558.51,0.19,0.19,2023-01-16,2023-01-16 11:20:37,credit_card,completed,"90389 Amanda Mission Apt. 335
+Heidiland, MI 21639","71102 Victoria Port Suite 711
+Andrewsfurt, GU 52246"
+T000156,O000156,443,P000318,2,181.72,181.72,0.22,0.14,2023-10-20,2023-10-20 13:17:10,credit_card,pending,"8086 Green Route
+Port Michael, AS 94924","608 Michelle Stravenue
+Michellehaven, AR 77496"
+T000157,O000157,332,P000046,5,808.22,4041.1,0.28,0.16,2023-05-25,2023-05-25 16:45:45,paypal,pending,"7207 Jacobson Lodge
+Joshuaborough, PA 95741","USS Ruiz
+FPO AP 12113"
+T000158,O000158,33,P000342,4,664.32,2657.28,0.09,0.12,2023-01-21,2023-01-21 10:34:18,credit_card,pending,"891 Susan Point Suite 079
+Batesshire, WY 62357","41475 Shannon Rest Apt. 829
+Tinastad, AS 69659"
+T000159,O000159,415,P000181,5,561.99,1123.98,0.18,0.17,2023-01-21,2023-01-21 05:51:12,paypal,completed,"430 Thompson Village Apt. 059
+West Amandashire, CO 60201","0876 Melissa Skyway
+Wilsonside, DE 19899"
+T000160,O000160,145,P000286,5,552.62,552.62,0.11,0.18,2023-12-10,2023-12-10 19:02:09,credit_card,cancelled,"USNV Smith
+FPO AE 06324","634 Cruz Tunnel
+Raymondfurt, MH 62112"
+T000161,O000161,333,P000350,2,521.28,1563.84,0.11,0.14,2023-12-20,2023-12-20 09:42:11,paypal,completed,"0929 Patricia Oval Suite 728
+South Benjamin, OH 21272","961 Mackenzie Rest Apt. 275
+New Kenneth, WV 74016"
+T000162,O000162,374,P000487,5,742.09,2968.36,0.29,0.18,2023-01-27,2023-01-27 03:34:37,bank_transfer,cancelled,"55026 Robert Track Apt. 037
+Lake Stephen, MD 54393","37833 Emily Vista Suite 507
+Mortonbury, MI 31323"
+T000163,O000163,199,P000293,4,574.73,2873.65,0.13,0.1,2023-05-23,2023-05-23 06:56:41,credit_card,cancelled,"579 Zachary Isle
+Jasonton, NJ 94201","306 Alexander Garden Suite 079
+South Danielle, GU 29248"
+T000164,O000164,277,P000486,2,493.69,493.69,0.0,0.17,2023-05-26,2023-05-26 00:30:55,paypal,cancelled,"4468 Lopez Cliff Suite 125
+Lozanotown, IA 56762","18398 Joseph Shore
+East Derekberg, NC 34766"
+T000165,O000165,216,P000425,1,777.14,2331.42,0.26,0.14,2023-08-06,2023-08-06 21:47:39,credit_card,cancelled,"3887 Hernandez Ports
+South Maryhaven, MN 13869","USNS Fields
+FPO AP 62827"
+T000166,O000166,434,P000013,4,380.22,1901.1,0.18,0.09,2023-02-16,2023-02-16 02:36:50,credit_card,pending,"611 Carolyn Street Apt. 017
+Diazton, ND 96470","78632 Lee Vista Apt. 724
+Port Rebeccaview, DE 64463"
+T000167,O000167,497,P000279,5,388.55,388.55,0.06,0.17,2023-12-22,2023-12-22 00:34:34,paypal,completed,"83789 Nicole Expressway
+Shannonmouth, KY 12419","025 Miller Spurs
+Keithtown, NJ 50887"
+T000168,O000168,485,P000261,1,327.57,327.57,0.2,0.14,2023-02-02,2023-02-02 13:58:02,paypal,pending,"96343 Jamie Isle
+West Timothy, AS 75331","14626 Thompson Circle
+East Briannachester, NV 47060"
+T000169,O000169,368,P000286,5,552.62,2763.1,0.26,0.19,2023-10-26,2023-10-26 19:00:22,paypal,completed,"62995 Stanley Hills Suite 895
+Lake John, GA 56751","2279 Anthony Flat
+Port Williamton, AS 76874"
+T000170,O000170,311,P000374,4,484.14,484.14,0.28,0.06,2023-07-03,2023-07-03 10:16:12,paypal,completed,"4257 Amanda Harbor Apt. 245
+Campbellton, OK 69645","30914 Alexander Plains
+Davidsonton, AS 13074"
+T000171,O000171,103,P000295,1,401.65,401.65,0.24,0.09,2023-07-12,2023-07-12 13:24:47,bank_transfer,pending,"822 Mosley Village Apt. 111
+South Rachel, DC 44895","3639 Rhonda Ports Apt. 785
+West Sean, MH 58569"
+T000172,O000172,419,P000113,2,196.61,983.05,0.17,0.13,2023-07-19,2023-07-19 05:50:09,paypal,pending,"Unit 7842 Box 7121
+DPO AP 03002","561 Derek Lakes
+North Renee, OR 26257"
+T000173,O000173,210,P000407,5,517.48,1034.96,0.27,0.19,2023-06-29,2023-06-29 09:38:12,paypal,completed,"529 Morgan Shore
+North David, WY 41521","80024 Jeffrey Spurs
+Lake Aliciamouth, SD 77248"
+T000174,O000174,161,P000370,1,50.0,100.0,0.1,0.17,2023-09-28,2023-09-28 21:14:38,credit_card,completed,"36547 Jeffrey Estate Apt. 889
+Jacksonport, TN 21179","82698 Cross Islands
+Sarahport, VT 74013"
+T000175,O000175,497,P000297,2,679.16,679.16,0.25,0.13,2023-01-29,2023-01-29 06:18:49,bank_transfer,completed,"3745 William Ways Apt. 647
+North Jonathan, GU 24915","58875 Jordan Estates
+South Michael, IL 30102"
+T000176,O000176,100,P000268,1,887.25,3549.0,0.21,0.05,2023-11-12,2023-11-12 23:59:56,bank_transfer,completed,"3510 Ferguson Village Apt. 236
+Wagnerchester, NC 78995","68272 Michael Parkways
+Lake Lisa, DC 54693"
+T000177,O000177,180,P000043,4,958.48,3833.92,0.19,0.07,2023-04-08,2023-04-08 23:18:00,credit_card,pending,"50796 Devon Radial
+Lake Kevin, OK 83210","PSC 3624, Box 0731
+APO AP 85534"
+T000178,O000178,420,P000141,2,154.51,309.02,0.04,0.1,2023-04-13,2023-04-13 14:01:46,bank_transfer,cancelled,"51828 Angela Via
+West Kendrabury, TN 76416","934 Mason Inlet Suite 260
+Lake Travisfort, WI 45673"
+T000179,O000179,463,P000337,4,566.37,566.37,0.27,0.17,2023-03-22,2023-03-22 18:25:50,bank_transfer,pending,"0316 Marquez Parkways Suite 485
+South Denisehaven, WI 78779","2957 William Curve
+New Garychester, OK 18573"
+T000180,O000180,62,P000092,2,294.81,294.81,0.04,0.13,2023-11-13,2023-11-13 05:17:23,bank_transfer,cancelled,"97404 Crystal Valleys Suite 148
+Ashleychester, GU 44609","210 Karen Via
+East Ashley, CT 01997"
+T000181,O000181,375,P000466,5,819.84,819.84,0.27,0.1,2023-06-23,2023-06-23 20:06:53,credit_card,cancelled,"Unit 7683 Box 9138
+DPO AA 86956","9801 Jason Meadow Suite 532
+Lawsonland, OR 34975"
+T000182,O000182,74,P000446,1,353.39,353.39,0.08,0.1,2023-06-28,2023-06-28 23:23:02,credit_card,cancelled,"07620 Sawyer Rue
+South Joseph, CO 05075","2644 Crawford Extensions
+Randyburgh, SC 49614"
+T000183,O000183,237,P000187,2,163.94,327.88,0.02,0.2,2023-05-09,2023-05-09 21:31:22,credit_card,completed,"7305 Matthew Tunnel Apt. 998
+Rogersmouth, AL 39244","858 Brian Dam
+Markport, ND 66854"
+T000184,O000184,176,P000496,3,490.88,490.88,0.22,0.13,2023-09-05,2023-09-05 07:07:46,credit_card,cancelled,"18084 Crosby Stravenue Suite 952
+North Patricialand, SC 30833","372 Murphy Street
+Ethanfort, MI 16086"
+T000185,O000185,219,P000255,3,746.91,1493.82,0.2,0.12,2023-03-23,2023-03-23 04:00:28,paypal,completed,"PSC 5294, Box 7078
+APO AA 35550","USNS Arnold
+FPO AP 61124"
+T000186,O000186,30,P000156,1,107.85,323.55,0.19,0.1,2023-11-26,2023-11-26 09:32:22,credit_card,cancelled,"4708 Zachary Common
+Lake Justinport, HI 68026","792 Duran Orchard Suite 714
+West Jonathanfort, AR 39421"
+T000187,O000187,457,P000366,5,226.96,907.84,0.08,0.13,2023-07-11,2023-07-11 18:29:41,paypal,pending,"101 Nicole Via
+Michaelside, OH 20672","255 Merritt Junctions
+South Laura, PA 09506"
+T000188,O000188,128,P000231,3,151.82,759.1,0.18,0.06,2023-01-14,2023-01-14 16:20:23,credit_card,cancelled,"465 Woods Motorway Suite 614
+West Johnbury, WA 80824","6329 Anthony Cove Suite 384
+East Julietown, NY 68203"
+T000189,O000189,314,P000368,3,237.92,1189.6,0.09,0.15,2023-05-28,2023-05-28 18:49:15,bank_transfer,pending,"Unit 6410 Box 6619
+DPO AP 67933","36401 Mark Club
+Dunnshire, OK 13111"
+T000190,O000190,48,P000294,3,390.89,1954.45,0.12,0.1,2023-09-22,2023-09-22 22:23:25,paypal,completed,"3609 Pacheco Lock Apt. 864
+East Brittany, CO 03953","10502 Joseph Lane
+Kellytown, RI 01563"
+T000191,O000191,359,P000143,3,32.61,130.44,0.01,0.15,2023-02-03,2023-02-03 09:55:44,credit_card,pending,"5188 Stacy Mountains Apt. 506
+Melissafort, NV 85580","305 Dixon Harbors
+South Jeffreyton, IL 89255"
+T000192,O000192,251,P000209,4,182.65,547.95,0.25,0.12,2023-10-25,2023-10-25 11:54:07,credit_card,completed,"898 Robin Village
+Josephshire, NM 53131","153 Angelica Mission Suite 881
+Justinchester, RI 05364"
+T000193,O000193,120,P000110,3,891.12,4455.6,0.05,0.12,2023-04-23,2023-04-23 20:25:49,paypal,cancelled,"441 Clark Spring
+New Lisa, CA 25050","6992 Thomas Gateway
+New Gabrielleberg, VA 52527"
+T000194,O000194,2,P000037,2,639.37,3196.85,0.04,0.12,2023-08-24,2023-08-24 19:39:26,bank_transfer,cancelled,"73778 Campbell Terrace Suite 965
+New Joshua, RI 94527","29406 Rachel Circles
+Lloydburgh, MN 30023"
+T000195,O000195,272,P000437,3,425.19,1700.76,0.26,0.13,2023-07-12,2023-07-12 05:56:51,bank_transfer,completed,"0482 Jessica Locks
+Michaelmouth, SD 04769","536 Sandra Lake
+Timothyville, WY 66268"
+T000196,O000196,258,P000142,3,756.83,1513.66,0.08,0.11,2023-03-30,2023-03-30 13:45:00,paypal,completed,"17788 Andrew Forges
+North Craigview, WA 43041","09037 Fuller Mountain
+East Charlesburgh, CT 24252"
+T000197,O000197,164,P000134,5,208.54,417.08,0.19,0.16,2023-01-28,2023-01-28 13:23:22,credit_card,pending,"6866 Hoffman Run Apt. 886
+West Jessicafort, VT 61042","8730 Morgan Summit Apt. 548
+Lake Marissamouth, MP 76636"
+T000198,O000198,59,P000022,5,496.56,993.12,0.22,0.13,2023-11-29,2023-11-29 16:28:05,bank_transfer,completed,"20327 Smith Extensions
+West Arthur, WY 51087","04351 Morris Lock Suite 137
+West Travis, MI 59567"
+T000199,O000199,498,P000251,1,628.57,628.57,0.03,0.14,2023-01-01,2023-01-01 18:22:59,bank_transfer,completed,"1228 Joseph Islands
+Lake Kathleenfurt, WV 59676","73459 Mccarthy Isle Suite 234
+New Eduardostad, KS 75768"
+T000200,O000200,86,P000317,5,571.72,1143.44,0.09,0.1,2023-03-11,2023-03-11 10:07:21,credit_card,pending,"0079 Moore Mountain Suite 369
+Bowmanmouth, GA 94763","762 Caroline Mills Apt. 362
+North Jose, TN 19511"
+T000201,O000201,47,P000388,2,622.27,1244.54,0.15,0.08,2023-09-01,2023-09-01 18:55:44,bank_transfer,completed,"1366 Carlos Flat
+Amandachester, AR 62887","6298 Margaret Courts
+Stephenston, NJ 91482"
+T000202,O000202,188,P000484,3,394.48,1577.92,0.17,0.09,2023-09-20,2023-09-20 15:39:59,paypal,cancelled,"PSC 3398, Box 7704
+APO AE 44278","3471 Tina Passage Suite 811
+Adamshaven, NV 93893"
+T000203,O000203,115,P000138,4,464.94,929.88,0.22,0.17,2023-01-30,2023-01-30 01:23:10,credit_card,cancelled,"PSC 0510, Box 4292
+APO AP 89697","4324 Roberts Prairie Apt. 953
+Nealhaven, NH 46034"
+T000204,O000204,384,P000345,1,671.55,671.55,0.04,0.16,2023-10-12,2023-10-12 14:43:29,credit_card,completed,"324 Hammond Union
+North Wendy, MH 38224","200 Douglas Grove Suite 867
+North Jacob, AS 23701"
+T000205,O000205,479,P000052,5,191.02,955.1,0.25,0.19,2023-07-19,2023-07-19 22:43:52,bank_transfer,completed,"4582 Morales Heights Suite 530
+East Sonya, NY 36843","24005 Shawn Hill
+Burkeburgh, MN 66702"
+T000206,O000206,265,P000218,2,438.29,2191.45,0.05,0.19,2023-03-13,2023-03-13 23:47:33,paypal,pending,"56738 Potter Flats
+North Lisabury, MO 09675","9399 Joanna Knolls Apt. 446
+Sheilatown, NJ 39018"
+T000207,O000207,246,P000166,4,24.74,123.7,0.25,0.07,2023-09-30,2023-09-30 17:29:06,paypal,pending,"Unit 3911 Box 3646
+DPO AE 96823","287 Hendricks Expressway
+Lukemouth, KS 28783"
+T000208,O000208,442,P000065,5,571.53,2857.65,0.04,0.19,2023-11-29,2023-11-29 16:43:15,paypal,completed,"3913 Lauren Port Apt. 837
+Cunninghamborough, SC 18122","791 Young Valley
+Whitestad, MI 96581"
+T000209,O000209,221,P000130,5,204.25,1021.25,0.26,0.15,2023-11-10,2023-11-10 02:11:37,paypal,pending,"787 Kim Freeway
+New Stephanie, IL 97622","380 Andrea Lodge Apt. 322
+Lake Alexandraberg, NC 12910"
+T000210,O000210,206,P000213,1,532.0,532.0,0.23,0.17,2023-10-02,2023-10-02 16:11:26,credit_card,pending,"9894 Kimberly Knoll Apt. 220
+Lake Margaretchester, TN 72167","8118 Williams Hollow Apt. 142
+Port Richardport, SC 59033"
+T000211,O000211,138,P000415,1,357.37,1429.48,0.2,0.14,2023-08-22,2023-08-22 21:44:03,paypal,completed,"6559 Stephen Forges
+New Arianaton, VT 06409","USNS Hubbard
+FPO AA 27026"
+T000212,O000212,69,P000356,4,716.75,716.75,0.01,0.19,2023-06-04,2023-06-04 10:52:47,credit_card,completed,"3915 Ramos Spur Apt. 375
+Kerryfort, FL 35325","759 Bryant Shoal
+Lake Rachelborough, MO 94876"
+T000213,O000213,447,P000078,1,836.08,4180.4,0.29,0.1,2023-07-07,2023-07-07 03:29:51,paypal,pending,"PSC 2837, Box 5637
+APO AA 61031","522 Williams Alley
+North Johnberg, KY 33506"
+T000214,O000214,417,P000169,1,749.93,749.93,0.02,0.16,2023-10-08,2023-10-08 12:18:26,credit_card,cancelled,"0203 Samantha Unions
+West Daniel, WI 92597","PSC 2235, Box 3725
+APO AE 28755"
+T000215,O000215,336,P000448,4,252.54,1010.16,0.07,0.16,2023-02-11,2023-02-11 14:51:47,credit_card,completed,"2989 White Junction
+Port Gregory, NH 56951","20192 Carly Drive Apt. 795
+North Kendra, ID 32476"
+T000216,O000216,399,P000382,2,162.74,162.74,0.01,0.09,2023-02-01,2023-02-01 17:41:20,credit_card,cancelled,"1222 Sierra Heights Suite 889
+Smithmouth, MS 71822","360 Conway Inlet Apt. 244
+Lake Stephen, CA 86700"
+T000217,O000217,164,P000078,2,836.08,2508.24,0.1,0.12,2023-10-16,2023-10-16 06:32:14,paypal,cancelled,"475 Jimmy Extension Apt. 856
+Mullinschester, WV 25264","7136 Alexandra Mountain
+Kathyburgh, TX 65128"
+T000218,O000218,358,P000279,1,388.55,1554.2,0.23,0.1,2023-01-11,2023-01-11 16:07:52,credit_card,cancelled,"46894 Mason Oval
+Matthewfurt, MI 16951","PSC 3039, Box 7892
+APO AP 74978"
+T000219,O000219,181,P000042,1,921.26,2763.78,0.03,0.14,2023-05-15,2023-05-15 10:58:56,paypal,completed,"123 Singleton Curve
+Benjaminshire, OR 76300","9580 Michael Dale
+West Jessicaland, RI 42041"
+T000220,O000220,138,P000403,3,754.71,3773.55,0.25,0.06,2023-01-28,2023-01-28 17:13:14,paypal,pending,"9321 Roger Parks
+Lake David, CO 50326","299 Philip River
+Lake Deanna, WV 65163"
+T000221,O000221,287,P000154,1,211.49,211.49,0.11,0.18,2023-06-10,2023-06-10 13:15:15,bank_transfer,completed,"6711 David Streets
+Sydneyshire, NY 29953","5830 Brown Estate Apt. 026
+New Maryburgh, MA 51902"
+T000222,O000222,150,P000410,3,961.45,4807.25,0.15,0.07,2023-09-21,2023-09-21 11:31:15,credit_card,completed,"PSC 5272, Box 7252
+APO AP 16725","4663 Brock Neck Suite 047
+Danielfurt, WY 12412"
+T000223,O000223,411,P000195,3,231.26,925.04,0.07,0.08,2023-03-10,2023-03-10 16:23:24,paypal,cancelled,"1668 Green Street Apt. 478
+East Annettetown, VI 03881","110 Bryan Tunnel Suite 473
+Jonesberg, PA 30948"
+T000224,O000224,476,P000279,3,388.55,1942.75,0.14,0.11,2023-09-04,2023-09-04 19:09:17,credit_card,pending,"1394 Whitney Street
+Port Jeffrey, MN 01263","287 Patrick Parks Apt. 642
+Lake Carrie, AZ 82661"
+T000225,O000225,218,P000057,2,569.06,2276.24,0.01,0.16,2023-10-28,2023-10-28 13:29:33,credit_card,cancelled,"258 Beck Gardens
+Russellville, VT 86231","392 Smith Summit Apt. 940
+Rebeccafurt, UT 29814"
+T000226,O000226,231,P000197,5,500.64,2503.2,0.12,0.07,2023-12-18,2023-12-18 23:59:54,bank_transfer,completed,"77609 Janice Manor Suite 925
+Hahnfurt, MN 85293","19534 Timothy Pine
+Lake Antonioberg, DE 46342"
+T000227,O000227,60,P000392,2,118.95,475.8,0.29,0.09,2023-07-12,2023-07-12 19:50:44,credit_card,completed,"74927 Timothy Freeway Suite 963
+Smithport, ID 38352","92790 Michael Mountain Apt. 313
+North Barbara, AK 75779"
+T000228,O000228,486,P000362,4,630.77,1892.31,0.25,0.16,2023-07-12,2023-07-12 00:52:09,paypal,cancelled,"5518 Ronald Freeway Suite 149
+West Catherine, WV 40985","632 Jennings Estate
+New Andrewchester, AS 87966"
+T000229,O000229,436,P000004,2,247.05,247.05,0.25,0.18,2023-10-20,2023-10-20 06:10:48,credit_card,completed,"729 Mikayla Wall Suite 428
+Williamstown, PR 29147","10165 Ryan Rue
+Andrewtown, ND 18645"
+T000230,O000230,23,P000110,2,891.12,1782.24,0.11,0.16,2023-01-28,2023-01-28 16:52:37,bank_transfer,cancelled,"95898 Singh Extensions
+Lake Jeffrey, MP 39649","901 Cassidy Route
+New Robert, NH 88676"
+T000231,O000231,494,P000153,2,509.84,2549.2,0.03,0.16,2023-06-30,2023-06-30 02:13:14,credit_card,cancelled,"PSC 2829, Box 0732
+APO AA 21033","8981 Carlson Route
+Port Rosemouth, WA 02118"
+T000232,O000232,172,P000178,5,866.96,1733.92,0.19,0.08,2023-06-14,2023-06-14 17:49:30,paypal,cancelled,"295 Hill Garden
+Clarkton, MH 23051","80913 Neal Crescent Suite 931
+East Matthewburgh, TN 54905"
+T000233,O000233,41,P000204,5,794.41,794.41,0.06,0.19,2023-09-16,2023-09-16 08:30:05,paypal,completed,"784 Turner Station Suite 990
+Bauerville, FM 30112","62834 Phelps Drive
+Lake Douglas, AZ 66288"
+T000234,O000234,379,P000052,3,191.02,573.06,0.05,0.11,2023-10-17,2023-10-17 02:11:42,bank_transfer,completed,"8774 King Fords
+Makaylaton, PA 88267","03301 Todd Knoll
+Carlsonstad, ME 15022"
+T000235,O000235,46,P000300,4,298.93,1195.72,0.06,0.12,2023-09-22,2023-09-22 23:00:48,credit_card,pending,"3175 Brittany Cape
+Wallaceville, FM 57888","27583 Evans Cape
+Port Melissaburgh, CA 84340"
+T000236,O000236,449,P000030,4,527.37,527.37,0.06,0.05,2023-04-27,2023-04-27 02:26:43,credit_card,pending,"4323 Smith Creek
+South Danielmouth, CT 39603","426 Steven Ridges Apt. 125
+Andersonborough, VT 57481"
+T000237,O000237,128,P000359,4,718.3,718.3,0.2,0.14,2023-06-02,2023-06-02 19:40:01,paypal,completed,"640 Roy Fields
+Lake Amyview, MD 02626","836 Michael Lodge
+Karentown, MO 74709"
+T000238,O000238,213,P000436,3,941.98,1883.96,0.12,0.09,2023-08-06,2023-08-06 14:07:37,paypal,pending,"59523 Madison Points
+Goldenfort, MH 34496","4687 Phillips Row
+Lake Jenniferville, MP 02669"
+T000239,O000239,213,P000208,4,919.73,3678.92,0.16,0.2,2023-06-24,2023-06-24 10:14:13,paypal,pending,"6754 Griffin Highway Apt. 408
+Jacquelineville, NJ 05424","2601 Owen Mountains
+East Yvettetown, NM 01187"
+T000240,O000240,422,P000023,4,904.93,904.93,0.05,0.18,2023-08-26,2023-08-26 00:46:16,paypal,cancelled,"Unit 2933 Box 4809
+DPO AE 76850","10680 Lang Track
+Flemingfort, IL 44473"
+T000241,O000241,252,P000461,1,735.66,735.66,0.03,0.17,2023-11-27,2023-11-27 17:54:14,paypal,completed,"2547 Barton Branch Suite 429
+South Renee, TN 05310","11207 Jeremy Mall Apt. 536
+Ericaland, RI 37318"
+T000242,O000242,286,P000399,4,942.54,4712.7,0.16,0.09,2023-11-13,2023-11-13 09:08:37,credit_card,pending,"81701 Fischer Freeway
+New Biancafort, FL 98649","88571 Roth Oval Apt. 021
+Taylorville, MH 80959"
+T000243,O000243,99,P000104,1,176.61,883.05,0.22,0.13,2023-11-21,2023-11-21 18:56:27,paypal,cancelled,"Unit 9043 Box 8116
+DPO AP 21264","70349 Evans Courts Suite 354
+Port Joannaburgh, WY 97925"
+T000244,O000244,419,P000287,2,903.71,903.71,0.28,0.09,2023-12-22,2023-12-22 01:35:50,credit_card,pending,"8684 Kimberly Mount
+Heathershire, RI 11114","200 Barry Meadow Apt. 146
+Davisfurt, ND 04118"
+T000245,O000245,23,P000201,2,842.76,842.76,0.27,0.1,2023-06-01,2023-06-01 10:42:49,bank_transfer,cancelled,"9480 Laurie Villages
+New Jessicaville, MP 85772","72751 English Cove
+Donnaville, VA 97080"
+T000246,O000246,362,P000276,5,47.99,47.99,0.27,0.19,2023-06-25,2023-06-25 03:25:09,credit_card,cancelled,"0147 Peck Trail Apt. 356
+Smithbury, AZ 42081","9414 John Greens Apt. 304
+Brandonfort, GU 39032"
+T000247,O000247,168,P000176,4,817.3,1634.6,0.07,0.11,2023-02-14,2023-02-14 23:47:54,credit_card,cancelled,"0771 David Squares Apt. 445
+South Brianstad, MP 50343","95656 Carl Forges
+West Grant, FM 95930"
+T000248,O000248,276,P000091,2,637.52,2550.08,0.22,0.07,2023-04-28,2023-04-28 19:13:10,bank_transfer,cancelled,"75788 Salazar Flat Apt. 571
+Lake Josephport, ND 38119","954 Lisa Valley
+East Jeffery, SC 92546"
+T000249,O000249,185,P000229,3,32.52,32.52,0.29,0.15,2023-12-28,2023-12-28 02:48:34,paypal,completed,"26981 Samantha Cliffs Suite 881
+Lake Kevinview, PW 20125","82553 Oscar Course
+New Robertview, WY 04895"
+T000250,O000250,337,P000055,2,130.99,523.96,0.25,0.11,2023-09-07,2023-09-07 16:15:22,credit_card,pending,"93951 Duncan Forest Suite 144
+Marthahaven, MN 93322","66790 Hayes Inlet Apt. 341
+East Denisetown, IA 82276"
+T000251,O000251,151,P000024,5,378.42,378.42,0.28,0.16,2023-01-21,2023-01-21 20:43:50,bank_transfer,pending,"920 Gomez Glen
+Longborough, HI 07295","6842 Jennifer Extension Apt. 582
+North Megan, AS 67767"
+T000252,O000252,191,P000184,4,460.3,1380.9,0.18,0.15,2023-02-08,2023-02-08 14:41:25,paypal,pending,"926 Brown Keys
+Walterschester, AZ 03394","PSC 2678, Box 0490
+APO AA 29636"
+T000253,O000253,484,P000471,3,622.02,622.02,0.19,0.14,2023-12-13,2023-12-13 01:48:00,bank_transfer,completed,"52006 Solis Mountain
+Tinamouth, KS 97664","85583 Schaefer Street
+East Chad, RI 27025"
+T000254,O000254,427,P000039,2,846.57,846.57,0.15,0.11,2023-06-23,2023-06-23 02:16:03,bank_transfer,pending,"67055 Rogers Crossing Suite 665
+Lake Chadshire, VT 66337","Unit 7374 Box 9191
+DPO AA 07068"
+T000255,O000255,397,P000323,4,973.59,2920.77,0.22,0.19,2023-06-01,2023-06-01 23:38:02,bank_transfer,pending,"73277 Lee Squares Apt. 668
+New Michaelbury, MD 92407","720 Hicks Rapids Suite 926
+Caldwellside, FL 85992"
+T000256,O000256,482,P000041,2,615.62,615.62,0.21,0.17,2023-05-23,2023-05-23 21:22:06,credit_card,completed,"266 Donna Vista Suite 786
+Port Jasonport, CO 25440","3511 Shelton Walk Apt. 680
+East Gabrielleberg, MO 98651"
+T000257,O000257,466,P000029,2,254.1,254.1,0.15,0.07,2023-03-28,2023-03-28 15:20:13,credit_card,pending,"41742 Morales Glens
+Phillipport, FL 42520","USCGC Humphrey
+FPO AA 28309"
+T000258,O000258,122,P000182,4,168.67,506.01,0.11,0.06,2023-06-12,2023-06-12 20:28:30,paypal,completed,"90296 Reynolds Extension Suite 413
+Clineside, RI 20512","USNS Carey
+FPO AA 65283"
+T000259,O000259,207,P000447,1,19.88,99.4,0.28,0.11,2023-03-02,2023-03-02 00:12:28,paypal,pending,"13621 Wilson Pines
+New Paulberg, LA 93967","26592 Morales Forest
+Sharonshire, MS 88017"
+T000260,O000260,321,P000194,2,297.12,891.36,0.2,0.09,2023-09-02,2023-09-02 07:40:17,bank_transfer,cancelled,"79769 Taylor Village Apt. 351
+East Scottmouth, TX 97804","5673 Keller Court
+New Caseytown, VT 28811"
+T000261,O000261,484,P000193,5,566.34,1699.02,0.21,0.19,2023-05-30,2023-05-30 19:22:28,credit_card,cancelled,"734 Sparks Mews Suite 496
+Evanshaven, VI 47729","87330 Mcgee Forks Suite 991
+Johnsonhaven, MA 01167"
+T000262,O000262,418,P000206,2,957.12,1914.24,0.2,0.18,2023-01-03,2023-01-03 11:38:25,bank_transfer,completed,"552 Nicole Square Apt. 668
+East Jennifer, SC 46145","848 Edward Route Apt. 148
+Jessicahaven, OK 12467"
+T000263,O000263,317,P000184,4,460.3,460.3,0.12,0.1,2023-07-09,2023-07-09 20:36:33,credit_card,pending,"6139 Susan Courts
+North Kendrashire, NY 08294","7653 Young River
+New Sandrafurt, AZ 61992"
+T000264,O000264,378,P000302,1,783.08,3915.4,0.11,0.11,2023-04-17,2023-04-17 08:47:19,bank_transfer,completed,"USS Morrow
+FPO AP 61144","00993 James Throughway Suite 906
+North Jameschester, IA 79434"
+T000265,O000265,102,P000473,5,687.02,687.02,0.16,0.09,2023-11-26,2023-11-26 06:13:33,paypal,cancelled,"564 Lauren Isle Suite 184
+Littletown, MO 42907","897 Patricia Landing
+East Nicholeville, NJ 62860"
+T000266,O000266,484,P000430,5,559.88,559.88,0.0,0.12,2023-07-27,2023-07-27 00:17:13,credit_card,cancelled,"272 Anderson Points Suite 292
+Linview, MP 64711","Unit 6046 Box 8634
+DPO AA 65254"
+T000267,O000267,336,P000426,1,409.35,2046.75,0.13,0.07,2023-09-03,2023-09-03 21:22:23,credit_card,cancelled,"93865 Brown Plaza
+Port Matthewhaven, SC 08610","47517 Flores Dale Suite 368
+North Randy, LA 91228"
+T000268,O000268,442,P000413,5,778.03,778.03,0.02,0.09,2023-06-05,2023-06-05 20:22:46,credit_card,completed,"98211 Amy Mountain
+New Jackson, MP 76452","62645 Tonya Passage Suite 092
+Williamsstad, GA 61586"
+T000269,O000269,275,P000202,1,454.49,908.98,0.15,0.05,2023-11-20,2023-11-20 10:34:18,credit_card,cancelled,"91105 Howell Key Suite 878
+Port David, IN 46443","7797 Wells Cliff
+Valenciafurt, MS 24016"
+T000270,O000270,360,P000374,5,484.14,968.28,0.23,0.06,2023-03-06,2023-03-06 00:19:53,bank_transfer,pending,"4393 Mcdaniel Ways Suite 092
+North Robert, CA 79184","164 Morton Port
+Kellyfurt, HI 83261"
+T000271,O000271,441,P000098,3,274.17,548.34,0.15,0.08,2023-04-29,2023-04-29 13:47:12,bank_transfer,completed,"91518 Maria Divide Apt. 619
+New Kim, AS 09028","0141 Marie Flat Suite 561
+Derekburgh, NV 33263"
+T000272,O000272,432,P000247,5,611.74,1835.22,0.12,0.15,2023-10-12,2023-10-12 03:20:18,credit_card,completed,"17489 Adams Island
+Davidchester, WY 24578","0763 Deleon Prairie Suite 468
+West Candace, ID 58385"
+T000273,O000273,184,P000092,3,294.81,1179.24,0.07,0.16,2023-01-14,2023-01-14 07:14:13,paypal,completed,"7603 Martinez Fall Suite 701
+Marissachester, PW 79381","392 Heather Alley Suite 805
+East Kellyville, TN 57594"
+T000274,O000274,282,P000452,4,369.09,738.18,0.17,0.13,2023-06-04,2023-06-04 07:59:48,credit_card,pending,"4163 Bianca Wall Suite 382
+Dianashire, FM 56560","67649 Anderson Lodge
+North Timothytown, IL 96937"
+T000275,O000275,474,P000256,3,718.34,718.34,0.18,0.05,2023-04-12,2023-04-12 07:47:21,paypal,completed,"15951 Miller Row
+South Erin, SD 82631","2605 Morris Street
+Gillborough, VI 47362"
+T000276,O000276,465,P000009,5,357.59,1787.95,0.24,0.1,2023-12-10,2023-12-10 14:43:35,credit_card,pending,"Unit 4636 Box 6456
+DPO AA 73481","3772 Kimberly Fords
+Priceside, AK 45842"
+T000277,O000277,110,P000117,2,993.01,3972.04,0.29,0.13,2023-10-31,2023-10-31 09:17:42,bank_transfer,pending,"574 Courtney Fords Apt. 541
+North Barbaraburgh, DE 89664","927 Montes Courts Apt. 024
+Burkeside, AR 89921"
+T000278,O000278,307,P000463,2,599.63,2998.15,0.3,0.19,2023-02-09,2023-02-09 21:51:54,paypal,completed,"03841 James Run
+Markfurt, MI 00586","24422 Sarah Spring Apt. 768
+Port Anne, WI 40790"
+T000279,O000279,235,P000367,4,167.32,167.32,0.15,0.19,2023-12-08,2023-12-08 05:58:29,credit_card,completed,"89972 Eric Valleys Apt. 071
+Port Sheila, NJ 01171","464 Christopher Forges
+Jacobchester, OH 09865"
+T000280,O000280,469,P000045,2,810.32,2430.96,0.08,0.06,2023-12-18,2023-12-18 15:23:06,bank_transfer,cancelled,"286 Paula Brook
+Schwartzmouth, TX 92409","05674 Robert Brooks Suite 708
+North Mary, AK 09535"
+T000281,O000281,254,P000210,2,404.0,2020.0,0.07,0.15,2023-05-22,2023-05-22 17:35:44,paypal,completed,"45620 Jeremy Glens Apt. 887
+Mccoytown, VA 49825","664 Phillips Shoals
+East Tom, OK 68630"
+T000282,O000282,203,P000048,3,280.39,841.17,0.21,0.16,2023-08-20,2023-08-20 12:09:34,paypal,completed,"73314 Darrell Trace
+Reeseland, ME 76977","996 Floyd Drives Suite 866
+Paulmouth, MS 33442"
+T000283,O000283,442,P000437,5,425.19,850.38,0.19,0.16,2023-05-13,2023-05-13 07:11:38,credit_card,cancelled,"308 Baker Road
+Fordburgh, DC 48606","115 Hall Radial Apt. 447
+Lake Shannon, PR 17193"
+T000284,O000284,249,P000017,3,103.47,517.35,0.27,0.18,2023-03-30,2023-03-30 22:09:17,credit_card,completed,"USNV Turner
+FPO AE 62644","0524 Shawn Union Apt. 706
+Gatesmouth, UT 38584"
+T000285,O000285,472,P000103,4,533.31,2133.24,0.17,0.16,2023-12-31,2023-12-31 12:02:39,paypal,completed,"310 Christina Coves Apt. 690
+New Sharon, MT 85811","3394 Navarro Ville Suite 771
+Mariahville, DC 45974"
+T000286,O000286,103,P000136,2,851.02,1702.04,0.01,0.12,2023-10-08,2023-10-08 03:59:37,bank_transfer,completed,"567 Gutierrez Mills
+Andersonhaven, UT 61237","42208 Nicholas Circles Apt. 564
+Carrhaven, MP 69001"
+T000287,O000287,17,P000270,3,630.87,1892.61,0.01,0.08,2023-05-21,2023-05-21 15:42:21,bank_transfer,pending,"Unit 4878 Box 5171
+DPO AE 57969","58283 Green Ford Suite 030
+Martinbury, IN 25178"
+T000288,O000288,439,P000278,4,810.24,4051.2,0.23,0.19,2023-06-08,2023-06-08 23:19:18,bank_transfer,completed,"661 Richard View
+South Kathrynstad, NV 53308","1447 Charles Brooks
+New Cristinaborough, WA 66833"
+T000289,O000289,290,P000369,5,270.97,270.97,0.03,0.15,2023-04-13,2023-04-13 09:34:38,credit_card,completed,"235 Tracy Tunnel Suite 394
+Georgestad, NJ 99186","603 Martinez Well
+Sharonhaven, HI 88054"
+T000290,O000290,281,P000281,2,505.24,2020.96,0.29,0.18,2023-03-14,2023-03-14 09:04:56,bank_transfer,cancelled,"662 Marissa Heights
+Johnnytown, DE 62434","145 Lynch Parkway Apt. 808
+East Laurieport, VI 99514"
+T000291,O000291,176,P000224,5,711.75,2135.25,0.25,0.16,2023-03-23,2023-03-23 23:28:43,paypal,cancelled,"68787 Christine Heights
+Port Michelle, KY 15799","5671 Patrick Stravenue
+Davisshire, DE 58591"
+T000292,O000292,78,P000251,5,628.57,628.57,0.24,0.12,2023-07-10,2023-07-10 19:43:42,paypal,cancelled,"35933 Dennis Hill Suite 019
+Steventown, CT 29087","470 Shawn Estate Suite 469
+Cooperstad, MT 68498"
+T000293,O000293,491,P000049,4,79.97,159.94,0.28,0.17,2023-05-10,2023-05-10 17:23:36,credit_card,pending,"9344 Vincent Square
+North Scottfort, MH 97275","8497 William Common Apt. 227
+East John, WI 17774"
+T000294,O000294,244,P000341,5,547.33,1094.66,0.06,0.12,2023-06-15,2023-06-15 17:22:55,bank_transfer,completed,"728 Ballard Ranch Suite 612
+Aliciaton, VA 75796","872 Austin Avenue
+South Katherinehaven, MN 63985"
+T000295,O000295,118,P000304,5,186.17,558.51,0.14,0.16,2023-11-04,2023-11-04 05:40:20,bank_transfer,cancelled,"79994 Jeffrey Stream Suite 293
+East Laurachester, MH 05749","148 Gomez Rapid
+New Kayla, NJ 15622"
+T000296,O000296,222,P000099,2,971.53,971.53,0.12,0.14,2023-09-30,2023-09-30 04:04:18,bank_transfer,completed,"PSC 8322, Box 3056
+APO AE 73250","43760 Harris Crossroad Apt. 347
+North David, AK 09718"
+T000297,O000297,391,P000307,3,434.86,2174.3,0.18,0.11,2023-07-22,2023-07-22 03:20:47,bank_transfer,cancelled,"077 Mackenzie Row
+Michealshire, MP 26601","2186 Jason Mission
+Bryantville, RI 78446"
+T000298,O000298,55,P000291,5,827.27,2481.81,0.26,0.16,2023-11-05,2023-11-05 13:05:09,bank_transfer,completed,"44959 Keith Summit
+East Sarah, PW 95883","USCGC Hodge
+FPO AA 02125"
+T000299,O000299,366,P000330,4,691.38,1382.76,0.17,0.17,2023-09-16,2023-09-16 07:21:02,credit_card,cancelled,"09536 Daniel Parkways
+Thompsonstad, NC 46218","7205 Martinez Lakes
+New Coreyhaven, MP 69339"
+T000300,O000300,63,P000071,2,39.3,117.9,0.17,0.11,2023-08-23,2023-08-23 15:48:24,bank_transfer,pending,"27236 Jeremy Meadows Apt. 702
+East Rick, NH 27094","41658 Nicole Manor Apt. 262
+Hannahchester, PA 36642"
+T000301,O000301,310,P000365,2,592.35,2961.75,0.17,0.1,2023-05-22,2023-05-22 10:38:28,paypal,pending,"863 Robert Gateway
+Wigginsfurt, CT 66131","14093 Adam Loop
+North Laurachester, OR 81805"
+T000302,O000302,303,P000104,3,176.61,529.83,0.06,0.12,2023-11-25,2023-11-25 01:38:55,credit_card,cancelled,"7923 Kathy Cliffs
+Grahambury, NM 89023","USS Harding
+FPO AA 49763"
+T000303,O000303,68,P000085,2,836.69,2510.07,0.18,0.08,2023-05-26,2023-05-26 16:53:50,paypal,completed,"USNV Franklin
+FPO AA 89232","75108 Blair Haven Apt. 333
+West Lauraburgh, SC 74112"
+T000304,O000304,256,P000450,2,222.82,668.46,0.19,0.13,2023-05-28,2023-05-28 14:43:28,bank_transfer,cancelled,"5635 Michael Pine Apt. 957
+Sarahberg, OH 39922","1961 Gray Turnpike Apt. 988
+Herrerahaven, NJ 31718"
+T000305,O000305,178,P000389,3,197.31,394.62,0.1,0.12,2023-09-24,2023-09-24 15:22:13,bank_transfer,cancelled,"Unit 9517 Box 4425
+DPO AP 16877","PSC 7508, Box 8680
+APO AP 90292"
+T000306,O000306,484,P000364,4,844.47,3377.88,0.07,0.16,2023-02-14,2023-02-14 00:32:04,bank_transfer,completed,"80345 Ross Parkway
+Lake Michelleton, RI 86948","387 Shannon Court
+North John, UT 24987"
+T000307,O000307,403,P000174,3,723.42,2170.26,0.18,0.16,2023-02-13,2023-02-13 01:08:15,paypal,pending,"188 Jessica Loaf
+Davidmouth, NJ 29486","581 Salinas Light
+Velezland, MP 46702"
+T000308,O000308,74,P000050,5,188.24,941.2,0.03,0.16,2023-02-27,2023-02-27 09:45:53,bank_transfer,cancelled,"3233 Morris Road Apt. 873
+Donnaton, AL 21321","8694 Ortiz Rue Apt. 003
+Yolandabury, CA 93783"
+T000309,O000309,350,P000474,2,538.83,538.83,0.15,0.07,2023-06-27,2023-06-27 19:17:23,bank_transfer,cancelled,"586 Brendan Walks
+Brownton, PR 88478","6172 Rose Motorway Suite 066
+South Anna, NV 64336"
+T000310,O000310,409,P000270,5,630.87,2523.48,0.18,0.18,2023-04-27,2023-04-27 11:15:48,bank_transfer,cancelled,"7387 Douglas Pines Suite 067
+Derekmouth, MN 19011","668 Wilson Harbors
+Johnstonfort, WI 98292"
+T000311,O000311,392,P000420,2,480.04,1440.12,0.2,0.19,2023-05-06,2023-05-06 14:40:38,bank_transfer,cancelled,"470 Jason Inlet Apt. 732
+Lopezstad, MT 91462","944 Snow Court Suite 648
+Glennside, DC 61944"
+T000312,O000312,63,P000305,1,105.73,528.65,0.24,0.13,2023-05-17,2023-05-17 21:00:52,paypal,cancelled,"288 Gray Tunnel Suite 280
+New Angelamouth, GA 04894","2973 White Summit
+Port Sherry, ND 58632"
+T000313,O000313,362,P000097,2,594.08,1782.24,0.21,0.19,2023-09-29,2023-09-29 00:52:34,credit_card,cancelled,"01232 Bryce Coves Suite 907
+West Michael, IL 87460","30887 Foster Courts
+Port Shawn, CT 71415"
+T000314,O000314,124,P000112,4,477.89,2389.45,0.26,0.17,2023-07-16,2023-07-16 15:01:09,credit_card,cancelled,"44984 Derek Oval
+Courtneyberg, MA 22541","PSC 0230, Box 0826
+APO AE 98738"
+T000315,O000315,41,P000466,2,819.84,4099.2,0.07,0.07,2023-01-12,2023-01-12 05:53:26,paypal,pending,"17840 Andrew Mills Suite 726
+Joshuahaven, AS 49847","4805 Phillips Streets Apt. 919
+South Joshua, NM 50289"
+T000316,O000316,291,P000258,5,509.93,2549.65,0.01,0.16,2023-03-30,2023-03-30 07:12:38,bank_transfer,pending,"USNV Fitzgerald
+FPO AA 89875","3137 Kimberly Track Apt. 954
+Port Lorishire, UT 72353"
+T000317,O000317,356,P000224,2,711.75,3558.75,0.1,0.17,2023-10-03,2023-10-03 21:49:37,credit_card,completed,"1398 William Drive
+New Joehaven, MO 34826","62357 Joel Pine
+Rebekahfort, WA 62067"
+T000318,O000318,117,P000288,2,729.06,3645.3,0.08,0.17,2023-10-27,2023-10-27 15:09:35,paypal,completed,"872 Massey Rue
+East John, PR 73942","06542 Roberts Expressway
+Patriciatown, OH 63094"
+T000319,O000319,424,P000240,5,297.56,595.12,0.24,0.16,2023-07-10,2023-07-10 21:56:26,bank_transfer,completed,"610 Elizabeth Summit Apt. 149
+East Roberthaven, IA 94338","Unit 4962 Box 6737
+DPO AP 63419"
+T000320,O000320,413,P000498,4,357.79,1431.16,0.06,0.1,2023-09-18,2023-09-18 11:57:43,credit_card,pending,"3231 Daniel Key
+West Karen, AS 38225","95852 Angela Highway
+Lake Bianca, DC 77139"
+T000321,O000321,452,P000134,3,208.54,834.16,0.11,0.12,2023-12-20,2023-12-20 00:29:21,credit_card,completed,"1892 Lucero Shoals
+East Douglas, IN 12083","5081 Meredith View
+Mcdowellmouth, WI 23875"
+T000322,O000322,86,P000125,2,965.43,2896.29,0.07,0.16,2023-02-11,2023-02-11 01:03:05,bank_transfer,cancelled,"504 Smith Green Suite 857
+East Kimberlymouth, AZ 95972","115 Mack Shoal
+Vincentburgh, VT 97550"
+T000323,O000323,401,P000403,4,754.71,2264.13,0.22,0.08,2023-11-21,2023-11-21 21:27:07,credit_card,cancelled,"943 Lisa Underpass
+East Drew, CA 61388","16340 Michelle Cove Apt. 270
+Lauratown, FM 20193"
+T000324,O000324,208,P000031,1,255.92,511.84,0.29,0.09,2023-07-30,2023-07-30 10:31:17,bank_transfer,cancelled,"5698 Frost Walk
+Lake Zacharymouth, TX 82039","976 Jessica Mill
+Hawkinsburgh, VI 55479"
+T000325,O000325,254,P000497,4,419.49,2097.45,0.21,0.08,2023-09-16,2023-09-16 07:38:02,paypal,cancelled,"7829 Williams Mountain
+New Christopher, WA 61743","543 Yesenia Drive
+New Cynthiahaven, DC 79385"
+T000326,O000326,309,P000415,4,357.37,1072.11,0.03,0.06,2023-02-05,2023-02-05 16:09:51,credit_card,cancelled,"597 Stephanie Trafficway
+Lake Travisside, GA 82815","5528 Jacob Loaf Apt. 673
+Suzanneview, NM 53971"
+T000327,O000327,265,P000011,4,237.62,1188.1,0.03,0.12,2023-02-06,2023-02-06 05:28:39,bank_transfer,cancelled,"914 Hernandez Land Apt. 649
+West Robertton, TN 26851","42856 Stafford Path Suite 366
+Haysside, MP 34550"
+T000328,O000328,141,P000103,4,533.31,1066.62,0.3,0.1,2023-09-22,2023-09-22 09:53:09,credit_card,completed,"6746 Welch Keys Apt. 192
+Lake Marilynstad, PA 83709","398 Christopher Locks Suite 365
+Jessicaberg, SC 80592"
+T000329,O000329,208,P000495,3,361.2,1806.0,0.25,0.09,2023-12-31,2023-12-31 06:59:49,credit_card,completed,"8871 Steven Square
+Walkerfurt, KY 58011","427 Mayo Knolls Apt. 675
+Port Anthonyborough, NC 22912"
+T000330,O000330,17,P000030,2,527.37,1054.74,0.11,0.11,2023-04-12,2023-04-12 01:56:32,credit_card,cancelled,"719 John Shore
+Lake Amanda, WY 58751","23955 Melanie Rapid Apt. 315
+Changside, FL 82117"
+T000331,O000331,490,P000179,2,859.41,859.41,0.15,0.09,2023-02-21,2023-02-21 11:12:40,credit_card,cancelled,"343 Henry Square
+Lake Stanleystad, FM 30949","1364 Washington Island Apt. 467
+West Andrewview, MI 09813"
+T000332,O000332,152,P000278,5,810.24,810.24,0.1,0.16,2023-11-22,2023-11-22 12:33:49,paypal,pending,"6634 Heather Vista Suite 740
+Danaberg, AZ 44954","148 Angela Motorway
+Reneeshire, PR 02525"
+T000333,O000333,41,P000038,1,308.36,1541.8,0.21,0.17,2023-05-12,2023-05-12 14:59:14,bank_transfer,pending,"2994 Parker Villages Apt. 101
+Mathewstown, IL 37921","USNS Herrera
+FPO AE 06082"
+T000334,O000334,222,P000107,5,892.8,3571.2,0.16,0.13,2023-07-05,2023-07-05 03:24:07,bank_transfer,cancelled,"8551 Abbott Mall
+New Edwardtown, PA 32579","4350 Duncan Harbors
+Port Larryland, IL 63604"
+T000335,O000335,184,P000176,2,817.3,3269.2,0.09,0.19,2023-03-31,2023-03-31 23:28:58,credit_card,pending,"5546 Lori Road Apt. 888
+Port Kristinland, DE 93293","56133 Rojas Knoll Suite 812
+Johnnyville, SC 83751"
+T000336,O000336,404,P000254,2,877.48,3509.92,0.12,0.11,2023-07-08,2023-07-08 22:33:54,bank_transfer,cancelled,"99378 Robertson Manor Apt. 677
+North Andrew, CO 43930","PSC 6130, Box 4975
+APO AA 04743"
+T000337,O000337,367,P000304,4,186.17,930.85,0.21,0.1,2023-03-10,2023-03-10 04:51:43,paypal,pending,"787 Kelly Meadows Apt. 116
+North Tracy, UT 94649","14153 Wang Viaduct Suite 768
+East Roger, FL 44305"
+T000338,O000338,7,P000082,4,753.62,2260.86,0.23,0.12,2023-01-10,2023-01-10 21:13:16,paypal,pending,"5617 Williams Fords
+Benjaminfurt, OK 76886","48523 Ruiz Causeway Suite 123
+Harrischester, UT 94367"
+T000339,O000339,17,P000405,2,282.54,565.08,0.01,0.09,2023-12-03,2023-12-03 07:41:39,paypal,completed,"485 Ashley Center Suite 796
+Millshaven, WA 67132","USNS Donovan
+FPO AP 74948"
+T000340,O000340,362,P000251,3,628.57,1257.14,0.07,0.18,2023-08-12,2023-08-12 09:59:52,paypal,cancelled,"PSC 4903, Box 9254
+APO AE 77811","79799 Brandon Forges
+Lake Nicoleside, PW 16654"
+T000341,O000341,247,P000328,3,534.57,2672.85,0.06,0.1,2023-07-23,2023-07-23 01:12:13,paypal,pending,"6999 Jill Well Apt. 721
+Aaronhaven, SD 03411","11111 Kaiser Ville Suite 860
+West Brittanyport, ND 04536"
+T000342,O000342,43,P000446,4,353.39,1060.17,0.09,0.19,2023-09-19,2023-09-19 18:12:05,paypal,pending,"Unit 6851 Box 0616
+DPO AA 28452","1047 Coleman Meadows Apt. 134
+North Kelly, OK 32578"
+T000343,O000343,340,P000298,2,320.79,1283.16,0.2,0.07,2023-11-01,2023-11-01 00:27:49,credit_card,completed,"7031 Cook Prairie
+New Deniseville, IN 36095","7538 Simmons Knoll Suite 793
+East Christopherview, AZ 09399"
+T000344,O000344,248,P000309,5,639.87,3199.35,0.06,0.05,2023-06-03,2023-06-03 05:32:51,paypal,cancelled,"896 Kelly Cliffs Suite 813
+West Jeffrey, VI 35446","94099 Keith Springs Apt. 644
+North Andrew, NC 67203"
+T000345,O000345,432,P000498,4,357.79,1431.16,0.09,0.15,2023-02-21,2023-02-21 23:16:47,credit_card,cancelled,"8154 Kenneth Ramp
+Charlesburgh, AZ 32807","0299 Janet Highway Suite 222
+Mcleanstad, SC 65161"
+T000346,O000346,448,P000431,5,370.09,1110.27,0.16,0.18,2023-01-21,2023-01-21 12:45:24,paypal,pending,"955 Kathy Squares Apt. 004
+Parkermouth, MD 77534","61886 Bishop Village Apt. 777
+Blackstad, MN 41009"
+T000347,O000347,275,P000013,5,380.22,1140.66,0.05,0.06,2023-11-25,2023-11-25 08:26:02,paypal,completed,"381 Jose Junctions
+North Laurastad, NY 29836","41908 Robin Square Suite 817
+Williamton, KY 34417"
+T000348,O000348,379,P000016,3,649.58,3247.9,0.18,0.17,2023-03-27,2023-03-27 10:19:43,credit_card,completed,"880 Gregory Crossroad Apt. 479
+Jennafort, NM 49947","477 Jackson Isle
+Riveraport, MI 99317"
+T000349,O000349,22,P000371,5,582.97,2914.85,0.18,0.08,2023-12-10,2023-12-10 21:21:39,paypal,cancelled,"66854 Tina Wells
+Gwendolynborough, SC 88384","196 Prince Keys Apt. 421
+South Aimee, TN 74979"
+T000350,O000350,496,P000147,3,611.55,1834.65,0.18,0.1,2023-02-27,2023-02-27 18:00:45,paypal,cancelled,"PSC 9452, Box 8331
+APO AP 21438","0735 Thomas Mission Apt. 469
+South Corymouth, WV 23576"
+T000351,O000351,202,P000370,2,50.0,100.0,0.26,0.18,2023-11-08,2023-11-08 11:24:04,credit_card,cancelled,"652 Hunt Turnpike Suite 362
+Travisport, VT 80087","3404 Curtis Lodge Apt. 859
+Lake Natalie, MH 12009"
+T000352,O000352,44,P000274,5,29.65,88.95,0.15,0.12,2023-10-27,2023-10-27 23:29:31,credit_card,completed,"5015 Lopez Road Apt. 187
+Holdenfort, HI 46236","539 Mueller Mall Suite 590
+Smithfort, AR 56418"
+T000353,O000353,340,P000315,5,416.68,416.68,0.21,0.09,2023-09-26,2023-09-26 19:46:40,bank_transfer,cancelled,"8726 Moore Roads
+East Joshua, MD 93264","9426 Natasha Branch
+North Matthew, PA 06771"
+T000354,O000354,48,P000285,2,302.18,1510.9,0.1,0.19,2023-04-01,2023-04-01 15:45:09,credit_card,pending,"6679 Castillo Radial Apt. 630
+North Brandonbury, MH 87698","2334 Arellano Pike
+East Lisa, WY 61566"
+T000355,O000355,54,P000459,2,547.37,2189.48,0.11,0.13,2023-06-11,2023-06-11 21:41:29,bank_transfer,pending,"64655 Carolyn Camp Apt. 625
+Johnstonberg, SC 02023","97123 Rodriguez Shoals
+Robertport, SC 63993"
+T000356,O000356,162,P000066,1,617.94,617.94,0.19,0.15,2023-04-17,2023-04-17 03:36:14,credit_card,pending,"17326 Brett Isle
+Lake Beckyhaven, NM 07948","251 Sweeney Fords
+Port Angelaside, NC 14436"
+T000357,O000357,392,P000123,2,817.32,2451.96,0.25,0.06,2023-11-03,2023-11-03 03:08:22,paypal,completed,"256 Wallace Stravenue
+Colleenmouth, FM 86364","9032 Laurie Hills
+East Dianeville, ND 27742"
+T000358,O000358,93,P000354,4,809.24,4046.2,0.15,0.2,2023-10-12,2023-10-12 00:49:35,paypal,cancelled,"09124 Lee Coves Apt. 914
+New Elizabeth, MD 49668","523 Wilkinson Locks
+New Kurtchester, NE 25186"
+T000359,O000359,62,P000257,2,767.73,1535.46,0.24,0.18,2023-09-12,2023-09-12 14:28:09,bank_transfer,completed,"19675 Nelson Mill Suite 370
+Lake Michelleville, MT 52829","782 Sanchez Lights Suite 759
+North Destinyland, SD 35600"
+T000360,O000360,149,P000036,3,67.35,336.75,0.2,0.15,2023-05-15,2023-05-15 21:26:12,credit_card,cancelled,"60051 Lewis Cape
+North Williamland, IN 14698","2849 Andrew Plains Apt. 874
+Robinsonfurt, ME 54204"
+T000361,O000361,254,P000400,4,520.4,2081.6,0.13,0.13,2023-06-14,2023-06-14 17:56:56,credit_card,cancelled,"83037 Brown Stravenue Apt. 720
+Robertmouth, WA 53622","612 Sanchez Ramp Apt. 052
+Jenniferside, MO 46422"
+T000362,O000362,145,P000366,4,226.96,1134.8,0.07,0.1,2023-10-30,2023-10-30 21:51:16,bank_transfer,cancelled,"103 Brown Garden
+Robinsonmouth, NY 32353","09561 Smith Villages Apt. 628
+West Amandaberg, FL 95937"
+T000363,O000363,97,P000182,5,168.67,674.68,0.23,0.2,2023-10-06,2023-10-06 01:40:32,bank_transfer,cancelled,"1792 Christopher Bridge
+Markton, VA 85595","330 Christopher Shoal Suite 331
+Stuartmouth, AK 89416"
+T000364,O000364,224,P000292,2,289.28,1446.4,0.03,0.15,2023-01-21,2023-01-21 11:12:06,credit_card,cancelled,"4824 Casey Glens
+Jessicahaven, DC 50665","36752 Larsen Squares
+Kristaberg, IA 05918"
+T000365,O000365,350,P000353,2,968.5,968.5,0.03,0.2,2023-04-19,2023-04-19 10:49:00,credit_card,cancelled,"99473 Wheeler Cliff Apt. 216
+New David, GA 92210","41944 Charles Port
+Tylertown, NC 56722"
+T000366,O000366,415,P000444,3,514.32,2057.28,0.26,0.1,2023-04-29,2023-04-29 06:46:44,paypal,pending,"92784 Lynch Rest Apt. 172
+Barkerstad, KY 73443","89815 Danielle Road Suite 889
+East Melissa, NM 17526"
+T000367,O000367,380,P000026,1,155.04,310.08,0.12,0.13,2023-06-26,2023-06-26 05:36:27,credit_card,pending,"PSC 7661, Box 6368
+APO AA 44127","694 Daniel Tunnel
+East Janetborough, VA 86478"
+T000368,O000368,198,P000025,5,797.21,1594.42,0.0,0.18,2023-05-24,2023-05-24 21:31:45,credit_card,cancelled,"13077 Smith Cape
+Ambertown, FL 74399","607 Houston Court
+East Christopherberg, MI 88821"
+T000369,O000369,331,P000299,2,417.95,2089.75,0.2,0.09,2023-11-01,2023-11-01 12:30:34,bank_transfer,cancelled,"1070 Aaron Square
+Schultzton, IA 37726","5593 Debra Points Apt. 620
+Terrellberg, CT 68560"
+T000370,O000370,499,P000240,3,297.56,595.12,0.17,0.07,2023-09-12,2023-09-12 20:32:03,bank_transfer,pending,"61115 Henry Crescent
+West Nathanfurt, MD 30769","2226 Mullins Road
+South Maria, CA 75430"
+T000371,O000371,476,P000188,3,104.31,521.55,0.23,0.15,2023-07-29,2023-07-29 01:47:02,bank_transfer,cancelled,"08920 Alicia Lakes Suite 995
+Bennettburgh, ND 48865","387 Johnson Court Suite 768
+Lake Stephanie, GU 98018"
+T000372,O000372,151,P000110,2,891.12,3564.48,0.19,0.17,2023-07-20,2023-07-20 04:09:29,bank_transfer,pending,"5304 Craig Dam
+Jessicaview, ME 94106","443 Snyder Mall Apt. 951
+Jamesbury, CO 20274"
+T000373,O000373,141,P000346,5,834.04,4170.2,0.17,0.07,2023-08-02,2023-08-02 01:34:53,credit_card,completed,"Unit 4109 Box 1375
+DPO AE 52647","995 Ponce Knolls Apt. 559
+Port Daniel, KS 56029"
+T000374,O000374,409,P000001,1,992.82,4964.1,0.21,0.13,2023-08-24,2023-08-24 08:00:11,credit_card,cancelled,"5523 Ian Ports
+Tamarashire, ND 82639","011 Stephen Course Apt. 553
+Payneport, SD 09088"
+T000375,O000375,464,P000164,5,343.07,686.14,0.14,0.17,2023-11-04,2023-11-04 20:20:22,paypal,pending,"16255 Hampton Trace Suite 837
+South Thomas, ID 27537","9905 Patrick Unions
+New Williamfurt, VA 71792"
+T000376,O000376,377,P000447,5,19.88,19.88,0.08,0.14,2023-05-14,2023-05-14 07:18:09,bank_transfer,completed,"1043 Thomas Ridge Apt. 535
+East Williamchester, TX 03084","618 Mark Crescent Apt. 473
+Lake Aprilland, FM 40119"
+T000377,O000377,283,P000403,2,754.71,3773.55,0.2,0.17,2023-01-25,2023-01-25 00:23:11,paypal,cancelled,"05622 Michael Neck Apt. 414
+North Brianchester, MT 64178","03185 Warren Place Suite 615
+Craigfurt, IL 99615"
+T000378,O000378,356,P000052,1,191.02,191.02,0.06,0.12,2023-12-17,2023-12-17 23:28:28,credit_card,cancelled,"015 Joshua Square
+Rodneyton, LA 02529","2201 Kyle Dale
+West Justinmouth, AS 82117"
+T000379,O000379,18,P000231,1,151.82,303.64,0.18,0.16,2023-09-22,2023-09-22 10:42:17,paypal,completed,"1606 Travis Branch
+Jillianfurt, NH 36897","66237 Brandi Union
+Davidfurt, NV 78210"
+T000380,O000380,120,P000215,4,358.49,1792.45,0.18,0.07,2023-03-17,2023-03-17 04:29:39,bank_transfer,pending,"22740 Deborah Cove Apt. 717
+Ericaburgh, AZ 62918","57133 Salazar Divide Apt. 556
+West Jill, NM 54582"
+T000381,O000381,152,P000224,4,711.75,711.75,0.26,0.15,2023-12-22,2023-12-22 19:13:59,credit_card,cancelled,"92760 Tara Trafficway
+Wilsonport, SD 72603","585 Hendrix Skyway Apt. 912
+Lake Ronald, NM 59057"
+T000382,O000382,464,P000321,2,958.81,2876.43,0.08,0.07,2023-12-10,2023-12-10 19:28:18,paypal,cancelled,"55824 James Forges
+Lake Maria, WA 14866","9816 Aguilar Gateway
+North Suzanne, ME 24549"
+T000383,O000383,354,P000482,5,566.47,1699.41,0.25,0.09,2023-08-25,2023-08-25 19:32:26,credit_card,cancelled,"957 Smith Trail Apt. 271
+Michelleshire, MD 79230","PSC 7425, Box 0603
+APO AP 60337"
+T000384,O000384,460,P000119,3,785.0,3925.0,0.07,0.17,2023-03-17,2023-03-17 03:33:09,bank_transfer,cancelled,"5884 Walter Light
+South Yvette, NJ 36634","85353 Holmes Views Suite 012
+Santanamouth, MD 91352"
+T000385,O000385,174,P000486,4,493.69,1481.07,0.19,0.16,2023-03-08,2023-03-08 17:26:48,paypal,cancelled,"9479 Lopez Freeway
+South Aaron, KS 63849","166 Cabrera Parkways Apt. 052
+Valerieport, MA 14830"
+T000386,O000386,180,P000454,4,544.54,2722.7,0.12,0.16,2023-12-23,2023-12-23 23:40:58,credit_card,completed,"159 Jennifer Cove Apt. 305
+Sullivanmouth, MS 92102","5002 Kimberly Mills
+Jasonville, WV 09862"
+T000387,O000387,218,P000453,2,135.23,135.23,0.19,0.18,2023-05-05,2023-05-05 13:15:51,bank_transfer,completed,"8142 Warren Extensions Apt. 383
+Karenshire, MP 40485","7496 Thomas Forks Suite 174
+North Ann, GU 85164"
+T000388,O000388,211,P000228,2,590.65,1771.95,0.03,0.19,2023-08-09,2023-08-09 07:09:37,paypal,completed,"443 Christine Islands
+West Theresafort, MT 87576","773 Carr Dale
+East Jonathonhaven, OK 27587"
+T000389,O000389,136,P000077,2,216.49,432.98,0.22,0.07,2023-10-14,2023-10-14 22:27:57,bank_transfer,pending,"06808 Darren Brook Apt. 223
+Olsonfort, KY 42020","46351 Judy Throughway
+Deborahport, HI 76749"
+T000390,O000390,111,P000013,2,380.22,1140.66,0.26,0.07,2023-10-07,2023-10-07 20:03:56,paypal,cancelled,"0510 Clark Radial
+West James, KS 64343","4971 Diaz Well
+Campbellhaven, TX 61769"
+T000391,O000391,302,P000188,2,104.31,521.55,0.26,0.13,2023-10-09,2023-10-09 02:02:01,credit_card,pending,"6278 Dean Plain
+Port Amy, WA 64986","00811 Rodriguez Wall
+Castanedaberg, CT 93904"
+T000392,O000392,279,P000197,3,500.64,2002.56,0.03,0.1,2023-02-04,2023-02-04 16:31:59,credit_card,pending,"947 Allen Islands
+West Katherine, WI 40612","96364 Jessica Passage
+Garciaville, AK 02333"
+T000393,O000393,307,P000166,5,24.74,74.22,0.11,0.09,2023-10-02,2023-10-02 09:07:30,paypal,cancelled,"468 Pruitt Green
+Fernandezbury, WA 53449","7846 Hernandez Plaza
+Kathrynton, NE 45656"
+T000394,O000394,280,P000312,5,402.54,1610.16,0.28,0.08,2023-09-15,2023-09-15 09:08:34,credit_card,pending,"76539 Conley Passage Apt. 746
+North Jessica, FL 33733","046 Robert Wells
+North Caleb, SD 18609"
+T000395,O000395,357,P000312,2,402.54,2012.7,0.2,0.16,2023-09-25,2023-09-25 00:33:00,paypal,completed,"8626 Russell Square Suite 910
+South Annstad, NE 35451","745 Jeremy Place
+North Katherinechester, ME 32535"
+T000396,O000396,450,P000462,1,418.22,1254.66,0.15,0.17,2023-06-12,2023-06-12 14:49:00,bank_transfer,pending,"90634 David Springs Apt. 211
+Evansbury, CO 66583","9503 Johnson Branch
+Lake Joseph, PW 98700"
+T000397,O000397,472,P000283,1,983.41,983.41,0.21,0.17,2023-09-07,2023-09-07 08:37:53,credit_card,completed,"8087 Karen Parks Suite 828
+Hillview, TX 62530","08663 Johnson Stravenue Apt. 453
+Jimenezfurt, AK 62793"
+T000398,O000398,342,P000494,4,205.09,1025.45,0.21,0.13,2023-10-15,2023-10-15 06:58:36,paypal,pending,"229 Johnson Mission Apt. 936
+Lake Stephanie, WA 37072","Unit 5299 Box 2839
+DPO AA 23986"
+T000399,O000399,357,P000145,3,322.06,1610.3,0.23,0.07,2023-11-29,2023-11-29 15:18:47,bank_transfer,cancelled,"53370 Kelly Key Apt. 270
+Williamsfurt, OH 51156","5908 Daniel Prairie Suite 245
+North Patriciaborough, ME 07421"
+T000400,O000400,419,P000471,1,622.02,3110.1,0.08,0.05,2023-10-02,2023-10-02 14:42:16,bank_transfer,completed,"Unit 1267 Box 5833
+DPO AP 73668","6437 David Heights
+Jeremyshire, NE 94614"
+T000401,O000401,266,P000150,2,848.22,848.22,0.11,0.17,2023-06-28,2023-06-28 10:49:30,credit_card,completed,"PSC 0123, Box 1416
+APO AP 28252","4121 Renee Turnpike
+Sarahfurt, OH 62141"
+T000402,O000402,201,P000497,1,419.49,2097.45,0.29,0.15,2023-05-17,2023-05-17 17:23:59,credit_card,pending,"458 Bond Road Apt. 782
+Ruizfort, NY 04635","2655 Christopher Circles Apt. 897
+Amyside, NV 97136"
+T000403,O000403,305,P000255,5,746.91,3734.55,0.06,0.16,2023-09-01,2023-09-01 15:59:38,paypal,cancelled,"67848 Luis Roads
+Aaronshire, NV 82647","62353 Thornton Alley Apt. 324
+East Kristinaport, NY 47209"
+T000404,O000404,170,P000285,1,302.18,604.36,0.19,0.2,2023-11-08,2023-11-08 00:35:43,bank_transfer,pending,"45869 Brandy Loop Suite 440
+Lake Geraldchester, ID 60407","PSC 1537, Box 7208
+APO AP 13301"
+T000405,O000405,425,P000208,2,919.73,1839.46,0.17,0.14,2023-12-12,2023-12-12 02:08:00,paypal,cancelled,"237 Thomas Tunnel
+East David, OK 45231","962 Sandra Parkway Suite 066
+Chamberstown, VI 16424"
+T000406,O000406,337,P000320,5,241.66,724.98,0.28,0.08,2023-04-09,2023-04-09 10:02:45,paypal,cancelled,"45417 Omar Ford Suite 804
+Port Michaelstad, MA 89498","44659 Shaw Drive
+Lake Bethland, MA 53128"
+T000407,O000407,207,P000469,1,370.99,1854.95,0.06,0.1,2023-10-10,2023-10-10 12:31:08,bank_transfer,completed,"52034 Mccoy Knoll Apt. 148
+East Kathleen, KS 51666","30159 Bass Forks
+Spearschester, AZ 70345"
+T000408,O000408,428,P000469,3,370.99,1854.95,0.09,0.11,2023-10-13,2023-10-13 02:02:51,paypal,cancelled,"9169 Garcia Ports Apt. 450
+Wendyside, NC 61935","8930 Schmitt Corners
+South Nicoleshire, VT 21998"
+T000409,O000409,197,P000271,2,99.82,499.1,0.03,0.16,2023-03-11,2023-03-11 09:17:49,paypal,completed,"91027 Nancy Divide
+South Donnaburgh, AZ 33364","031 Angela Mountain Apt. 136
+Lake Kyle, CA 98562"
+T000410,O000410,283,P000006,5,766.48,2299.44,0.2,0.19,2023-04-01,2023-04-01 14:58:00,bank_transfer,completed,"827 Colleen Rest
+Aimeechester, RI 35052","2143 Leach Inlet
+Thompsonborough, NH 15395"
+T000411,O000411,353,P000253,5,731.61,1463.22,0.14,0.19,2023-06-03,2023-06-03 17:53:28,credit_card,completed,"7256 Collins Forges Apt. 189
+Madisonland, CA 27225","1241 Shannon Mountain Suite 590
+Ericaside, KY 19797"
+T000412,O000412,63,P000430,4,559.88,1119.76,0.3,0.08,2023-07-25,2023-07-25 15:12:53,bank_transfer,cancelled,"49412 Carlson View Apt. 588
+New Mandyhaven, MH 85701","5069 Erica Lock Suite 984
+New Chad, CT 13539"
+T000413,O000413,48,P000135,5,922.78,4613.9,0.05,0.19,2023-08-27,2023-08-27 22:58:11,bank_transfer,cancelled,"5150 Daniel Port
+Colliermouth, GU 12694","853 Morgan Trail
+Maryburgh, MN 22387"
+T000414,O000414,101,P000251,2,628.57,628.57,0.04,0.06,2023-09-06,2023-09-06 05:37:38,paypal,pending,"464 Michael Drives
+Tiffanyland, UT 23456","PSC 7887, Box 8523
+APO AE 35295"
+T000415,O000415,183,P000207,3,271.51,814.53,0.13,0.14,2023-10-11,2023-10-11 08:29:57,credit_card,cancelled,"768 Nicole Divide Suite 085
+Lake Kevinport, MI 07865","480 Sean Shoal Apt. 764
+Lake Davidbury, IN 41056"
+T000416,O000416,380,P000488,4,371.39,1114.17,0.26,0.08,2023-07-25,2023-07-25 07:50:56,bank_transfer,pending,"33746 Candace Mews
+Websterborough, KY 84561","97841 James Avenue
+North Tiffany, MA 48518"
+T000417,O000417,32,P000405,5,282.54,1130.16,0.3,0.06,2023-06-21,2023-06-21 02:03:42,credit_card,cancelled,"866 Mann Ridge
+North Luke, MN 95447","PSC 1956, Box 1418
+APO AA 52792"
+T000418,O000418,26,P000296,3,664.57,2658.28,0.17,0.06,2023-03-13,2023-03-13 00:51:05,bank_transfer,completed,"191 Anthony Locks
+Barkerfurt, VT 83557","402 Hardin Estate Apt. 582
+Jordanton, VT 63510"
+T000419,O000419,452,P000154,1,211.49,634.47,0.14,0.1,2023-07-16,2023-07-16 19:19:00,credit_card,completed,"311 Allen Place Suite 092
+Thomasville, SD 23728","02785 Jason Land
+Sanchezview, PA 13688"
+T000420,O000420,266,P000443,3,711.02,2133.06,0.01,0.12,2023-03-03,2023-03-03 14:41:22,credit_card,completed,"049 Booker Court
+Port Dylanland, NJ 05934","81135 Joanne Dam
+Jennaberg, CA 22593"
+T000421,O000421,57,P000049,1,79.97,319.88,0.09,0.14,2023-11-29,2023-11-29 16:21:55,credit_card,cancelled,"54899 Hoffman Plain
+Lake Lisaberg, VA 22554","2267 Todd Roads Suite 861
+Davisstad, MP 11524"
+T000422,O000422,286,P000295,3,401.65,2008.25,0.2,0.13,2023-07-06,2023-07-06 01:00:41,credit_card,completed,"28716 Mack Groves
+Gillshire, UT 93081","99193 Donna Forks
+Conleytown, SC 36916"
+T000423,O000423,23,P000440,1,443.25,886.5,0.15,0.08,2023-04-20,2023-04-20 12:36:57,bank_transfer,completed,"USNS Holder
+FPO AE 98126","0903 Nathaniel Court Suite 113
+New Devin, NM 53305"
+T000424,O000424,77,P000345,1,671.55,2014.65,0.19,0.18,2023-09-10,2023-09-10 23:23:19,paypal,pending,"1944 Natasha Plain
+Martinbury, LA 86764","623 Maxwell Trafficway Apt. 343
+South Edwardport, MA 31628"
+T000425,O000425,142,P000343,3,609.94,2439.76,0.09,0.16,2023-09-28,2023-09-28 17:46:50,credit_card,completed,"84018 Gina Mission Apt. 221
+New Andrewmouth, WA 59515","52898 Jennifer Causeway Suite 496
+Stephanieport, UT 01370"
+T000426,O000426,335,P000256,3,718.34,2873.36,0.09,0.19,2023-05-30,2023-05-30 21:57:11,bank_transfer,completed,"226 Carrie Ports
+Emilyfort, IA 20025","43122 Jasmine Ports
+New Ianview, MA 98705"
+T000427,O000427,404,P000154,4,211.49,845.96,0.09,0.08,2023-10-31,2023-10-31 01:29:14,credit_card,pending,"36014 Lawrence Trail Apt. 608
+Lake Timothy, DC 52514","24440 Mackenzie Turnpike Apt. 752
+Staceyhaven, MN 15263"
+T000428,O000428,17,P000152,2,510.5,1531.5,0.0,0.11,2023-09-17,2023-09-17 19:09:14,credit_card,pending,"85737 Mary Fort Suite 105
+West Michelle, MO 82477","643 Angela Crossroad
+Meganside, NY 09410"
+T000429,O000429,143,P000346,2,834.04,3336.16,0.05,0.12,2023-11-04,2023-11-04 08:27:06,paypal,completed,"430 Martin Tunnel
+Bucktown, NV 54605","4944 Benton Flat
+Lauraberg, WA 64699"
+T000430,O000430,15,P000075,1,826.96,4134.8,0.23,0.11,2023-05-05,2023-05-05 21:47:26,paypal,pending,"966 Lutz Hills
+South Jeffreyview, GA 62767","89729 Parker Streets
+Tiffanymouth, OH 20058"
+T000431,O000431,269,P000078,1,836.08,836.08,0.04,0.15,2023-01-22,2023-01-22 09:11:03,bank_transfer,cancelled,"35208 Walker Mall Suite 259
+Roberttown, IA 42413","38896 Ortiz Trace
+Wagnerport, MS 62456"
+T000432,O000432,60,P000471,1,622.02,1244.04,0.24,0.18,2023-02-06,2023-02-06 23:48:58,paypal,cancelled,"60998 Seth Circles
+Bryanshire, AZ 46437","66000 Whitaker Oval Apt. 408
+East Dorothyborough, WY 85272"
+T000433,O000433,267,P000286,3,552.62,552.62,0.1,0.19,2023-12-21,2023-12-21 17:24:44,paypal,completed,"PSC 0881, Box 3358
+APO AE 76246","56895 Stephen Run
+Wesleyport, ID 93346"
+T000434,O000434,242,P000200,3,170.35,170.35,0.15,0.17,2023-06-14,2023-06-14 19:42:43,bank_transfer,completed,"6075 Cain Well
+Liuhaven, VT 09741","01518 Diana Curve Suite 493
+Duncanside, OK 89722"
+T000435,O000435,165,P000422,4,454.76,1819.04,0.15,0.15,2023-01-19,2023-01-19 12:54:26,credit_card,completed,"7824 Bowman Extensions Apt. 954
+Jessicafurt, ND 34995","6245 Walker Valleys
+East Christine, NY 10762"
+T000436,O000436,450,P000254,5,877.48,3509.92,0.1,0.12,2023-09-03,2023-09-03 06:27:55,bank_transfer,cancelled,"01557 Joshua Rue
+West Tammy, WA 69071","794 James Burg
+North Robert, AZ 45694"
+T000437,O000437,101,P000085,5,836.69,4183.45,0.13,0.18,2023-03-24,2023-03-24 18:10:12,credit_card,pending,"Unit 4870 Box 8490
+DPO AP 82842","09930 Griffith Rest Suite 440
+North Kelly, NY 91663"
+T000438,O000438,15,P000489,1,999.39,2998.17,0.03,0.09,2023-07-20,2023-07-20 15:26:36,paypal,pending,"964 Michelle Viaduct Apt. 905
+Fordshire, NJ 27036","4881 Christopher Pike
+Smithfort, SD 86810"
+T000439,O000439,483,P000094,5,800.16,3200.64,0.04,0.2,2023-09-29,2023-09-29 09:49:50,paypal,pending,"710 Andrews Fall
+Fernandoville, SC 21675","7246 Yvonne Mill Suite 182
+Halemouth, DE 22574"
+T000440,O000440,254,P000338,3,494.56,1483.68,0.18,0.19,2023-05-07,2023-05-07 09:46:23,paypal,completed,"77867 Anne Corner Apt. 313
+Brianstad, LA 03011","108 Mueller Cove Suite 396
+Chadport, NV 70124"
+T000441,O000441,277,P000255,5,746.91,2987.64,0.29,0.14,2023-10-17,2023-10-17 00:18:49,credit_card,pending,"328 Meyer Parkway
+Port Rhondaborough, VA 92570","116 Sanford Drive Suite 836
+East Andrew, UT 43877"
+T000442,O000442,316,P000399,1,942.54,1885.08,0.06,0.1,2023-07-05,2023-07-05 00:41:25,paypal,pending,"4287 Wood Shoal
+Lake Kellyport, WY 39964","273 Christina Rapids Suite 513
+Smallmouth, WA 59697"
+T000443,O000443,158,P000324,2,700.6,700.6,0.26,0.17,2023-03-25,2023-03-25 16:11:14,paypal,completed,"9271 Perez Mills Apt. 760
+Bowenville, MI 20722","047 Peter Pass Suite 256
+East Julie, IL 95858"
+T000444,O000444,328,P000269,4,836.75,1673.5,0.25,0.09,2023-12-03,2023-12-03 12:33:18,credit_card,completed,"805 Richard Shore Apt. 482
+Markchester, NE 85511","57613 Donna Garden
+North Coleborough, TX 69575"
+T000445,O000445,11,P000387,4,944.6,2833.8,0.29,0.14,2023-04-08,2023-04-08 13:54:27,bank_transfer,pending,"244 Holt Lock Apt. 741
+East Jasonhaven, KS 14073","61602 Clifford Parks Suite 356
+Port Ashley, HI 41732"
+T000446,O000446,300,P000093,4,102.05,408.2,0.08,0.14,2023-01-24,2023-01-24 13:26:07,paypal,completed,"4274 Hoffman Prairie Apt. 291
+Michaelville, VI 75277","14292 Smith Course
+Lake Haleyberg, LA 80761"
+T000447,O000447,258,P000006,2,766.48,3832.4,0.18,0.19,2023-03-09,2023-03-09 11:19:18,credit_card,cancelled,"886 Smith Walk Suite 991
+Joelborough, FM 05926","4206 Kevin Views Apt. 837
+Lake Courtneyside, NC 97505"
+T000448,O000448,262,P000299,3,417.95,2089.75,0.11,0.13,2023-09-15,2023-09-15 04:18:04,bank_transfer,completed,"6946 Richardson Crossroad Suite 542
+Chasemouth, NM 74570","6953 Alyssa Junctions
+Lake Dana, MD 70653"
+T000449,O000449,340,P000079,4,259.6,778.8,0.21,0.17,2023-04-04,2023-04-04 07:27:42,credit_card,pending,"092 Villegas Underpass Suite 878
+Skinnerfurt, SD 21977","95946 Jennifer Mission
+Joannabury, AS 07350"
+T000450,O000450,369,P000130,4,204.25,1021.25,0.19,0.15,2023-05-20,2023-05-20 19:49:21,credit_card,pending,"90806 Johnson Lane
+Georgeberg, WA 16658","48609 Timothy Throughway Suite 269
+Murphychester, NJ 91989"
+T000451,O000451,4,P000365,4,592.35,2961.75,0.15,0.05,2023-05-14,2023-05-14 23:56:10,credit_card,pending,"34526 Potter Gardens Suite 128
+Kaitlynchester, NE 53128","33981 Patrick Walk Apt. 876
+Hillmouth, ME 57880"
+T000452,O000452,337,P000023,4,904.93,3619.72,0.27,0.09,2023-05-30,2023-05-30 04:47:26,bank_transfer,cancelled,"4115 Michael Summit
+Port Melissa, FL 86810","689 Destiny Flat
+Scottland, CO 92083"
+T000453,O000453,167,P000465,2,423.17,2115.85,0.12,0.08,2023-08-30,2023-08-30 04:18:20,paypal,pending,"USNV Brown
+FPO AA 48599","PSC 1069, Box 0427
+APO AA 06289"
+T000454,O000454,400,P000207,2,271.51,271.51,0.29,0.15,2023-10-15,2023-10-15 06:46:48,bank_transfer,cancelled,"9994 Gaines Hollow Suite 471
+Orrhaven, NC 55741","66094 Austin Plain
+East Michellebury, RI 98820"
+T000455,O000455,214,P000299,3,417.95,417.95,0.09,0.1,2023-11-22,2023-11-22 01:43:07,credit_card,completed,"3919 Kelly Inlet
+Meganland, SD 05946","57871 Edwards Heights
+West Mark, NY 21597"
+T000456,O000456,484,P000094,4,800.16,800.16,0.01,0.08,2023-12-09,2023-12-09 07:41:10,paypal,completed,"87751 Fred Rest Suite 031
+Bobbyberg, AS 79657","5719 Matthew Bypass
+Michaelville, PR 07705"
+T000457,O000457,292,P000173,5,864.09,1728.18,0.07,0.14,2023-05-20,2023-05-20 06:39:43,paypal,pending,"03267 Roberts Via Apt. 236
+New Laurenchester, MT 24764","7336 Laura Stream Apt. 532
+Jenniferland, IA 13528"
+T000458,O000458,131,P000388,3,622.27,3111.35,0.28,0.15,2023-11-13,2023-11-13 15:44:59,bank_transfer,pending,"89428 Crystal Inlet
+Jennafurt, GU 88305","PSC 5493, Box 7645
+APO AP 99518"
+T000459,O000459,55,P000337,5,566.37,2265.48,0.02,0.13,2023-09-16,2023-09-16 20:42:07,bank_transfer,cancelled,"44530 Smith Extensions
+Owensstad, CO 48264","814 Lucas Place Apt. 867
+North Kaylaborough, MI 18666"
+T000460,O000460,492,P000447,4,19.88,19.88,0.01,0.1,2023-12-11,2023-12-11 12:30:56,bank_transfer,cancelled,"346 Hahn Square Apt. 309
+Lake Austin, NC 82828","837 Torres Harbors Suite 511
+Lake Sarah, VI 02816"
+T000461,O000461,105,P000007,2,895.45,2686.35,0.0,0.11,2023-07-31,2023-07-31 13:42:50,bank_transfer,cancelled,"764 Stephanie Spurs
+North Rita, AS 58905","9065 Jessica Landing Apt. 990
+East Jeffreyburgh, UT 56493"
+T000462,O000462,79,P000146,2,202.68,810.72,0.16,0.11,2023-11-20,2023-11-20 22:18:22,bank_transfer,cancelled,"27690 Jennifer Harbors
+South Melissamouth, WY 50483","002 Warren Squares Suite 816
+Sawyerburgh, FL 18339"
+T000463,O000463,188,P000007,1,895.45,3581.8,0.1,0.14,2023-09-17,2023-09-17 20:25:03,paypal,pending,"2546 Bryce Walks Apt. 881
+Willisview, CO 44821","PSC 2756, Box 3766
+APO AE 53644"
+T000464,O000464,482,P000004,2,247.05,494.1,0.02,0.12,2023-09-10,2023-09-10 16:57:10,paypal,pending,"90834 Stacey Camp
+Joycetown, FL 87286","092 Horne Mews
+West Kaylabury, AK 66823"
+T000465,O000465,77,P000392,5,118.95,118.95,0.25,0.12,2023-07-03,2023-07-03 23:26:52,paypal,completed,"3738 Zachary Fields Apt. 440
+South Christina, MH 46240","3558 Daniel Trail Apt. 507
+Edwardhaven, MI 81495"
+T000466,O000466,212,P000462,2,418.22,1254.66,0.11,0.09,2023-08-17,2023-08-17 21:52:30,paypal,pending,"19965 Maurice Pines Apt. 696
+South Peter, DE 28443","73333 Pierce Falls Apt. 053
+Grantview, GA 53032"
+T000467,O000467,71,P000099,2,971.53,971.53,0.23,0.07,2023-01-05,2023-01-05 22:46:01,bank_transfer,completed,"1451 Travis Meadows Apt. 294
+Jamestown, MD 02637","1458 Oliver Ways Apt. 692
+Rojasfort, AS 36316"
+T000468,O000468,60,P000226,2,46.57,186.28,0.18,0.14,2023-11-27,2023-11-27 15:10:29,credit_card,pending,"1373 Ronald Extension Suite 744
+New Anthony, NM 47735","2622 Matthew Views
+Ryanborough, MI 28761"
+T000469,O000469,228,P000104,5,176.61,883.05,0.08,0.13,2023-05-06,2023-05-06 09:28:52,credit_card,cancelled,"063 Powell Stream
+New Anthonyville, CO 84686","3240 Gomez Valley Apt. 252
+South Tiffany, PR 36811"
+T000470,O000470,159,P000249,1,818.46,3273.84,0.16,0.12,2023-03-19,2023-03-19 20:50:14,bank_transfer,cancelled,"USNS Edwards
+FPO AA 92432","2852 Adkins Station Apt. 986
+Lake Jamestown, FM 67077"
+T000471,O000471,33,P000088,3,415.15,1245.45,0.1,0.18,2023-12-16,2023-12-16 21:40:29,paypal,cancelled,"11689 James Heights
+West Derrickborough, MI 65661","733 Hutchinson Street
+North Erin, MI 21338"
+T000472,O000472,247,P000172,1,855.23,3420.92,0.27,0.05,2023-10-21,2023-10-21 04:59:45,credit_card,pending,"628 Brown Forks
+New David, DE 26528","4294 Diana Mountains Apt. 919
+Lake Karenshire, IL 53809"
+T000473,O000473,135,P000112,2,477.89,955.78,0.29,0.19,2023-08-07,2023-08-07 18:48:08,bank_transfer,pending,"166 Kevin Rapid Apt. 429
+East Victoriaside, NE 29736","69456 Lester Radial Apt. 386
+Hillview, PR 41069"
+T000474,O000474,128,P000103,4,533.31,1599.93,0.13,0.11,2023-07-15,2023-07-15 02:40:41,paypal,cancelled,"413 Berry Drive
+Jenniferhaven, NH 70979","083 Michelle Stravenue Apt. 001
+South Katrinaside, MD 52150"
+T000475,O000475,228,P000349,2,69.28,69.28,0.26,0.16,2023-02-18,2023-02-18 13:08:50,credit_card,cancelled,"1650 Mosley Forges Apt. 312
+Brownton, PA 81395","9016 Monica Summit
+Port Brandon, MP 48440"
+T000476,O000476,362,P000295,4,401.65,401.65,0.15,0.05,2023-08-23,2023-08-23 10:20:50,credit_card,cancelled,"5231 Clark Trace Apt. 322
+Larsonborough, DE 71007","45177 Smith Prairie Apt. 124
+Andreaside, MO 73343"
+T000477,O000477,251,P000293,2,574.73,2298.92,0.21,0.06,2023-11-02,2023-11-02 05:15:35,bank_transfer,completed,"7247 Parrish Light Apt. 413
+West Laurenshire, HI 25780","6527 Davis Junctions Suite 598
+Jonathanton, UT 83612"
+T000478,O000478,230,P000402,3,491.39,2456.95,0.04,0.13,2023-01-30,2023-01-30 11:48:34,paypal,completed,"20615 Hancock Courts
+West Billy, GU 28522","841 Tara Branch Apt. 541
+North Lisafurt, ID 53378"
+T000479,O000479,153,P000254,5,877.48,877.48,0.2,0.13,2023-05-21,2023-05-21 11:23:31,bank_transfer,cancelled,"0875 Hale Unions
+South Raven, TN 30736","76749 Phillips Manor Apt. 540
+Port Angelica, NH 84811"
+T000480,O000480,167,P000410,5,961.45,1922.9,0.14,0.18,2023-07-06,2023-07-06 19:14:37,paypal,completed,"69654 Schneider Walks
+South Jeffreyview, NY 57847","4268 Martinez Gateway
+Harperville, SC 53693"
+T000481,O000481,152,P000254,5,877.48,1754.96,0.01,0.11,2023-12-05,2023-12-05 02:43:34,bank_transfer,completed,"1154 Kent Court Suite 771
+New Dana, AS 83483","4864 Hernandez Radial
+Karenstad, IN 72827"
+T000482,O000482,115,P000140,1,874.16,3496.64,0.05,0.14,2023-10-05,2023-10-05 06:32:18,credit_card,completed,"276 Kyle Neck Apt. 471
+West Sarabury, CT 35786","340 Barr Village
+Michaelfort, MO 16752"
+T000483,O000483,374,P000165,1,778.27,2334.81,0.01,0.1,2023-04-29,2023-04-29 00:58:33,bank_transfer,completed,"60516 Robert Extensions
+Charlenechester, DE 29040","79803 Patel Curve Apt. 580
+Port Stephenburgh, RI 97960"
+T000484,O000484,46,P000406,1,957.02,2871.06,0.27,0.14,2023-01-11,2023-01-11 23:47:51,credit_card,pending,"86890 James Pass Suite 242
+Robertsonmouth, IA 01780","174 Bryan Squares
+Jenniferbury, WA 18448"
+T000485,O000485,294,P000045,4,810.32,810.32,0.21,0.11,2023-09-30,2023-09-30 03:57:24,paypal,pending,"9939 Lauren Drives Suite 842
+North Warrentown, TX 39748","53224 Knight Avenue Apt. 032
+Lauraport, WA 66344"
+T000486,O000486,459,P000207,5,271.51,814.53,0.19,0.08,2023-05-20,2023-05-20 17:31:05,bank_transfer,completed,"69894 Joseph Gateway Apt. 346
+North Diamondland, WA 98740","63360 Griffin Orchard
+New Matthewville, GA 87252"
+T000487,O000487,49,P000077,2,216.49,865.96,0.23,0.07,2023-01-03,2023-01-03 15:56:47,credit_card,pending,"8555 Lewis Extension
+West Leonardport, FL 09059","163 Matthew Underpass
+Port Natalie, AS 91610"
+T000488,O000488,94,P000102,4,164.47,493.41,0.2,0.11,2023-01-08,2023-01-08 09:32:59,bank_transfer,cancelled,"18734 Douglas Mission Suite 480
+Perryton, VA 96971","741 Tammy Squares
+Taylortown, DE 92034"
+T000489,O000489,478,P000318,3,181.72,908.6,0.25,0.09,2023-05-02,2023-05-02 19:11:13,credit_card,completed,"5494 Virginia Harbors
+Leblancland, PA 74498","Unit 9508 Box 1338
+DPO AE 83405"
+T000490,O000490,36,P000456,4,747.48,2242.44,0.06,0.08,2023-10-26,2023-10-26 17:23:15,bank_transfer,cancelled,"06399 Victoria Orchard
+Port Drewmouth, KY 47509","947 Darlene Estates Apt. 922
+Samanthatown, NE 47908"
+T000491,O000491,63,P000117,2,993.01,1986.02,0.0,0.1,2023-09-09,2023-09-09 14:54:30,paypal,cancelled,"258 Mason Summit
+North Amandastad, CT 01225","USNS Anderson
+FPO AE 53293"
+T000492,O000492,315,P000191,2,385.49,770.98,0.17,0.17,2023-07-02,2023-07-02 14:32:45,credit_card,pending,"0998 Jennifer Passage Suite 714
+South Cody, VA 94192","PSC 1687, Box 0891
+APO AA 02610"
+T000493,O000493,181,P000055,4,130.99,261.98,0.16,0.15,2023-07-26,2023-07-26 09:27:52,paypal,completed,"082 Michele Keys
+New Pamela, RI 29854","16787 Duarte Manors
+Jodiview, HI 86165"
+T000494,O000494,142,P000467,5,42.64,170.56,0.25,0.12,2023-08-12,2023-08-12 02:04:26,credit_card,completed,"31340 Christine Station Suite 441
+Elizabethhaven, SC 86881","86625 Mackenzie Forge
+Ruizshire, AZ 19510"
+T000495,O000495,38,P000381,4,707.47,1414.94,0.15,0.11,2023-03-31,2023-03-31 11:43:34,credit_card,pending,"323 Amy Trail Suite 716
+West Christopher, MO 51426","005 Johnston Dale
+West Katherinemouth, AL 11994"
+T000496,O000496,126,P000357,2,249.37,498.74,0.24,0.14,2023-02-06,2023-02-06 06:56:56,credit_card,cancelled,"391 Christopher Ports
+Sonyaport, ME 44169","909 Martinez Mountain
+South Stephaniefurt, LA 45916"
+T000497,O000497,226,P000364,2,844.47,2533.41,0.22,0.16,2023-11-27,2023-11-27 13:08:24,credit_card,cancelled,"7568 David Locks Suite 450
+Fowlerfurt, WA 53125","9194 Theresa Alley Apt. 858
+Port John, NH 67574"
+T000498,O000498,397,P000035,1,569.01,2845.05,0.29,0.12,2023-04-29,2023-04-29 20:48:54,bank_transfer,cancelled,"001 Jennifer Fields
+Jeffreyview, CT 63293","8974 Smith Parkways Suite 375
+West Ambertown, TX 63282"
+T000499,O000499,455,P000433,1,510.79,1532.37,0.17,0.13,2023-04-11,2023-04-11 11:01:37,credit_card,completed,"5985 Brenda Crossroad Apt. 754
+Teresabury, WI 35718","1476 Adams Spurs Suite 576
+New Peter, SC 20022"

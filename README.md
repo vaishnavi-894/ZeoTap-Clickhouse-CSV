@@ -1,54 +1,103 @@
-# Welcome to your Lovable project
+# ClickHouse Connector Flow
 
-## Project info
+A modern web application for interacting with ClickHouse databases, designed as part of a ZEOTAP internship assignment.
 
-**URL**: https://lovable.dev/projects/1a984e44-0533-4c6f-93a2-d569e382feaa
+## Project Overview
 
-## How can I edit this code?
+This application provides a user-friendly interface for ClickHouse database operations, enabling users to:
+- Connect to ClickHouse databases
+- Execute SQL queries
+- Visualize query results
+- Export data to CSV
+- Import data from CSV
 
-There are several ways of editing your application.
+## Architecture
 
-**Use Lovable**
+The project follows a clean architecture pattern with three main components:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1a984e44-0533-4c6f-93a2-d569e382feaa) and start prompting.
+1. **Frontend**: Modern React + TypeScript application with a clean, responsive UI
+2. **Backend**: REST API built with FastAPI for database operations
+3. **Database**: ClickHouse integration for efficient data storage and retrieval
 
-Changes made via Lovable will be committed automatically to this repo.
+## Features
 
-**Use your preferred IDE**
+- Database Connection Management
+- SQL Query Execution
+- Data Visualization
+- CSV Import/Export
+- Error Handling and User Feedback
+- Responsive Design
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Frontend
+- React 18
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- React Router
+- TanStack Query
 
-Follow these steps:
+### Backend
+- Python 3.10+
+- FastAPI
+- ClickHouse Python client
+- Pandas
+- NumPy
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Development Tools
+- Vite
+- ESLint
+- Prettier
+- Git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Prerequisites
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+- Node.js 18+
+- Python 3.10+
+- ClickHouse Server
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/clickhouse-connector-flow.git
+cd clickhouse-connector-flow
 ```
 
-**Edit a file directly in GitHub**
+2. Install dependencies:
+```bash
+# Frontend
+npm install
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+# Backend
+pip install -r requirements.txt
+```
 
-**Use GitHub Codespaces**
+3. Start the servers:
+```bash
+# Frontend
+npm run dev
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Backend
+python server/main.py
+```
+
+## Project Structure
+
+```
+clickhouse-connector-flow/
+├── src/                # Frontend source code
+│   ├── components/     # React components
+│   ├── pages/         # Page components
+│   └── styles/        # Global styles
+├── server/            # Backend code
+│   ├── main.py       # FastAPI application
+│   └── routes/       # API routes
+└── public/           # Static assets
+```
 
 ## What technologies are used for this project?
 

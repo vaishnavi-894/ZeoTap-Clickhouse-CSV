@@ -42,80 +42,149 @@ export interface ProcessingResult {
 // Mock data for development
 const MOCK_TABLES: Table[] = [
   {
-    name: 'uk_price_paid',
+    name: 'customer_analytics',
     columns: [
-      { name: 'id', type: 'String' },
-      { name: 'price', type: 'UInt32' },
-      { name: 'date', type: 'Date' },
-      { name: 'postcode', type: 'String' },
-      { name: 'property_type', type: 'String' },
-      { name: 'old_new', type: 'String' },
-      { name: 'duration', type: 'String' },
-      { name: 'addr1', type: 'String' },
-      { name: 'addr2', type: 'String' },
-      { name: 'street', type: 'String' },
-      { name: 'locality', type: 'String' },
-      { name: 'town', type: 'String' },
-      { name: 'district', type: 'String' },
-      { name: 'county', type: 'String' },
+      { name: 'customer_id', type: 'UInt32' },
+      { name: 'first_name', type: 'String' },
+      { name: 'last_name', type: 'String' },
+      { name: 'email', type: 'String' },
+      { name: 'country', type: 'String' },
+      { name: 'signup_date', type: 'Date' },
+      { name: 'last_purchase_date', type: 'Date' },
+      { name: 'total_purchases', type: 'UInt32' },
+      { name: 'total_spend', type: 'Float64' },
+      { name: 'average_order_value', type: 'Float64' },
+      { name: 'customer_segment', type: 'String' },
+      { name: 'churn_risk', type: 'Float32' }
     ]
   },
   {
-    name: 'ontime',
+    name: 'website_analytics',
     columns: [
-      { name: 'Year', type: 'UInt16' },
-      { name: 'Quarter', type: 'UInt8' },
-      { name: 'Month', type: 'UInt8' },
-      { name: 'DayofMonth', type: 'UInt8' },
-      { name: 'DayOfWeek', type: 'UInt8' },
-      { name: 'FlightDate', type: 'Date' },
-      { name: 'UniqueCarrier', type: 'String' },
-      { name: 'AirlineID', type: 'UInt32' },
-      { name: 'Carrier', type: 'String' },
-      { name: 'TailNum', type: 'String' },
-      { name: 'FlightNum', type: 'String' },
-      { name: 'OriginAirportID', type: 'UInt32' },
-      { name: 'OriginAirportSeqID', type: 'UInt32' },
-      { name: 'OriginCityMarketID', type: 'UInt32' },
-      { name: 'Origin', type: 'String' },
-      { name: 'OriginCityName', type: 'String' },
-      { name: 'OriginState', type: 'String' },
-      { name: 'OriginStateFips', type: 'String' },
-      { name: 'OriginStateName', type: 'String' },
-      { name: 'OriginWac', type: 'UInt32' },
-      { name: 'DestAirportID', type: 'UInt32' },
-      { name: 'DestAirportSeqID', type: 'UInt32' },
-      { name: 'DestCityMarketID', type: 'UInt32' },
-      { name: 'Dest', type: 'String' },
-      { name: 'DestCityName', type: 'String' },
-      { name: 'DestState', type: 'String' },
-      { name: 'DestStateFips', type: 'String' },
-      { name: 'DestStateName', type: 'String' },
-      { name: 'DestWac', type: 'UInt32' },
-      { name: 'DepTime', type: 'String' },
-      { name: 'DepDelay', type: 'Int32' },
-      { name: 'DepDelayMinutes', type: 'UInt16' },
-      { name: 'ArrTime', type: 'String' },
-      { name: 'ArrDelay', type: 'Int32' },
-      { name: 'ArrDelayMinutes', type: 'UInt16' },
-      { name: 'Cancelled', type: 'UInt8' },
-      { name: 'Diverted', type: 'UInt8' },
-      { name: 'Distance', type: 'UInt16' },
+      { name: 'event_id', type: 'UUID' },
+      { name: 'user_id', type: 'String' },
+      { name: 'event_type', type: 'String' },
+      { name: 'event_timestamp', type: 'DateTime' },
+      { name: 'page_url', type: 'String' },
+      { name: 'session_id', type: 'String' },
+      { name: 'browser', type: 'String' },
+      { name: 'os', type: 'String' },
+      { name: 'device_type', type: 'String' },
+      { name: 'country', type: 'String' },
+      { name: 'city', type: 'String' },
+      { name: 'page_views', type: 'UInt32' },
+      { name: 'time_spent', type: 'Float32' },
+      { name: 'is_conversion', type: 'Boolean' }
+    ]
+  },
+  {
+    name: 'product_inventory',
+    columns: [
+      { name: 'product_id', type: 'String' },
+      { name: 'product_name', type: 'String' },
+      { name: 'category', type: 'String' },
+      { name: 'subcategory', type: 'String' },
+      { name: 'price', type: 'Float64' },
+      { name: 'stock_quantity', type: 'UInt32' },
+      { name: 'last_updated', type: 'DateTime' },
+      { name: 'supplier_id', type: 'String' },
+      { name: 'supplier_name', type: 'String' },
+      { name: 'lead_time', type: 'UInt8' },
+      { name: 'reorder_point', type: 'UInt32' },
+      { name: 'safety_stock', type: 'UInt32' }
+    ]
+  },
+  {
+    name: 'sales_transactions',
+    columns: [
+      { name: 'transaction_id', type: 'String' },
+      { name: 'order_id', type: 'String' },
+      { name: 'customer_id', type: 'UInt32' },
+      { name: 'product_id', type: 'String' },
+      { name: 'quantity', type: 'UInt32' },
+      { name: 'unit_price', type: 'Float64' },
+      { name: 'total_price', type: 'Float64' },
+      { name: 'discount', type: 'Float32' },
+      { name: 'tax', type: 'Float32' },
+      { name: 'transaction_date', type: 'Date' },
+      { name: 'transaction_time', type: 'DateTime' },
+      { name: 'payment_method', type: 'String' },
+      { name: 'status', type: 'String' },
+      { name: 'shipping_address', type: 'String' },
+      { name: 'billing_address', type: 'String' }
+    ]
+  },
+  {
+    name: 'marketing_campaigns',
+    columns: [
+      { name: 'campaign_id', type: 'String' },
+      { name: 'campaign_name', type: 'String' },
+      { name: 'start_date', type: 'Date' },
+      { name: 'end_date', type: 'Date' },
+      { name: 'budget', type: 'Float64' },
+      { name: 'channel', type: 'String' },
+      { name: 'target_audience', type: 'String' },
+      { name: 'creative_type', type: 'String' },
+      { name: 'status', type: 'String' },
+      { name: 'impressions', type: 'UInt64' },
+      { name: 'clicks', type: 'UInt64' },
+      { name: 'conversions', type: 'UInt64' },
+      { name: 'cost_per_click', type: 'Float64' },
+      { name: 'conversion_rate', type: 'Float32' }
+    ]
+  },
+  {
+    name: 'social_media_metrics',
+    columns: [
+      { name: 'post_id', type: 'String' },
+      { name: 'platform', type: 'String' },
+      { name: 'post_date', type: 'Date' },
+      { name: 'post_time', type: 'DateTime' },
+      { name: 'content_type', type: 'String' },
+      { name: 'engagement_type', type: 'String' },
+      { name: 'likes', type: 'UInt64' },
+      { name: 'comments', type: 'UInt64' },
+      { name: 'shares', type: 'UInt64' },
+      { name: 'reach', type: 'UInt64' },
+      { name: 'impressions', type: 'UInt64' },
+      { name: 'clicks', type: 'UInt64' },
+      { name: 'sentiment_score', type: 'Float32' },
+      { name: 'language', type: 'String' }
     ]
   }
 ];
 
 // Mock sample data
 const MOCK_DATA = {
-  'uk_price_paid': [
-    { id: 'A1B2C3', price: 250000, date: '2023-01-15', postcode: 'SW1A 1AA', property_type: 'F', old_new: 'N', duration: 'L', addr1: '123', addr2: '', street: 'High St', locality: 'Westminster', town: 'London', district: 'City of Westminster', county: 'Greater London' },
-    { id: 'D4E5F6', price: 175000, date: '2023-02-22', postcode: 'M1 1AE', property_type: 'T', old_new: 'O', duration: 'F', addr1: '45', addr2: '', street: 'Market St', locality: 'City Centre', town: 'Manchester', district: 'Manchester', county: 'Greater Manchester' },
-    { id: 'G7H8I9', price: 320000, date: '2023-03-05', postcode: 'B1 1BD', property_type: 'S', old_new: 'N', duration: 'L', addr1: '8', addr2: '', street: 'Corporation St', locality: 'City Centre', town: 'Birmingham', district: 'Birmingham', county: 'West Midlands' },
+  'customer_analytics': [
+    { customer_id: 1, first_name: 'John', last_name: 'Doe', email: 'john@example.com', country: 'USA', signup_date: '2023-01-15', last_purchase_date: '2023-04-20', total_purchases: 15, total_spend: 1250.50, average_order_value: 83.37, customer_segment: 'High Value', churn_risk: 0.15 },
+    { customer_id: 2, first_name: 'Jane', last_name: 'Smith', email: 'jane@example.com', country: 'UK', signup_date: '2023-02-22', last_purchase_date: '2023-04-18', total_purchases: 8, total_spend: 675.25, average_order_value: 84.41, customer_segment: 'Medium Value', churn_risk: 0.25 },
+    { customer_id: 3, first_name: 'Bob', last_name: 'Johnson', email: 'bob@example.com', country: 'Canada', signup_date: '2023-03-05', last_purchase_date: '2023-04-15', total_purchases: 5, total_spend: 350.75, average_order_value: 70.15, customer_segment: 'Low Value', churn_risk: 0.35 }
   ],
-  'ontime': [
-    { Year: 2008, Quarter: 1, Month: 1, DayofMonth: 3, DayOfWeek: 4, FlightDate: '2008-01-03', UniqueCarrier: 'AA', AirlineID: 19805, Carrier: 'AA', TailNum: 'N3ALAA', FlightNum: '1', OriginAirportID: 12478, OriginAirportSeqID: 1247802, OriginCityMarketID: 31703, Origin: 'JFK', OriginCityName: 'New York, NY', OriginState: 'NY', OriginStateFips: '36', OriginStateName: 'New York', OriginWac: 22, DestAirportID: 12892, DestAirportSeqID: 1289203, DestCityMarketID: 32575, Dest: 'LAX', DestCityName: 'Los Angeles, CA', DestState: 'CA', DestStateFips: '06', DestStateName: 'California', DestWac: 91, DepTime: '0900', DepDelay: 0, DepDelayMinutes: 0, ArrTime: '1224', ArrDelay: 14, ArrDelayMinutes: 14, Cancelled: 0, Diverted: 0, Distance: 2475 },
-    { Year: 2008, Quarter: 1, Month: 1, DayofMonth: 3, DayOfWeek: 4, FlightDate: '2008-01-03', UniqueCarrier: 'AA', AirlineID: 19805, Carrier: 'AA', TailNum: 'N4XDAA', FlightNum: '2', OriginAirportID: 12892, OriginAirportSeqID: 1289203, OriginCityMarketID: 32575, Origin: 'LAX', OriginCityName: 'Los Angeles, CA', OriginState: 'CA', OriginStateFips: '06', OriginStateName: 'California', OriginWac: 91, DestAirportID: 12478, DestAirportSeqID: 1247802, DestCityMarketID: 31703, Dest: 'JFK', DestCityName: 'New York, NY', DestState: 'NY', DestStateFips: '36', DestStateName: 'New York', DestWac: 22, DepTime: '1230', DepDelay: -5, DepDelayMinutes: 0, ArrTime: '2050', ArrDelay: -10, ArrDelayMinutes: 0, Cancelled: 0, Diverted: 0, Distance: 2475 },
-    { Year: 2008, Quarter: 1, Month: 1, DayofMonth: 3, DayOfWeek: 4, FlightDate: '2008-01-03', UniqueCarrier: 'AA', AirlineID: 19805, Carrier: 'AA', TailNum: 'N5DGAA', FlightNum: '3', OriginAirportID: 12892, OriginAirportSeqID: 1289203, OriginCityMarketID: 32575, Origin: 'LAX', OriginCityName: 'Los Angeles, CA', OriginState: 'CA', OriginStateFips: '06', OriginStateName: 'California', OriginWac: 91, DestAirportID: 14107, DestAirportSeqID: 1410702, DestCityMarketID: 34819, Dest: 'SFO', DestCityName: 'San Francisco, CA', DestState: 'CA', DestStateFips: '06', DestStateName: 'California', DestWac: 91, DepTime: '0800', DepDelay: 10, DepDelayMinutes: 10, ArrTime: '0930', ArrDelay: 5, ArrDelayMinutes: 5, Cancelled: 0, Diverted: 0, Distance: 337 },
+  'website_analytics': [
+    { event_id: '123e4567-e89b-12d3-a456-426614174000', user_id: 'user123', event_type: 'page_view', event_timestamp: '2023-04-20 10:00:00', page_url: '/products', session_id: 'session1', browser: 'Chrome', os: 'Windows', device_type: 'Desktop', country: 'USA', city: 'New York', page_views: 1, time_spent: 30.5, is_conversion: false },
+    { event_id: '123e4567-e89b-12d3-a456-426614174001', user_id: 'user456', event_type: 'click', event_timestamp: '2023-04-20 10:05:00', page_url: '/products', session_id: 'session2', browser: 'Safari', os: 'iOS', device_type: 'Mobile', country: 'UK', city: 'London', page_views: 1, time_spent: 15.2, is_conversion: true },
+    { event_id: '123e4567-e89b-12d3-a456-426614174002', user_id: 'user789', event_type: 'purchase', event_timestamp: '2023-04-20 10:10:00', page_url: '/checkout', session_id: 'session3', browser: 'Firefox', os: 'Linux', device_type: 'Desktop', country: 'Canada', city: 'Toronto', page_views: 1, time_spent: 45.8, is_conversion: true }
+  ],
+  'product_inventory': [
+    { product_id: 'P123', product_name: 'Premium Widget', category: 'Electronics', subcategory: 'Widgets', price: 99.99, stock_quantity: 50, last_updated: '2023-04-20 09:00:00', supplier_id: 'S123', supplier_name: 'Widget Supplier Inc', lead_time: 3, reorder_point: 20, safety_stock: 10 },
+    { product_id: 'P456', product_name: 'Basic Widget', category: 'Electronics', subcategory: 'Widgets', price: 49.99, stock_quantity: 100, last_updated: '2023-04-20 09:05:00', supplier_id: 'S456', supplier_name: 'Budget Widgets Ltd', lead_time: 5, reorder_point: 30, safety_stock: 15 },
+    { product_id: 'P789', product_name: 'Advanced Widget', category: 'Electronics', subcategory: 'Widgets', price: 149.99, stock_quantity: 30, last_updated: '2023-04-20 09:10:00', supplier_id: 'S789', supplier_name: 'Premium Widgets Corp', lead_time: 2, reorder_point: 15, safety_stock: 5 }
+  ],
+  'sales_transactions': [
+    { transaction_id: 'T123', order_id: 'O123', customer_id: 1, product_id: 'P123', quantity: 2, unit_price: 99.99, total_price: 199.98, discount: 10, tax: 17.99, transaction_date: '2023-04-20', transaction_time: '2023-04-20 10:00:00', payment_method: 'Credit Card', status: 'Completed', shipping_address: '123 Main St', billing_address: '123 Main St' },
+    { transaction_id: 'T456', order_id: 'O456', customer_id: 2, product_id: 'P456', quantity: 1, unit_price: 49.99, total_price: 49.99, discount: 0, tax: 4.50, transaction_date: '2023-04-20', transaction_time: '2023-04-20 10:05:00', payment_method: 'PayPal', status: 'Completed', shipping_address: '456 Oak Ave', billing_address: '456 Oak Ave' },
+    { transaction_id: 'T789', order_id: 'O789', customer_id: 3, product_id: 'P789', quantity: 3, unit_price: 149.99, total_price: 449.97, discount: 15, tax: 35.99, transaction_date: '2023-04-20', transaction_time: '2023-04-20 10:10:00', payment_method: 'Bank Transfer', status: 'Pending', shipping_address: '789 Pine St', billing_address: '789 Pine St' }
+  ],
+  'marketing_campaigns': [
+    { campaign_id: 'C123', campaign_name: 'Spring Sale 2023', start_date: '2023-03-01', end_date: '2023-04-30', budget: 10000, channel: 'Email', target_audience: 'Existing Customers', creative_type: 'HTML', status: 'Active', impressions: 50000, clicks: 5000, conversions: 500, cost_per_click: 0.50, conversion_rate: 0.10 },
+    { campaign_id: 'C456', campaign_name: 'New Product Launch', start_date: '2023-04-01', end_date: '2023-05-31', budget: 15000, channel: 'Social Media', target_audience: 'New Customers', creative_type: 'Video', status: 'Active', impressions: 75000, clicks: 7500, conversions: 750, cost_per_click: 0.75, conversion_rate: 0.10 },
+    { campaign_id: 'C789', campaign_name: 'Summer Clearance', start_date: '2023-05-01', end_date: '2023-06-30', budget: 20000, channel: 'Paid Search', target_audience: 'All Customers', creative_type: 'Text', status: 'Planned', impressions: 0, clicks: 0, conversions: 0, cost_per_click: 0, conversion_rate: 0 }
+  ],
+  'social_media_metrics': [
+    { post_id: 'P123', platform: 'Facebook', post_date: '2023-04-20', post_time: '2023-04-20 08:00:00', content_type: 'Image', engagement_type: 'Post', likes: 150, comments: 25, shares: 10, reach: 5000, impressions: 7500, clicks: 200, sentiment_score: 0.85, language: 'en' },
+    { post_id: 'P456', platform: 'Twitter', post_date: '2023-04-20', post_time: '2023-04-20 09:00:00', content_type: 'Text', engagement_type: 'Tweet', likes: 50, comments: 10, shares: 5, reach: 2500, impressions: 3500, clicks: 50, sentiment_score: 0.75, language: 'en' },
+    { post_id: 'P789', platform: 'Instagram', post_date: '2023-04-20', post_time: '2023-04-20 10:00:00', content_type: 'Video', engagement_type: 'Story', likes: 200, comments: 30, shares: 15, reach: 7500, impressions: 10000, clicks: 300, sentiment_score: 0.90, language: 'en' }
   ]
 };
 
