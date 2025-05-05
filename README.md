@@ -76,6 +76,8 @@ cd frontend
 npm run dev
 Frontend will be available at http://localhost:5173.
 
+JWT Token for Authentication: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZGVmYXVsdCIsImV4cCI6MTc0NjQ2NDY0OSwiaWF0IjoxNzQ2NDYxMDQ5fQ.anNKBQrnA8MOKkSAcZV_008WiZnw13J7zulXurPuGhE
+
 🧪 Using the Application
 📂 File Upload and Table Selection
 Navigate to the main page.
